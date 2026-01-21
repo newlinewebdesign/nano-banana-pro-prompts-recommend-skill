@@ -1,14 +1,39 @@
 # Nano Banana Pro Prompts Recommend Skill
 
-A Claude Code skill that recommends suitable prompts from 6000+ Nano Banana Pro image generation prompts based on user needs.
+[![6000+ Prompts](https://img.shields.io/badge/Prompts-6000%2B-brightgreen)](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
+[![Daily Updates](https://img.shields.io/badge/Updates-Twice%20Daily-blue)]()
+[![Multi-language](https://img.shields.io/badge/Language-Multi--lingual-orange)]()
 
-## Features
+> **Stop scrolling Twitter for image prompts!** Let Claude Code intelligently recommend from 6000+ curated image generation prompts based on your needs.
 
-- Search and recommend prompts from 6000+ curated image generation prompts
-- Organized by use case categories (Profile/Avatar, Social Media, Product Marketing, etc.)
-- Auto-generated references updated twice daily via GitHub Actions
-- Multi-language support (responds in user's input language)
-- Sample images included for each prompt
+![Demo](public/cover.png)
+
+## The Problem
+
+Every time you need to generate an image — article covers, video thumbnails, infographics — you spend ages searching for the right prompt. Scrolling through Twitter threads, bookmarking posts, copy-pasting... it's exhausting.
+
+## The Solution
+
+Just tell the AI what you want in one sentence:
+
+1. **Smart Search** — Searches through 6000+ prompts organized by use case
+2. **Visual Preview** — Every recommendation comes with sample images
+3. **Ready to Use** — Get the exact English prompt for Nano Banana Pro model
+
+### Example Conversations
+
+```
+"Find me a cartoon-style avatar prompt"
+"I need prompts for travel blog covers"
+"Help me create an infographic for data comparison"
+"Looking for product photography prompts with white background"
+```
+
+## Data Source
+
+- Prompts curated from viral Twitter/X posts by top AI artists
+- Updated automatically **twice daily** via GitHub Actions
+- Organized into 10+ use case categories (Avatar, Social Media, Product, etc.)
 
 ## Installation
 
@@ -18,60 +43,52 @@ A Claude Code skill that recommends suitable prompts from 6000+ Nano Banana Pro 
 npx skills i YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
 ```
 
-This will auto-detect all AI assistants on your machine (Claude Code, Cursor, Codex, Gemini CLI, Windsurf, etc.) and install the skill to all of them at once.
+Auto-detects all AI assistants (Claude Code, Cursor, Codex, Gemini CLI, Windsurf, etc.) and installs to all of them.
 
-### Alternative: openskills (with sync & update support)
+### Alternative: openskills
 
 ```bash
 # Install
 npx openskills install YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
 
-# Update to latest version
+# Update to latest
 npx openskills update nano-banana-pro-prompts-recommend-skill
 ```
 
-### Alternative: Let Claude Code install it for you
-
-Just tell Claude Code:
+### Alternative: Ask Claude Code
 
 > "Help me install YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
 
-It will use `gh api` to locate and install the skill automatically.
+## Categories
 
-## Usage
-
-Once installed, simply ask Claude Code for image generation prompts:
-
-```
-"Help me find a prompt for creating a professional avatar"
-"I need prompts for social media posts about food"
-"Find me infographic-style prompts for data visualization"
-```
-
-The skill will:
-1. Identify the relevant category based on your request
-2. Search for matching prompts
-3. Present recommendations with sample images
-4. Provide the English prompt for use with Nano Banana Pro model
+| Category | Prompts | Use Cases |
+|----------|---------|-----------|
+| Profile / Avatar | 700+ | Headshots, profile pictures, character portraits |
+| Social Media Post | 3800+ | Instagram, Twitter, Facebook, viral content |
+| Product Marketing | 1900+ | Ads, campaigns, promotional materials |
+| Infographic | 350+ | Data visualization, educational content |
+| Poster / Flyer | 300+ | Events, announcements, banners |
+| E-commerce | 200+ | Product photos, listings, white background |
+| Game Asset | 200+ | Sprites, characters, items |
+| YouTube Thumbnail | 100+ | Click-worthy video covers |
+| Comic / Storyboard | 200+ | Manga, panels, sequential art |
+| App / Web Design | 100+ | UI mockups, interface designs |
 
 ## Project Structure
 
 ```
 nano-banana-pro-prompts-recommend-skill/
 ├── SKILL.md                 # Skill configuration and instructions
-├── README.md                # This file
-├── package.json             # Node.js dependencies
-├── tsconfig.json            # TypeScript configuration
-├── .gitignore
+├── README.md
+├── package.json
 ├── scripts/
-│   └── generate-references.ts   # Script to fetch and generate reference files
-├── references/              # Auto-generated prompt data (JSON files)
-│   ├── featured.json        # Featured prompts (can be fully loaded)
-│   ├── {category}.json      # Category files (auto-generated, see SKILL.md for list)
+│   └── generate-references.ts   # Fetches data from CMS
+├── references/              # Auto-generated JSON files
+│   ├── featured.json        # Featured prompts (full load allowed)
+│   ├── {category}.json      # Category files (search only)
 │   └── others.json          # Uncategorized prompts
-└── .github/
-    └── workflows/
-        └── generate-references.yml  # Scheduled generation workflow
+└── .github/workflows/
+    └── generate-references.yml  # Scheduled updates
 ```
 
 ## Development
@@ -84,63 +101,40 @@ nano-banana-pro-prompts-recommend-skill/
 ### Setup
 
 ```bash
-# Install dependencies
 pnpm install
 
-# Create .env file with CMS credentials
-cat > .env << EOF
-CMS_HOST=your_cms_host
-CMS_API_KEY=your_api_key
-EOF
+# Create .env with CMS credentials
+echo "CMS_HOST=your_host" >> .env
+echo "CMS_API_KEY=your_key" >> .env
 
-# Generate references locally
+# Generate references
 pnpm run generate
 ```
 
-### GitHub Actions Setup
+### GitHub Actions
 
-For automated daily updates, configure these repository secrets:
+Configure repository secrets:
 
 | Secret | Description |
 |--------|-------------|
-| `CMS_HOST` | PayloadCMS API host URL |
+| `CMS_HOST` | PayloadCMS API host |
 | `CMS_API_KEY` | PayloadCMS API key |
 
-The workflow runs automatically at:
-- 00:00 UTC
-- 12:00 UTC
-
-You can also trigger it manually from the Actions tab.
+Runs at 00:00 and 12:00 UTC daily.
 
 ## Architecture
 
-### Token Optimization
+Following [Claude Code skill best practices](https://github.com/anthropics/skills):
 
-Following Claude Code skill best practices:
-
-1. **Progressive Disclosure**: Only `featured.json` (~10 prompts) can be fully loaded
-2. **Search-First**: All category files must be searched with Grep, never fully loaded
-3. **Signal Mapping**: SKILL.md contains keyword-to-category mapping for efficient routing
-
-### Prompt Data Structure
-
-Each prompt contains:
-
-```json
-{
-  "content": "English prompt text for image generation",
-  "title": "Prompt title",
-  "description": "What this prompt creates",
-  "sourceMedia": ["sample_image_url_1", "sample_image_url_2"],
-  "needReferenceImages": false
-}
-```
+- **Progressive Disclosure** — Only `featured.json` fully loaded; others searched via Grep
+- **Signal Mapping** — Keyword-to-category routing for efficient search
+- **Token Optimization** — Never loads full category files into context
 
 ## Related Links
 
 - [skills CLI](https://www.npmjs.com/package/skills) - The "npm" of AI skills by Vercel
-- [openskills](https://github.com/nicepkg/openskills) - Universal skills loader with sync & update
-- [anthropics/skills](https://github.com/anthropics/skills) - Official Anthropic skills repository
+- [openskills](https://github.com/nicepkg/openskills) - Universal skills loader
+- [anthropics/skills](https://github.com/anthropics/skills) - Official Anthropic skills
 
 ## License
 
