@@ -61,6 +61,34 @@ npx openskills update nano-banana-pro-prompts-recommend-skill
 
 > "Help me install YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
 
+### Alternative: Claude Code Plugin Marketplace
+
+```bash
+/plugin marketplace add YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
+```
+
+Then enable auto-update in `/plugin` settings for automatic updates.
+
+## Update
+
+### Using skills CLI
+
+```bash
+npx skills i YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
+```
+
+Re-running the install command pulls the latest version from GitHub. (`skills update` is planned but not yet available.)
+
+### Using openskills
+
+```bash
+npx openskills update nano-banana-pro-prompts-recommend-skill
+```
+
+### Using Claude Code Plugin Marketplace
+
+If installed via Plugin Marketplace with auto-update enabled, updates happen automatically.
+
 ## Categories
 
 | Category | Prompts | Use Cases |
