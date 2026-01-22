@@ -1,5 +1,38 @@
 [
   {
+    "content": "A photograph of a {argument name=\"product\" default=\"high-quality coffee bean\"} placed on a {argument name=\"scene\" default=\"rustic wooden table, next to a steaming cup of coffee hit by the morning sun\"}. The style should be {argument name=\"style\" default=\"minimalist, warm tones, with depth\"}. The focus should be on the texture and shine of the product. The background should be slightly blurred (bokeh). 8K, cinematic lighting, professional studio shot.",
+    "title": "Prompt for premium visuals using Nano Banana Pro",
+    "description": "This tweet shares a prompt designed to generate premium visuals using the Nano Banana Pro model, encouraging users to copy and adapt the scene description for their own company's marketing needs, saving money on photoshoots.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063250847_ge9oof_G_M3vpxXYBYc6r2.jpg",
+      "https://cms-assets.youmind.com/media/1769063250800_xr8ink_G_M3u9BXYAYceZJ.jpg",
+      "https://cms-assets.youmind.com/media/1769063251181_rbpmad_G_M3uR_XYA00B4c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-realistic premium product photography of a sleek white aluminum soda can labeled “{argument name=\"soda flavor\" default=\"DOC Soda Strawberry\"},” floating diagonally across the frame at a dynamic tilted angle, surrounded by fresh whole strawberries and crystal-clear ice cubes suspended in mid-air. Vibrant translucent red strawberry soda liquid streams and splashes diagonally behind and around the can, forming elegant flowing ribbons with glossy highlights and scattered droplets frozen in motion. The strawberries appear ripe and saturated red with visible seeds and green leafy tops, while the ice cubes are highly transparent with sharp edges, internal reflections, and realistic refraction. The can surface is smooth matte aluminum with subtle metallic sheen, crisp typography, and clean graphic design. Shot in a controlled studio environment with a seamless soft red-to-pink gradient background and matching color palette, emphasizing freshness and flavor. Lighting is high-end commercial studio lighting with strong key light, soft fill, and rim highlights, producing sharp reflections on ice and liquid, soft shadows, and high contrast clarity.\n\nCamera angle is slightly low and diagonal, medium close-up framing, shallow depth of field with razor-sharp focus on the can and foreground elements. Mood is energetic, refreshing, modern, and premium, hyper-photorealistic, cinematic advertising style, ultra-detailed, 8K, high-speed flash capture, luxury beverage brand.",
+    "title": "Hyper-photorealistic soda can product advertisement prompt",
+    "description": "A prompt for generating an ultra-realistic, high-end commercial product photograph of a soda can. It details dynamic composition, suspended elements (strawberries and ice), streaming liquid ribbons, specific lighting (high-end studio, strong key light, rim highlights), and a cinematic advertising style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063173941_2b0dwt_G_MhaaibYAAhu6g.jpg",
+      "https://cms-assets.youmind.com/media/1769063173878_hnptez_G_MhaWhWMAA_0hd.jpg",
+      "https://cms-assets.youmind.com/media/1769063173962_n9m87m_G_MhaU2bMAAd0tp.jpg",
+      "https://cms-assets.youmind.com/media/1769063175383_e0gxqr_G_MhaWkXwAAGdmk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "[AI Instruction: Image → Bottled Beverage Conversion]\n\nAnalyze [Input Image].\n\nExtract: Read [Main Motif], [Atmosphere], and [Color Palette].\nDrink Selection: Freely decide the drink based on the image's color and atmosphere (e.g., {argument name=\"Type of drink\" default=\"fruit water, carbonated, tea, lactic acid beverage, energy drink, smoothie\"}).\nLabel Design: Use the motif for the label illustration or logo. Colors should be reflected in the liquid color and the label.\nText: If there is text in the image, utilize it as the product name or flavor name.\n[Main Motif]\nA new product plastic bottle that catches the eye in the convenience store beverage aisle. The design should look as if the world view of [Input Image] has been transformed into a drink. [Detected Motif] decorates the label, and the liquid color matches the theme color. The bottle shape is also free (slim, round, can type, etc.).\n\n[Atmosphere]\nProduct advertisement photo taken in a professional studio. The bottle has condensation, giving the texture of being cold. Fruits or ingredients may be scattered in the background. 8k, shallow depth of field at f/1.8, product photography lighting. Photorealistic.",
+    "title": "Image-to-Beverage Mockup Conversion",
+    "description": "This is a structured prompt designed to convert an input image (like an icon or logo) into a photorealistic product advertisement for a bottled drink. It instructs the AI to analyze the input image for its motif, atmosphere, and color palette, then design a corresponding beverage (e.g., fruit water, soda) and label, emphasizing professional studio photography, shallow depth of field, and 8k photorealism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063243187_gq8fht_G_LXE20bcAAUq5q.jpg",
+      "https://cms-assets.youmind.com/media/1769063243318_sfqi4b_G_LW9LPaUAA0Kx2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Minimalist advertising still life featuring an oversized amber glass supplement bottle tipped on its side, open black cap placed nearby. The bottle label reads “Use for Charging” in clean modern typography. From the bottle opening, several small white pillows spill out onto a smooth matte blue surface, arranged organically as if poured.\n\nThe pillows are soft, rectangular, quilted, and plush, resembling miniature ergonomic bed pillows. Strong visual contrast between the dark amber glass, crisp white pillows, and muted blue background.\n\nComposition: top-down / three-quarter angle product shot, bottle positioned in the upper left, pillows scattered diagonally across the frame toward the lower right. Clear negative space at the bottom for branding text \"PILLow\".\n\nLighting: studio lighting with soft directional shadows, high clarity, subtle reflections on glass, controlled highlights.\nStyle: modern commercial product photography, surreal conceptual advertising aesthetic.\nColor palette: deep blue background, warm amber glass, white textiles, black accents.\nMood: calm, clever, restful, contemporary.\nQuality cues: ultra-sharp focus, high resolution, professional advertising campaign look.\n\nOptional Negative Prompt\n\ncluttered scene, harsh lighting, plastic texture, low contrast, messy shadows, distorted text, unrealistic materials",
     "title": "Surreal Conceptual Product Ad for 'PILLow' Sleeping Pill",
     "description": "A prompt for generating a minimalist, conceptual advertising still life for a fictional sleeping pill called 'PILLow'. It features an oversized amber glass bottle spilling miniature, plush, quilted pillows onto a matte blue surface, emphasizing surrealism, clean commercial lighting, and clear negative space for branding.",

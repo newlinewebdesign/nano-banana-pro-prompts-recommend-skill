@@ -12,11 +12,142 @@
     "needReferenceImages": true
   },
   {
-    "content": "I want to create an image based on the proposition: 'Please make an image of how I have treated you so far.'\nI would like to request a prompt for the Nano Banana Pro image generation AI. Please explicitly indicate when using Japanese in the prompt.",
-    "title": "Japanese Prompt for Image Generation Request",
-    "description": "A meta-prompt written in Japanese, instructing ChatGPT-pro to create a detailed image generation prompt for Nano Banana Pro based on the philosophical theme: 'Please make an image of how I have treated you so far.'",
+    "content": "Draw a picture of a singular man who matches the description \"{argument name=\"character blend\" default=\"Patrick Bateman meets Sparkle Beach Ken\"}\"",
+    "title": "Patrick Bateman Meets Sparkle Beach Ken Prompt",
+    "description": "A simple, humorous prompt requesting an image of a singular man who visually embodies a blend of the fictional characters 'Patrick Bateman' (American Psycho) and 'Sparkle Beach Ken' (Barbie doll).",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1768977325739_to5rbl_G_Kj3EYaoAI3Rai.jpg"
+      "https://cms-assets.youmind.com/media/1769063216862_k5bsxz_G_NtxMqXMAAvOd0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A tiny stone-carved statue of {argument name=\"name\" default=\"[NAME]\"}, with chisel marks and uneven surfaces, sitting on a sculptor’s workbench. Stone dust, small chisels, and directional warm light emphasizing texture and form. Cinematic realism. 1080×1080.",
+    "title": "Stone-carved statue on a sculptor's workbench prompt",
+    "description": "A prompt for generating a cinematic, highly textured image of a tiny stone-carved statue. It emphasizes realism, visible chisel marks, and warm directional lighting to highlight the texture and form, set on a sculptor's workbench surrounded by tools and stone dust.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063179039_1wrbf4_G_NQWYgaIAAC5Z5.jpg",
+      "https://cms-assets.youmind.com/media/1769063179020_r9n1t9_G_NQWZfaIAAnvB5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Have a prompt generated, and Nano Banana generates the image",
+    "title": "Image Generation for People Who Can't Draw",
+    "description": "A user who struggles with drawing uses a prompt generator, and then Nano Banana generates the image based on that prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063247080_b7r7zr_G_L27LuXsAAwnAx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "This is a drawing test of a magic circle.\n\nI wanted it to be stretched a little more like a {argument name=\"shape\" default=\"dome\"}, and I wanted the colors to be unified for each {argument name=\"attribute\" default=\"blocking attribute\"}, but it seems quite difficult to convey the nuances when it comes to multiple barriers.",
+    "title": "Magic Barrier Technique Drawing Test",
+    "description": "A prompt test for drawing a complex, multi-layered magical barrier (Kekkai Jutsu). The user wanted a more dome-like structure and color consistency based on attribute, indicating the prompt was focused on detailed magical effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063237198_2u170x_G_LtqgjWkAAhtNY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Illustrate {argument name=\"subject\" default=\"[SUBJECT]\"} in a minimal clay-style 3D look, with soft rounded forms, matte textures, and pastel tones. Keep the composition simple and playful, avoiding realistic detailing. The result should feel warm, modern, and visually soft.",
+    "title": "Clay-Style Soft Minimal 3D Illustration Template",
+    "description": "A flexible template prompt for generating minimal 3D illustrations in a clay-style aesthetic. It specifies soft rounded forms, matte textures, and pastel tones, instructing the model to keep the composition simple and playful while avoiding realistic detailing. The user must replace [SUBJECT] with their desired object or scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063165477_uslsgb_G_LpCaBa4AA2YgX.jpg",
+      "https://cms-assets.youmind.com/media/1769063165456_tuql3c_G_LpCg4bkAExZE4.jpg",
+      "https://cms-assets.youmind.com/media/1769063165473_vzrfi6_G_LpCc8a0AACEam.jpg",
+      "https://cms-assets.youmind.com/media/1769063166022_xnqdzr_G_LpCmZa0AAHJDp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "1. Copy and paste the prompt \n2. Change the text on the clothes Done!",
+    "title": "T-Shirt Text Customization Prompt",
+    "description": "A simple instruction for Nano Banana Pro users to copy a prompt and then change the text displayed on the clothing in the resulting image, suggesting that the prompt itself is likely an image-to-image or character-fixed prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063244771_7q64we_G_LYtFBbkAAepAr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Please create an image of a crystal music stand. Inside, delicate veins are carved with sophisticated technique, reflecting light like jewels. It is placed by the water's edge, creating a mystical scene.",
+    "title": "Mystical Crystal Music Stand Image Prompt",
+    "description": "A detailed image generation prompt for Nano Banana Pro, requesting a mystical scene featuring a crystal music stand. The stand contains delicate, vein-like structures that reflect light like jewels, placed by the water's edge to create a mysterious atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063234082_mw9o8q_G_LYG2WW0AACIqe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A surreal minimalist conceptual artwork, a white light bulb with a large transparent glass sphere, glowing softly from inside with warm golden light at the bottom forming a gentle filament-like illumination. A small, delicate pure white bird (white dove or small white sparrow) with subtle feather details perches calmly on the brightest inner glowing ring at the top of the filament inside the bulb. The light bulb is fused/merged seamlessly onto the upper torso of an elegant faceless white mannequin or abstract female figure dressed in a smooth minimalist white suit jacket with a high rolled white collar/stand collar. The figure is shown only from neck to waist in profile view, standing upright, clean elegant posture. The entire sculpture-like figure is pure white/ivory/off-white with soft matte ceramic or plaster texture. Very soft neutral gray studio background, subtle shadows, high-end surreal photography style, cinematic lighting, dreamlike peaceful atmosphere, conceptual art, extremely high detail, 8k resolution",
+    "title": "Surreal Conceptual Art Prompt: Light Bulb Mannequin",
+    "description": "A detailed prompt for generating a surreal, minimalist conceptual artwork featuring a white light bulb fused onto the upper torso of an elegant, faceless white mannequin. The light bulb contains a small, delicate white bird, emphasizing high detail, cinematic lighting, and a peaceful, dreamlike atmosphere in 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063195322_vbevvf_G_KsWSEaoAIElZg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "I want to create an image based on the proposition: \"Please create an image of how I have treated you so far.\"\nI would like to request the image generation AI (Nano Banana Pro) to create this image, so please provide the prompt.\nWhen including Japanese, please explicitly state it in the prompt.",
+    "title": "ChatGPT Prompt for Nano Banana Pro Image Generation",
+    "description": "A user asked ChatGPT Pro to create a prompt for Nano Banana Pro based on the philosophical statement: 'Please create an image of how I have treated you so far.'",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063239384_dj08m7_G_Kj3EYaoAI3Rai.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "If it's 'Good morning' it appears, but 'After this' doesn't come out properly.",
+    "title": "Japanese Text Generation Comparison (Oha-you)",
+    "description": "A comparison of Japanese text generation between Nijijourney and Nano Banana, noting that while simple greetings like 'おはよう' (Good morning) work, more complex phrases do not, suggesting a workflow where Nano Banana is used to correct or generate text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063235365_yjh5ze_G_KDGeOXUAA7w1s.jpg",
+      "https://cms-assets.youmind.com/media/1769063235498_iv9vvm_G_KDGXraoAAEYA8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Structure the prompt to change it as desired",
+    "title": "Structured Prompt for AI Art Arrangement",
+    "description": "A user successfully arranged an image by structuring the prompt, demonstrating the potential for precise control over the generated AI art using NanoBananaPro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063245844_5xxatd_G_KAnnRb0AANF6_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A guidebook, money, and a credit card, huh?",
+    "title": "Japanese Text Generation Test Prompt",
+    "description": "This prompt is a simple test to see how well Nano Banana Pro can handle generating images that include specific Japanese text, in this case, a list of travel items.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063234088_bcm643_G_J1FhuXgAArTMv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A surreal minimalist conceptual artwork, a white light bulb with a large transparent glass sphere, glowing softly from inside with warm golden light at the bottom forming a gentle filament-like illumination. A small, delicate pure white bird ({argument name=\"bird type\" default=\"white dove or small white sparrow\"}) with subtle feather details perches calmly on the brightest inner glowing ring at the top of the filament inside the bulb. The light bulb is fused/merged seamlessly onto the upper torso of an elegant faceless white mannequin or abstract female figure dressed in a smooth minimalist white suit jacket with a high rolled white collar/stand collar. The figure is shown only from neck to waist in profile view, standing upright, clean elegant posture. The entire sculpture-like figure is pure white/ivory/off-white with soft matte ceramic or plaster texture. Very soft neutral gray studio background, subtle shadows, high-end surreal photography style, cinematic lighting, dreamlike peaceful atmosphere, conceptual art, extremely high detail, 8k resolution",
+    "title": "Surreal Minimalist Conceptual Artwork Prompt",
+    "description": "A detailed prompt for generating a surreal, minimalist conceptual artwork featuring a white light bulb merged onto the upper torso of a faceless white mannequin. A delicate white bird perches inside the glowing bulb, emphasizing soft golden light, high detail, and a dreamlike, peaceful atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063220179_hr6n1w_G_JosJ-XYAErCox.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Upload the material and give instructions like this, and it can be created.",
+    "title": "Instruction for Image Generation Based on Uploaded Material",
+    "description": "This tweet indicates that Nano Banana Pro can generate images based on uploaded source material and specific instructions, implying a multimodal prompt structure, but the actual instruction text is not fully provided.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063234760_mdnf5f_G_JloQfaoAAXO7r.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Based on the following prompt, create all of {argument name=\"slide range\" default=\"slide01-slide04\"}",
+    "title": "Multi-Slide Document Generation with Nano Banana and NotebookLM",
+    "description": "A user describes a workflow using NotebookLM to construct a prompt and then instructing Nano Banana on Google Slide to generate multiple slides simultaneously.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063246262_jrswni_G_JUDN4aoAAL6wN.jpg"
     ],
     "needReferenceImages": false
   },

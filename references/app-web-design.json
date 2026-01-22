@@ -1,5 +1,26 @@
 [
   {
+    "content": "Conceptual storytelling visual for a modern brand narrative.\nAbstract progression elements,\nsense of movement and flow,\nsoft cinematic lighting,\noptimistic, forward-moving tone,\ncrafted to communicate journey and growth.",
+    "title": "Conceptual brand storytelling visual prompt",
+    "description": "A concise prompt for generating a conceptual visual that communicates a brand narrative focused on journey and growth. It specifies abstract progression elements, a sense of movement, soft cinematic lighting, and an optimistic, forward-moving tone.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063183301_ktu0ww_G_K8eo-XcAArGm3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Prompt: Create a collection of icons representing [Theme]. They are unified as a single theme. Please arrange them in a 3x3 grid. The background is white. The icons should be created in a colorful, three-dimensional 3D style. No text is required.\n- {argument name=\"Theme 1\" default=\"90s Gadgets\"}\n- {argument name=\"Theme 2\" default=\"February\"}\n- {argument name=\"Theme 3\" default=\"Emotional Fruits\"}\n- The Darkness of Remote Work",
+    "title": "3D Icon Collection Grid Generator",
+    "description": "A prompt template for Nano Banana Pro designed to generate a collection of 3D icons arranged in a 3x3 grid. The icons are colorful and three-dimensional, centered around a specific theme, and generated on a white background without any text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063243480_k3zbwk_G_J5DxgbMAAf0BY.jpg",
+      "https://cms-assets.youmind.com/media/1769063243457_h3v2oe_G_J5DxlaUAAE803.jpg",
+      "https://cms-assets.youmind.com/media/1769063243521_mkuxbh_G_J5Dw4aoAUPSby.jpg",
+      "https://cms-assets.youmind.com/media/1769063244681_8v1yr1_G_J5DxkaoAEfvLW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Abstract background visual for a premium website section.\nSoft gradients, subtle depth,\nlow visual noise, modern color harmony,\nnon-distracting composition,\nscalable across layouts,\ndesigned like a senior product designer asset.",
     "title": "Abstract Background for Premium Website",
     "description": "A concise prompt for generating an abstract visual suitable for a premium website background. The focus is on usability, low visual noise, soft gradients, and modern color harmony, designed to be non-distracting and scalable.",

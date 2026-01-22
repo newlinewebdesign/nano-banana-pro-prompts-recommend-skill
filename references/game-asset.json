@@ -1,5 +1,32 @@
 [
   {
+    "content": "Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.",
+    "title": "Pixar-style 3D avatar generation prompt",
+    "description": "A prompt for creating a high-quality 3D avatar based on an uploaded image. It specifies a cheerful, expressive face with a warm smile and soft features, rendered in a Pixar-style aesthetic with smooth textures, exaggerated proportions, and soft, even studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063180886_u3xh2g_G_M4AVcbQAEqSai.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"meta\": {\n    \"aspect_ratio\": \"9:16\",\n    \"style\": \"cinematic fantasy silhouette art\",\n    \"render_quality\": \"ultra-detailed, high fidelity, epic scale\"\n  },\n\n  \"identity_lock\": {\n    \"rule\": \"Preserve exactly the facial structure, proportions, silhouette, and overall likeness from the reference image provided by the user\",\n    \"skin_rule\": \"Allow material transformation while keeping facial identity intact\",\n    \"strict\": true\n  },\n\n  \"subject\": {\n    \"description\": \"Regal feminine figure emerging through ethereal mist, standing with quiet authority\",\n    \"presence\": \"otherworldly, majestic, timeless\",\n    \"silhouette\": \"elegant balance of flowing curves and refined sharp edges\"\n  },\n\n  \"body_materials\": {\n    \"skin_tone\": \"polychromatic silver-gold metallic skin\",\n    \"surface\": \"organic metal fused with crystalline structures\",\n    \"details\": [\n      \"precious gems organically growing across the body\",\n      \"gem plating covering the entire form\",\n      \"crystal hues blended into marbled silver and gold textures\",\n      \"delicate swirling patterns mixed with large wind-swept marbling\"\n    ]\n  },\n\n  \"aesthetic_influences\": {\n    \"design_language\": \"golden Celtic-inspired ornamental forms\",\n    \"style\": \"mythic elegance with sacred geometry undertones\"\n  },\n  \"environment\": {\n    \"atmosphere\": \"dense luminous mist\",\n    \"effects\": [\n      \"soft volumetric fog\",\n      \"subtle light rays piercing through the haze\"\n    ],\n    \"background\": \"abstract, undefined space to enhance silhouette focus\"\n  },\n\n  \"lighting\": {\n    \"type\": \"otherworldly glow\",\n    \"key_light\": \"soft internal luminescence from within the figure\",\n    \"accent\": \"gentle rim light outlining the silhouette\",\n    \"contrast\": \"high contrast between glowing form and misty surroundings\"\n  },\n\n  \"camera\": {\n    \"framing\": \"full-body cinematic composition\",\n    \"angle\": \"slightly low angle to enhance regality\",\n    \"focus\": \"sharp on form and material textures, soft falloff into mist\"\n  },\n\n  \"mood\": {\n    \"emotion\": \"mystical, powerful, serene\",\n    \"tone\": \"epic fantasy, sacred presence\"\n  },\n\n  \"negative_prompt\": [\n    \"explicit nudity\",\n    \"sexualized anatomy\",\n    \"cartoon\",\n    \"anime\",\n    \"low detail\",\n    \"flat lighting\",\n    \"plastic look\",\n    \"identity change\",\n    \"distorted face\",\n    \"extra limbs\",\n    \"text\",\n    \"logo\",\n    \"watermark\"\n  ]\n}",
+    "title": "Cinematic fantasy silhouette art with metallic skin prompt",
+    "description": "A highly structured JSON prompt for generating an epic, ultra-detailed cinematic fantasy silhouette. It specifies a regal feminine figure with metallic silver-gold skin fused with crystalline structures and gems, emerging from a dense luminous mist, emphasizing identity preservation and high contrast lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063182089_o10zu1_G_KNVIvXYAACl0Y.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Cross dimensions, a {argument name=\"subject\" default=\"cybernetic samurai\"} standing on a floating island, surrounded by glowing neon runes and ancient Japanese architecture, volumetric fog, cinematic lighting, highly detailed, 8k, made with Nano Banana Pro",
+    "title": "Nano Banana Pro prompt for Cross Dimensions style",
+    "description": "This is a prompt shared for the Nano Banana Pro model, specifically utilizing a 'Cross Dimensions' style, suitable for generating complex, multi-dimensional imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063252131_27lqsu_G_KLCHoacAAwKlF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "3D character design, blind box style, Pop Mart style design, C4D, Octane rendering, clay texture, matte finish, soft lighting, sticker sheet layout, 3x3 grid view {argument name=\"expressions and text\" default=\"9 types of expressions: joy making a heart, sadness with tears, anger exhaling steam, sleepy yawning expression, surprised expression with open mouth, shy blushing expression, cheering expression with raised fist, confused thinking expression, celebrating with confetti\"}, each with a cute Japanese text label, white outline, die-cut, white background, high quality, 8k --ar 3:4",
     "title": "LINE Sticker Generation Prompt (3D Clay Style)",
     "description": "A detailed Japanese prompt designed to generate a 3x3 grid of nine different LINE stickers featuring a 3D character in a blind box/Pop Mart style. It specifies a clay texture, matte finish, soft lighting, and nine distinct expressions, each with a cute Japanese text label and white outline.",

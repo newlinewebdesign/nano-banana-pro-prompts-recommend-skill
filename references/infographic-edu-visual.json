@@ -51,6 +51,50 @@
     "needReferenceImages": false
   },
   {
+    "content": "Just enter the information and press the 'Slide Document' button, and a slide like this will be completed.",
+    "title": "Slide Document Generation Feature",
+    "description": "A user praises Nano Banana Pro's document creation feature, noting that it can instantly create beautiful slide documents by inputting information and pressing the 'Slide Document' button.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063248827_xfjpu1_G_NzxsKW8AEwclX.jpg",
+      "https://cms-assets.youmind.com/media/1769063248900_qb7qp9_G_NzvDGXEAAsWsr.jpg",
+      "https://cms-assets.youmind.com/media/1769063248783_pyu36q_G_NzuOPXYAArTeB.jpg",
+      "https://cms-assets.youmind.com/media/1769063249618_e879tr_G_NzuHKXkAEuhEX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A field researcher's documentation board for {argument name=\"animal or plant\" default=\"[ANIMAL / PLANT / ORGANISM]\"} — {argument name=\"scientific name\" default=\"[SCIENTIFIC NAME / HABITAT]\"}. Left section: scientific illustration showing anatomical details, life-cycle stages, or seasonal variation, with measurement scales and taxonomic classification. Center section: ecological context map showing range, habitat preferences, predator-prey relationships, and conservation status indicators. Right section: the subject in its natural habitat, captured in a decisive moment, behavior visible, environment authentic, the data made alive. Visual style transitions from specimen-drawer clinical through cartographic neutrals to National Geographic field photography. Title block reading \"{argument name=\"common name\" default=\"[COMMON NAME]\"} — [SCIENTIFIC NAME], [CONSERVATION STATUS], FIELD STUDY [YEAR]\".",
+    "title": "Scientific field researcher's documentation board prompt",
+    "description": "A detailed prompt for generating a multi-section documentation board, mimicking a field researcher's study. It requires a scientific illustration, an ecological context map, and a photograph of the subject in its natural habitat, blending clinical, cartographic, and National Geographic styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063173711_oz6u5l_G_M6E2MWQAUsAka.jpg",
+      "https://cms-assets.youmind.com/media/1769063173727_8g7olc_G_M50VuWQAE_9Ye.jpg",
+      "https://cms-assets.youmind.com/media/1769063173887_oon8ko_G_M6RxqWQAQmxrg.jpg",
+      "https://cms-assets.youmind.com/media/1769063175173_sgac5s_G_M6a1XWQAArO3z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "<instruction> for {argument name=\"commodity\" default=\"Coffee\"}\n\nInput A is a Historic Commodity or Resource (e.g., Spices, Tea, Silk, Coffee, Gold).\nDeconstruct the commodity into 3 Educational Assets:\n     The Core :  Identify the most common or valuable raw form.\n         (e.g., Spices -> A pile of Black Peppercorns. Tea -> A mound of Black Tea leaves. Gold -> A large Nugget). \n     The Varieties:  Identify 4-5 distinct variations or colors.\n         (e.g., Spices -> Red Paprika, Yellow Turmeric, Brown Cinnamon. Tea -> Green, White, Oolong, Matcha). \n     The Transit :  Identify the historical method of transport.\n         (e.g., Camel Caravans, East Indiaman Ships, Steam Trains). \n\n  2. Container\nGoal: \"Commodity Universe\" Educational Diorama.\n     The Base:  A large, square   Polished Walnut or Oak Board   sitting on a library table.\n     The Layout:  A radial/circular design in the center, flanked by narrative vignettes in the corners.\n\n  3. The Centerpiece\n     The Metaphor:  The commodity is the center of the world.\n     The Sun:  A massive, textured pile of the \"Core\" material (Step 1) sits in the exact center.\n     The Orbit:  Inlaid gold or brass rings ripple out from the center.\n     The Planets:  Smaller mounds or spheres of the \"Varieties\" (Step 1) orbit the center, creating a colorful spectrum of textures (powders, grains, solids).\n\n  4. Narrative Corners \n     The Origin (Top Corners):  Miniature dioramas sculpted directly onto the board showing the harvesting process (e.g., tiny figures picking tea leaves, mining gold, or shaking spice trees).\n     The Journey (Bottom Corners):  Miniature dioramas showing the \"Transit\" (Step 1).\n         Detail:  Use   Resin   for water (ships) or   Sand   for deserts (camels).\n\n  5. The Footer:  \n     Placement:  Along the bottom edge of the board.\n     Format:  Three or four rectangular   Wooden Plaques   embedded in the table.\n     Content:  The name of a specific variety (e.g., \"Cinnamon\") engraved in serif text, with a physical sample of that ingredient piled on the plaque.\n\n  Output:   ONE image, 1:1 Aspect Ratio, Isometric Tabletop Photography, \"Museum Display\" aesthetic, Warm Tones.\n</instruction>",
+    "title": "Educational Commodity Universe Diorama Prompt",
+    "description": "An educational, highly structured prompt template designed to generate an isometric tabletop photography image of a 'Commodity Universe' diorama. It instructs the AI to deconstruct a chosen commodity (like coffee or gold) into its core, varieties, and historical transit methods, arranging them in a detailed museum-style display on a polished wooden board.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063198703_3k4ai0_G_ERfQVXgAAaud_.jpg",
+      "https://cms-assets.youmind.com/media/1769063198723_xmw01v_G_ERhPUW4AAo_mG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "image of optical illusion illusory motion",
+    "title": "Optical Illusion of Illusory Motion",
+    "description": "A simple, direct prompt intended to generate an image that creates the effect of illusory motion, demonstrating the AI's capability to handle complex visual concepts like optical illusions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063253331_o5ficn_G_JynWwW8AAIS8u.jpg",
+      "https://cms-assets.youmind.com/media/1769063253546_t7qeg5_G_JyodIX0AAuQe0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Create an image featuring a digital wireframe human figure highlighting a specific product inside the mind.\n\nThe subject MUST follow these descriptions EXACTLY:\n\nThe figure is a 3D rendered human bust (head and shoulders) composed entirely of a glowing orange polygonal wireframe mesh.\n\nThe facial expression MUST be tense and stressed, with a visibly furrowed brow.\n\nInside the transparent head, strictly positioned in the cranial cavity, is a brain.\n\nThe brain MUST glow intensely with a fiery yellow-orange light, resembling a superheated or energy-filled object.\n\nAspects of the image composition that MUST be followed EXACTLY:\n\nThe perspective is a three-quarter portrait view against a solid glowing orange black background.\n\nThe lighting MUST appear to emanate from the product inside the head, illuminating the wireframe skin from within.\n\nThe style MUST be a photorealistic 3D medical visualization with a cybernetic aesthetic.\n\nNEVER include any text, watermarks, or line overlays.",
     "title": "Cybernetic Medical Visualization Prompt",
     "description": "A prompt designed to create a photorealistic 3D medical visualization with a cybernetic aesthetic. It features a glowing orange polygonal wireframe human bust with a stressed expression, containing a brain that glows intensely with fiery yellow-orange light, emphasizing internal illumination and a three-quarter portrait view.",

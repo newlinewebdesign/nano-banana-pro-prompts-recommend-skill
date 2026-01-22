@@ -1,5 +1,14 @@
 [
   {
+    "content": "Use the transcript of this video as a prompt to have Nano Banana create an eyecatch image",
+    "title": "Eyecatch Image Generation from Video Transcript",
+    "description": "A user generated an eyecatch image using Nano Banana based on a video transcript, noting that image generation AI might replace manual creation in Canva.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063246826_sqqf2n_G_J9h8uWcAALe9H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "{ task: 2x2 collage with multiple angles of her in this podcast interview, but her outfit is sleeveless, candid shots, not looking at the camera, speaking and mouth open in an “O” expression resolution: 1080p aspect_ratio: 4:5 Sharpness: medium camera: iPhone 13 pro max 12MP CMOS camera }",
     "title": "Mahira Khan 2x2 Collage Podcast Interview Prompt",
     "description": "A simple JSON prompt to create a 2x2 collage of Mahira Khan based on a podcast interview reference image. The prompt specifies candid shots, a sleeveless outfit, and captures the subject speaking with her mouth open in an 'O' expression, using iPhone 13 Pro Max camera settings.",

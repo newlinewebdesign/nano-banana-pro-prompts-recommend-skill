@@ -1,5 +1,41 @@
 [
   {
+    "content": "prompt to create the storyboard grid below",
+    "title": "Storyboard Grid Generation Prompt",
+    "description": "A prompt used to convert an existing image (presumably uploaded or referenced) into a storyboard grid format using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063198733_q6wt87_G_OIwB1aIAEZ7My.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "I tried creating a manga. The theme is 'Trial and Error'.",
+    "title": "AI Manga Theme: Trial and Error",
+    "description": "A user created an AI manga using Nano Banana Pro with the theme 'Trial and Error', discussing the process of experimenting with parameters and instructions to discover new uses for the tool.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063247822_ainrlq_G_OHsYbaIAEU-_I.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "I tried creating a 4-panel manga about recent daily life. Banbi & SMA Mom Remote Control Episode",
+    "title": "Gemini Nano Banana Pro 4-Panel Manga: Remote Control Episode",
+    "description": "A 4-panel manga about daily life, titled 'Banbi & SMA Mom Remote Control Episode', created using Gemini's Nano Banana Pro. The user notes that while Japanese text conversion still has issues, the feature is very convenient.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063247237_kr7z1p_G_NKkyMaIAMpbDf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an addictively intriguing storyboard in 3X3 gride with 9 images featuring a woman and man in an award-winning luxury luggage commercial. The story should have emotional highs and lows, ending on an elegant shot of the woman with the logo. The identity of the woman and man and their attire must stay consistent throughout but they should be seen from different angles and distances.",
+    "title": "Commercial Ad Storyboard Prompt for Luxury Luggage",
+    "description": "A structured prompt designed to generate a 3x3 grid storyboard for a luxury luggage commercial. The prompt focuses on maintaining character consistency (a woman and man) across nine images depicting emotional highs and lows, culminating in an elegant shot with the brand logo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063249497_lzwjyj_G_NALnCaIAArnf3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "STRICT ADHERENCE REQUIRED:\n  - Follow this YAML specification precisely. Do NOT deviate, add unauthorized elements, or make 'creative' interpretations.\n  - Character identity consistency from reference images (if provided) is PARAMOUNT.\n  - Thorough image analysis is mandatory to maintain this consistency. Any result that fails character identity checks is unacceptable.\n\nStrict_Adherence: true\naspect_ratio: \"{argument name=\"aspect ratio\" default=\"2:3\"}\" # Change as needed (e.g., \"1:1\", \"16:9\")\nresolution: \"{argument name=\"resolution\" default=\"2K\"}\"    # Change as needed (e.g., \"4K\")\nCharacter_Count: {{ Total number of characters appearing }}\nTotal_Panel_Count: {{ Total number of panels (usually 4-8 for a 4-tier structure) }}\n\nSummary: >\n  {argument name=\"summary\" default=\"Overall summary of the story. Briefly describe the plot flow, setting, main events, and conclusion.\"}\n\nStyle_Guide:\n  # Panel division style is fixed to \"no outer frame, display to canvas edge\"\n  comic_style: \"4-tier, multi-panel manga strip with no outer framing border. The panels should extend to the very edge of the canvas, separated only by the inner white dividing lines.\"\n  lighting: \"{{ Specify lighting. Time of day (day/night), light source (sunlight/electric light/moonlight), atmosphere (bright/dark/dramatic shadows), etc. }}\"\n  background_elements: \"{{ Main setting, specific description of the location, important props or environmental elements placed. }}\"\n  dialogue_bubbles: \"Standard white bubbles for speech, thought clouds for internal thoughts, dashed bubbles for whispers, and rectangular boxes for narration/monologue. {{ Add definitions for special speech bubbles if necessary (e.g., spiky bubbles for shouting) }}\"\n  visual_effects: \"{{ Specify manga visual effects. Manga symbols (sweat, veins, sparkle), effect lines (concentration lines, speed lines, tremor lines), visualization of sound effects, etc. }}\"\n\nCharacters:\n  # Character definition. Alphanumeric IDs recommended.\n  {{ Character ID_1 }}:\n    description: \"{{ Appearance, hairstyle, color, clothing, distinctive items, personality and expression tendencies. If reference images exist, write the file name here (e.g., reference image_0.png). }}\"\n  {{ Character ID_2 }}:\n    description: \"{{ Second character details... Describe for the number of characters. }}\"\n  # Add as needed...\n\nStoryboard:\n  # 4-tier panel division definition\n  Tier_1:\n    {{ Panel ID_T1_P1 (e.g., Panel_1_Large_Top) }}:\n      scene: \"{{ Specific situation description for this panel. Who, where, and what they are doing. Composition and camera work can also be specified. }}\"\n      dialogue:\n        - speaker: \"{{ Speaker's Character ID }}\"\n          type: \"{{ Type of line: speech(normal), thought(thought), whisper(whisper), shout(shout), monologue(monologue/narration) }}\"\n          text: \"{{ Specific content of the line. Use \\n if a line break is needed. }}\"\n        # Add list if there are multiple lines in the same panel\n        # - speaker: \"...\"\n        #   type: \"...\"\n        #   text: \"...\"\n    # Write here to add panels to Tier_1\n  Tier_2:\n    {{ Panel ID_T2_P1 }}:\n      scene: \"{{ Scene details }}\"\n      dialogue:\n        - speaker: \"{{ Speaker ID }}\"\n          type: \"{{ Type }}\"\n          text: \"{{ Content }}\"\n    # Add panels as needed\n  Tier_3:\n    {{ Panel ID_T3_P1 }}:\n      scene: \"{{ Scene details }}\"\n      dialogue:\n        - speaker: \"{{ Speaker ID }}\"\n          type: \"{{ Type }}\"\n          text: \"{{ Content }}\"\n    # Add panels as needed\n  Tier_4:\n    {{ Panel ID_T4_P1 }}:\n      scene: \"{{ Scene details }}\"\n      dialogue:\n        - speaker: \"{{ Speaker ID }}\"\n          type: \"{{ Type }}\"\n          text: \"{{ Content }}\"\n    # Add panels as needed",
     "title": "YAML Template for Web Manga Creation using Gemini (Nano Banana Pro)",
     "description": "A comprehensive YAML-based prompt template designed for Gemini (referred to as Nano Banana Pro) to generate a four-tier web manga strip. It includes strict adherence rules for character consistency, detailed style guides (lighting, background, dialogue bubbles, visual effects), and a structured storyboard format for defining scenes and dialogue in each panel.",
