@@ -1,5 +1,47 @@
 [
   {
+    "content": "Conceptual rebrand reveal visual for a modern tech company.\nAbstract transformation motifs,\nbefore-and-after visual tension,\nsoft directional lighting, restrained palette,\nconfident, forward-looking tone,\ncrafted like a global agency rebrand case study.",
+    "title": "Conceptual Rebrand Reveal Visual Prompt",
+    "description": "A concise prompt for generating a conceptual visual for a modern tech company's rebrand reveal. It focuses on abstract transformation motifs, visual tension between 'before-and-after' states, soft directional lighting, and a restrained color palette, aiming for a confident, forward-looking tone suitable for a global agency case study.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668465853_bh7oog_G_JD9BeXgAA4YRV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate image, 1. Style Core Parameter Extraction (Style Guide)\nPlease refer to the following parameters:\nColor Palette:\nBackground: Pure white (#FFFFFF)\nLines/Borders: Dark gray or pure black (#333333 or #000000)\nText: Dark gray (#333333), regular weight, no bold.\nFill: No fill (transparent) or pure white fill, to cover lines behind.\nLines/Connectors:\nType: Orthogonal/Elbow lines, meaning only vertical and horizontal lines, with right-angle corners.\nThickness: Extremely thin (1px).\nArrow: Solid small triangle (Solid Arrowhead), black.\nShapes:\nNormal Node: Rounded Rectangle, very small corner radius (approx. 4px - 8px).\nDecision Node: Diamond.\nStart/End: Capsule shape or rectangle with larger rounded corners.\nTypography:\nAlignment: Center aligned.\nFont: Sans-serif font, such as Arial, Roboto, or Source Han Sans. Small font size (approx. 12px-14px).\n\nApply the style above along with your user journey/process to Gemini, and it will present the corresponding effect without needing adjustments.",
+    "title": "Minimalist Flowchart/Diagram Generation Style Guide",
+    "description": "A detailed style guide prompt for Nano Banana Pro to generate minimalist, clean flowcharts or diagrams. It specifies color palette, line types (orthogonal), shapes (rounded rectangles, diamonds), and typography to ensure a professional, consistent, and easily readable infographic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668517280_07mg8l_G_uvxYjWkAEtjek.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Illustrate {argument name=\"subject\" default=\"a cityscape\"} using a combination of thin lines and large flat shapes. Keep the interaction sparse and intentional. The result should feel contemporary and design-forward.",
+    "title": "Line and Shape Hybrid Illustration Prompt",
+    "description": "A simple, design-focused prompt for generating contemporary illustrations by combining thin lines and large flat shapes, intended for a sparse and intentional aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668505087_viwu7g_G_vxNkMWwAAbPjB.jpg",
+      "https://cms-assets.youmind.com/media/1769668505919_g1k1x1_G_vxNi0aAAA1w2k.jpg",
+      "https://cms-assets.youmind.com/media/1769668505193_w64f5u_G_vxNjjaAAErnjP.jpg",
+      "https://cms-assets.youmind.com/media/1769668505225_yy0q61_G_vxNjha0AA9j1d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "First-person perspective inside a brightly lit supermarket aisle or section. Realistic human hands are holding {argument name=\"product name\" default=\"[PRODUCT NAME]\"} close to the camera. The product’s [key visual traits: color, texture, packaging, freshness details] are clearly visible under natural store lighting.\n\nThe {argument name=\"product name 2\" default=\"[PRODUCT NAME]\"} is surrounded by a multi-layered holographic augmented reality interface displaying relevant product information, including [nutritional or product data such as calories, protein/sugar/caffeine, vitamins, freshness indicator, origin, expiration date, usage or recipe suggestions].\n\nThe AR UI elements smoothly shift and reorganize based on the viewer’s gaze direction, as if dynamically responding to user focus. In the left peripheral vision, a vertical semi-transparent shopping list is visible with checked-off items, where {argument name=\"product name 3\" default=\"[PRODUCT NAME]\"} is highlighted as the currently active selection.\n\nHyper-realistic mixed reality, clean futuristic AR design, glass-like UI panels, soft ambient glow, realistic lighting and shadows, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.",
+    "title": "Mixed Reality Retail Experience Prompt",
+    "description": "A prompt for generating a hyper-realistic first-person perspective image inside a supermarket aisle, where human hands hold a product surrounded by a dynamic, multi-layered holographic Augmented Reality (AR) interface displaying nutritional data and a highlighted shopping list item.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668438150_uyprlp_G_t_m35bAAE0BX7.jpg",
+      "https://cms-assets.youmind.com/media/1769668438047_iuytjx_G_t_m4AbgAAsB12.jpg",
+      "https://cms-assets.youmind.com/media/1769668438141_zqfrte_G_t_m3wbAAMIvjf.jpg",
+      "https://cms-assets.youmind.com/media/1769668439361_r7enas_G_t_m4cXwAAS11Y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Atmospheric product interface visual for a modern SaaS platform.\nClean hierarchy, balanced contrast,\nsoft shadows, neutral color palette,\nfocus on clarity and calm,\ndesigned like a best-in-class SaaS experience.",
     "title": "Atmospheric Product Interface Visual Prompt for SaaS UI",
     "description": "A prompt designed to generate a luxurious and calm visual representation of a modern SaaS product interface, emphasizing clarity, hierarchy, and a neutral color palette for a premium user experience.",

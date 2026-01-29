@@ -18,6 +18,82 @@
     "needReferenceImages": false
   },
   {
+    "content": "Masterpiece, best quality, high resolution, (FULL BODY SHOT:1.5), fashion scrapbook page layout, collage style, {argument name=\"aesthetic keywords\" default=\"vintage punk / high-fashion\"}\n\n[Subject]: A wide shot full body fashion photo of {argument name=\"character description\" default=\"a model with bright pink hair\"}. [Pose & Action]. Wearing [Detailed Outfit], [Accessories], (shoes visible:1.3), complete figure from head to toe.\n\n[Composition]: The image is designed like a [Layout Metaphor: DIY zine / field dossier / moodboard], main character in center, surrounded by (3 distinct polaroid snapshots:1.3) showing DIFFERENT [Thematic] details: (one close-up of [Face/Makeup Detail]:1.2), (one macro shot of [Fabric/Texture/Weapon Detail]:1.2), and (one detail of [Footwear/Accessory Detail]:1.2), ensuring unique and non-repeating insert photos.\n\n[Decorations]: [Style] scrapbooking elements, [Clip Type: Silver clips / Gold clips / Rusted clips] holding a [Paper Stack Thickness] of papers together, pieces of [Tape Type: Washi / Duct / Masking] tape, hand-drawn [Doodle Type: arrows / stars / graffiti], handwritten text annotations in [Ink Type] (e.g., \"[Short Text 1]\", \"[Short Text 2]\"), [Stickers/Stamps], torn paper textures.\n\n[Background]: (A messy stack of [Paper Type: white sheets / cardstock / maps / folders]:1.4), visible layers of paper edges underneath the main sheet, realistic depth and shadows between paper layers, placed on a [Surface Material & Color].\n\n[Technical]: [Lighting Style], [Atmosphere], sharp focus, editorial photography, 8k, tactile texture, realistic material rendering.",
+    "title": "Fashion Scrapbook Page Layout Prompt Template",
+    "description": "A complex, highly parameterized prompt template designed to generate a fashion editorial image styled as a detailed, layered scrapbook or collage page, including placeholders for character description, thematic keywords, specific polaroid inserts, and decorative elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668512648_vddrp9_G_x4cW2XoAAoUKC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Split-screen cinematic composition featuring Batman, divided vertically into two distinct halves.\n\nLeft Side – Technical Blueprint Panel\n\nHighly detailed Batman suit technical blueprint, inspired by aerospace and military engineering schematics.\nBlack ink line art on an off-white blueprint background.\n\nThe blueprint shows labeled components and exploded views, including:\n\nBatman cowl side\n\nChest armor plating and core power system\n\nUtility belt modules and gadgets\n\nGauntlets with grappling launcher and blade details\n\nBoots with reinforced armor and mobility systems\n\nCape attachment system and gliding mechanics\n\nShoulder armor plates and articulation points\n\nBack-mounted tech housing grounded realism\n\nPrecise measurements, arrows, technical annotations, clean drafting style, high mechanical realism.\nNo color fills, blueprint-style presentation, Stark-style technical clarity but Wayne Enterprises aesthetic.\n\nRight Side – Cinematic Hyperrealistic Batman\n\nUltra-realistic Batman standing in a dark, moody urban environment at night, inspired by modern Batman films.\nHe wears a grounded, tactical Batsuit with realistic armor textures, matte black and charcoal tones, subtle wear and battle damage.\n\nBatman stands heroically in a three-quarter pose, cape draped naturally, glowing city lights and rain-soaked atmosphere behind him.\nLighting is dramatic and cinematic, with cool blue highlights and deep shadows.\nEyes are white or dimly illuminated through the cowl, expression stoic and intimidating.\n\nBackground is a dark Gotham skyline, blurred skyscrapers, fog, and subtle rain particles.\nThe overall tone is gritty, grounded, realistic, and cinematic.\n\nVisual Style\n\nHyperrealistic cinematic realism\nDark superhero aesthetic\nHigh-detail armor textures\nBlueprint technical illustration contrast\nMovie-poster quality\n\nCamera & Composition\n\nVertical split layout\nLeft side flat technical schematic\nRight side cinematic portrait\nLow-angle perspective on Batman\nStrong contrast between white blueprint and dark cinematic scene\n\nMood Keywords\n\nDark\nGritty\nTactical\nIntimidating\nIntelligent\nHeroic\nNoir\n\nNegative Prompt\n\nCartoon style, comic illustration, anime, bright colors, toy-like armor, glossy plastic suit, futuristic sci-fi tech, low detail, flat lighting, watermark, text overlays, logos\n\nAspect Ratio\nposter crop: 4:5",
+    "title": "Split-Screen Cinematic Batman Blueprint",
+    "description": "A complex prompt generating a split-screen image contrasting two styles of Batman. The left side features a technical blueprint schematic of the Batsuit with detailed annotations, while the right side shows a hyperrealistic, cinematic portrait of Batman in a gritty Gotham environment, emphasizing high contrast and realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668477070_q3e71q_G_wxNXNW4AAz_Ig.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A black and white abstract typographic artwork spelling the word “{argument name=\"word\" default=\"LOVE\"}” in bold, blocky letters arranged in a stacked composition, each character filled with intricate line patterns: concentric circles for the O’s, straight vertical lines for L and E, diagonal converging lines for V, creating a moire optical illusion effect with high contrast and detailed shading gradients. Retro-futuristic graphic design style on a plain background, high-resolution, ultra-detailed, immersive visual texture.",
+    "title": "Op Art LOVE Typography Poster Prompt",
+    "description": "A prompt for generating a black and white abstract Op Art typographic artwork spelling 'LOVE'. The letters are filled with intricate line patterns (concentric circles, straight lines, converging lines) to create a hypnotic moiré optical illusion effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668440863_alchhu_G_wq92mbQAAnOpU.jpg",
+      "https://cms-assets.youmind.com/media/1769668440905_pcuej4_G_wq9YDa0AA-chW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A highly minimalist, deconstructed experimental typography poster in contemporary avant-garde graphic design style. The phrase ‘{argument name=\"phrase\" default=\"Form Follows Chaos\"}’ in elegant, ultra-thin modern sans-serif lowercase letters (thin strokes with sharp geometric cuts), deliberately fragmented and scattered across the composition: some letters partially erased, broken into pieces, shifted off-axis, floating independently, or dissolving into negative space with irregular tears and voids. Extreme use of white/negative space, asymmetrical unbalanced layout, no grid, subtle overlaps and disconnections for a sense of controlled chaos. Soft, beautiful linear gradient background from {argument name=\"top color\" default=\"deep emerald green\"} at the top to {argument name=\"bottom color\" default=\"vibrant hot pink\"} at the bottom, high contrast against crisp black text. No additional elements, no shadows, no textures—just pure deconstructed type and gradient. Clean vector aesthetic, high resolution, sophisticated and hypnotic minimalist art poster.",
+    "title": "Fragmented Typography Poster Prompt (Minimalist Chaos)",
+    "description": "A prompt for generating a highly minimalist, deconstructed experimental typography poster in an avant-garde graphic design style. It features the phrase 'Form Follows Chaos' with letters deliberately fragmented, scattered, and dissolving into negative space against a soft emerald green to hot pink gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668436124_eq3d65_G_wq5xYaUAAiuF1.jpg",
+      "https://cms-assets.youmind.com/media/1769668436138_j9vz4t_G_wq6IdagAAO0cP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A bold experimental typographic poster in brutalist style, featuring the lowercase word ‘{argument name=\"word\" default=\"design\"}’ with the letters arranged in a strict 3-row by 2-column grid layout, each individual letter perfectly centered and isolated in its own square cell with equal spacing and thin invisible grid lines for structure. The main letters are ultra-heavy geometric sans-serif with thick slab-like strokes, perfectly rounded edges, solid black fill, high contrast. Beneath each main sharp letter, multiple duplicated ghostly versions of the same letter appear with strong directional motion blur — each cell has blur going in a unique direction: horizontal left, horizontal right, vertical up, vertical down, diagonal top-left to bottom-right, diagonal top-right to bottom-left — creating chaotic overlapping energy and depth illusion. Soft linear gradient background from {argument name=\"top color\" default=\"baby-pink\"} at the top to {argument name=\"bottom color\" default=\"vibrant yellow\"} at the bottom. Clean minimalist composition, perfectly symmetrical grid, no additional elements, high-resolution vector aesthetic, contemporary graphic design poster with hypnotic blur dynamics.",
+    "title": "Brutalist Directional Blur Typography Poster Prompt",
+    "description": "A prompt for generating a bold, brutalist typographic poster featuring the word 'design' in a strict 3x2 grid. Each letter has duplicated ghostly versions with strong directional motion blur (horizontal, vertical, diagonal) against a baby-pink to vibrant yellow gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668440160_rq72vv_G_wq4TNasAE05SA.jpg",
+      "https://cms-assets.youmind.com/media/1769668440185_ta19h1_G_wq4ptasAAkavH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-realistic 8K cinematic poster-style photograph ASPECT RATIO: 3:4 vertical IMPORTANT – FACE LOCK Keep my face exactly the same as the uploaded photo. Do NOT change, smooth, beautify, or regenerate the face. Maintain 100% identity accuracy: same eyes, nose, lips, jawline, beard, hairline, age, skin texture, pores, and natural asymmetry. No AI face, no cartoon, no anime, no stylization. Create a Marvel-style split-identity movie poster of an 18-year-old slim, skinny young man with narrow shoulders and a lean build. The image is split by a jagged glowing green lightning crack that cuts from the top-center down to the lower right, emitting faint energy particles and sparks. LEFT SIDE – REAL HUMAN The man stands in a new powerful pose: He is standing sideways, one shoulder closer to the camera, arms crossed loosely across his chest, head turned toward the viewer. Expression: calm, cold confidence. He is wearing black rectangular eyeglasses, a short trimmed beard and mustache, and a toothpick held casually between his lips. Lighting: cool blue key light from one side with soft magenta rim light from behind, creating cinematic edge highlights. Skin is hyper-realistic with visible pores, tiny imperfections, and natural texture. Background: dark cinematic studio interior with soft blurred light panels and haze. RIGHT SIDE – VILLAIN FORM The same person appears as a dark emerald metallic armored villain, wearing a hooded cloak, with a sharp angular mask, glowing toxic-green eyes, battle-worn scratches, and brushed metal textures. Green energy flows from cracks in the armor and connects visually to the glowing tear line. CAMERA & STYLE DSLR movie-poster framing Ultra-sharp focus Cinematic depth Hollywood superhero aesthetic No CGI look, no plastic skin.",
+    "title": "Split-Identity Cinematic Movie Poster Prompt with Face Lock",
+    "description": "A complex, highly specific prompt for generating a cinematic movie poster with a split-identity theme (human vs. villain), requiring ultra-realistic 8K quality, a 3:4 vertical aspect ratio, and a strict face lock to maintain 100% identity accuracy based on an uploaded photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668510573_0t02ul_G_vMTjLbAAI5TvZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Wide-format marketing banner for a premium tech brand.\nEditorial-style composition,\nbalanced typography space,\nsoft natural lighting,\ncalm, confident tone,\ndesigned to feel like a magazine spread, not an ad.",
+    "title": "Editorial-Style Marketing Banner for Premium Tech",
+    "description": "A concise prompt designed to generate a wide-format marketing banner that looks like a high-end magazine editorial rather than a traditional advertisement. It focuses on composition, soft lighting, and a calm, confident tone for a premium tech brand.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668470356_mg7ijr_G_K6SJcXEAAyFkS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"A hyper-realistic cinematic cosplay portrait of the SAME PERSON (face identity unchanged, real skin texture), standing back-to-back with an anthropomorphic fox in a live-action Zootopia-inspired scene.\n\nHuman (Judy Hopps-inspired):\n\nblue ZPD police uniform with fitted vest and badge, blue police hat with realistic bunny ears, subtle freckles, natural rosy makeup, playful winking smile, arms crossed confidently.\n\nFox (Nick Wilde-inspired);\n\nanthropomorphic fox with realistic fur, orange fur, white muzzle, green shirt with striped tie, sly confident smirk, arms crossed, cartoon-realistic cinematic proportions.\n\nComposition:\n\nback-to-back pose, upper-body framing, strong symmetry, movie-poster composition.\n\nEnvironment:\n\ntextured deep blue studio backdrop, clean and uncluttered.\n\nLighting & Camera:\n\nsoft studio key light with subtle rim light, eye-level medium portrait, 50mm lens, shallow depth of field, sharp facial focus.\n\nStyle:\n\nhyper-realistic, live-action Zootopia aesthetic, cinematic movie-poster quality, vibrant but controlled colors.\"",
+    "title": "Hyper-Realistic Zootopia Cosplay Portrait with Identity Lock",
+    "description": "A prompt for generating a hyper-realistic, cinematic cosplay portrait inspired by Zootopia, featuring a human (Judy Hopps-inspired) and an anthropomorphic fox (Nick Wilde-inspired) standing back-to-back. It includes a strict requirement to maintain the face identity of the human subject from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668480131_vjik3v_G_u2g7taIAArD_b.jpg",
+      "https://cms-assets.youmind.com/media/1769668480133_bf2dng_G_u2g4Da0AAXYyt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Technical outerwear campaign poster\n\nThis prompt creates a collab between {argument name=\"your brand\" default=\"[YOUR BRAND]\"} and a relevant performance fashion label \n\n(it automatically picks you a good fit)",
     "title": "Technical Outerwear Campaign Poster Generation Prompt",
     "description": "A smart prompt designed to generate a technical outerwear campaign poster by automatically selecting a relevant performance fashion label for collaboration with a specified brand.",

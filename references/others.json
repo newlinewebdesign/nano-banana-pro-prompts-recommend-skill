@@ -12,6 +12,33 @@
     "needReferenceImages": true
   },
   {
+    "content": "{\n  \"prompt\": \"A surreal, artistic portrait of a woman dancing gracefully in front of a dark black background, with large red flower petals projected across her body and surrounding space. A luminous red flower blooms behind and partially overlaps her silhouette, blending seamlessly with her movement. Her eyes are closed, expression calm and introspective, arms raised above her head in a fluid, dance-like pose. She wears a semi-transparent, modern top that allows the red floral projections to interact with her form. The lighting is dramatic and soft, with high contrast between the deep black background and the vivid red flower tones. The composition feels like fine art photography mixed with contemporary dance and projection mapping. Dreamlike, emotional, and poetic atmosphere. Ultra-detailed textures, soft shadows, smooth motion blur, gallery-style surrealism.\",\n  \n  \"negative_prompt\": \"low resolution, harsh lighting, flat colors, cluttered background, overexposure, plastic skin, distorted anatomy, extra limbs, cartoon style, illustration, watermark, logo, text\",\n  \n  \"style\": {\n    \"aesthetic\": \"surreal fine art photography, projection art\",\n    \"mood\": \"poetic, emotional, introspective\",\n    \"color_palette\": [\"deep red\", \"crimson\", \"black\", \"soft skin tones\"]\n  },\n  \n  \"camera\": {\n    \"shot_type\": \"full body or medium portrait\",\n    \"lens\": \"50mm prime\",\n    \"aperture\": \"f/2.0\",\n    \"depth_of_field\": \"moderate\",\n    \"focus\": \"sharp on subject, soft floral projection edges\"\n  },\n  \n  \"lighting\": {\n    \"key_light\": \"soft frontal light\",\n    \"projection_light\": \"red flower projection mapping\",\n    \"contrast\": \"high contrast with dark background\"\n  },\n  \n  \"quality\": {\n    \"resolution\": \"ultra high\",\n    \"detail_level\": \"high\",\n    \"realism\": \"photorealistic with surreal overlay\",\n    \"render_style\": \"art gallery, cinematic, no HDR\"\n  }\n}",
+    "title": "Surreal Fine Art Portrait with Red Flower Projection",
+    "description": "A detailed prompt for generating a surreal, fine art portrait of a woman dancing against a black background, featuring large red flower petals projected onto her body. The prompt specifies dramatic high-contrast lighting and a poetic, introspective mood, blending photography with projection art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668474976_awck3r_G_yBmPoXgAAUHpr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "You are performing intelligent aspect ratio transformation with compositional awareness.\n\nCONTEXT:\nThe source image exists within a specific dimensional space. Your task is to translate it into a new aspect ratio while preserving semantic integrity and visual coherence.\n\nANALYSIS PHASE:\n- Identify the primary subject anchor point and secondary visual elements\n- Map the compositional weight distribution across quadrants\n- Detect edge dependencies (elements that rely on frame boundaries)\n- Assess negative space utilization and breathing room requirements\n\nTRANSFORMATION LOGIC:\n- Calculate optimal subject placement using rule-of-thirds grid alignment for target ratio\n- Determine extension vectors based on background continuity patterns\n- Evaluate whether horizontal or vertical expansion better serves the composition\n- Apply content-aware fill logic for generated regions while maintaining tonal consistency\n\nPRESERVATION RULES:\n- Typographic elements: maintain exact pixel fidelity, no scaling or repositioning unless required by new boundaries\n- Brand marks and logos: preserve aspect ratio and relative positioning\n- Facial features: no modification, distortion, or regeneration\n- Fine details: texture patterns must flow naturally into extended regions\n\nOUTPUT PARAMETERS:\n- Seamless integration between original and generated content\n- No detectable boundaries, halos, or color shifting at transition zones\n- Lighting direction consistency across the full canvas\n- The result must appear as if originally captured or designed at the target ratio\n\nQUALITY THRESHOLD:\nProduction-ready output suitable for commercial use, print media, and high-resolution display contexts.",
+    "title": "Intelligent Aspect Ratio Transformation and Compositional Awareness",
+    "description": "A detailed system prompt designed for an image manipulation task: intelligently transforming an image's aspect ratio while preserving semantic integrity and visual coherence. It outlines a multi-step process including analysis, transformation logic, and strict preservation rules for commercial-ready output, useful for agency workflows resizing assets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668490760_z3cor2_G_xVgv3bgAAsl9L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Give me the right side view of this image",
+    "title": "Image-to-Image View Generation Prompt",
+    "description": "A simple prompt demonstrating how Nano Banana Pro can be used to generate specific views (like a side view) of a character initially created in Midjourney, requiring the original image as a reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668513010_m1g3pa_G_v69K9X0AA0AyA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "can let it explode, static",
     "title": "Prompt for Exploding or Static Food Photography",
     "description": "A user suggests uploading a food photo to Gemini Nano Banana Pro and using this prompt to make the food 'explode' or remain static, indicating an effect-based image generation prompt.",

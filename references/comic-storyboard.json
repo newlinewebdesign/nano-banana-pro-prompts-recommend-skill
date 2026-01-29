@@ -1,5 +1,34 @@
 [
   {
+    "content": "combat scene, combat pose, rough sketch with energetic pencil strokes, hand-to-hand combat like shonen manga, different attack and defense scenes",
+    "title": "Varied Combat Scene Rough Sketch Prompt",
+    "description": "A second, more complex image generation prompt for NanoBananaPro, building on the previous one. This prompt aims to generate multiple, differing attack and defense scenarios within the same image, maintaining the style of a fierce, shonen manga-like hand-to-hand fight rendered as a rough pencil sketch.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668528467_pl7t7o_G_wgjbhbAAA9seZ.jpg",
+      "https://cms-assets.youmind.com/media/1769668528457_39y7b9_G_whMxCa4AA2E3y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "CHANGE THE GIVEN PICTURE INTO TRENDING COMIC STYLE PAGE. DO NOT CHANGE THE FACE OR DRESS AND ADD DIFFERENT COMIC PANELS AND DIFFERENT EFFECTS",
+    "title": "Image-to-Comic Style Conversion Prompt",
+    "description": "A prompt instructing the AI to convert a given picture into a trending comic style page. Crucially, it mandates preserving the face and dress while adding different comic panels and effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668441040_yfqvh6_G_wQ2eiboAIkWUY.jpg",
+      "https://cms-assets.youmind.com/media/1769668441031_11xvdq_G_wQ562a4AAts7W.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Please create a full-color four-panel manga. The main character is a \"{argument name=\"character type\" default=\"human-powered image\"}\".\nPanel 1: The protagonist (female) is waiting for the train. With a bored expression, she says, \"Ah, 1 minute...\"\nPanel 2: The protagonist (female) takes out her smartphone and says, \"What should I do?\"\nPanel 3: A scene where the protagonist (female) is holding her smartphone. Icons are displayed on the screen.\n\"Lovart\" is displayed below the icon. The protagonist (female) clicks the \"Start Creation\" button.\nPanel 4: The protagonist (female) is holding her smartphone, looking up at the sky in surprise. Black and white manga created by the protagonist are displayed around her, surrounding her as she says, \"...Ah, it's done!\"\nThis is a four-panel manga. The fourth panel can be emphasized by taking up more space than the other three panels. The aspect ratio is 3:4.",
+    "title": "Four-Panel Manga Creation about Lovart App",
+    "description": "A detailed, multi-step prompt for generating a four-panel manga (yonkoma) using the Nano Banana Pro model, specifically illustrating a scenario where a female protagonist uses the Lovart app during a short break (poikatsu) to quickly create content. The prompt specifies character actions, dialogue, and panel layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668521690_0b3l4e_G_vQyrebwAAImCI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Mac mini 3×3 brand design visual storyboard - {argument name=\"style\" default=\"Cyberpunk Technology Style\"}",
     "title": "Cyberpunk Tech Visual Storyboard for Mac Mini Branding",
     "description": "This is a prompt for generating a 3x3 visual storyboard for Mac mini branding, specifically requesting a cyberpunk technology style.",

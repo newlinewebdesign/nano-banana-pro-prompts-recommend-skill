@@ -51,6 +51,36 @@
     "needReferenceImages": false
   },
   {
+    "content": "Generate image, 1. Style Core Parameter Extraction (Style Guide)\nPlease refer to the following parameters:\nColor Palette:\nBackground: Pure white (#FFFFFF)\nLines/Borders: Dark gray or pure black (#333333 or #000000)\nText: Dark gray (#333333), regular weight, no bold.\nFill: No fill (transparent) or pure white fill, to cover lines behind.\nLines/Connectors:\nType: Orthogonal/Elbow lines, meaning only vertical and horizontal lines, with right-angle corners.\nThickness: Extremely thin (1px).\nArrow: Solid small triangle (Solid Arrowhead), black.\nShapes:\nNormal Node: Rounded Rectangle, very small corner radius (approx. 4px - 8px).\nDecision Node: Diamond.\nStart/End: Capsule shape or rectangle with larger rounded corners.\nTypography:\nAlignment: Center aligned.\nFont: Sans-serif font, such as Arial, Roboto, or Source Han Sans. Small font size (approx. 12px-14px).\n\nApply the style above along with your user journey/process to Gemini, and it will present the corresponding effect without needing adjustments.",
+    "title": "Minimalist Flowchart/Diagram Generation Style Guide",
+    "description": "A detailed style guide prompt for Nano Banana Pro to generate minimalist, clean flowcharts or diagrams. It specifies color palette, line types (orthogonal), shapes (rounded rectangles, diamonds), and typography to ensure a professional, consistent, and easily readable infographic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668517280_07mg8l_G_uvxYjWkAEtjek.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background.\n\nInclude:\n•Key component labels\n•Internal cutaway or exploded-view outlines (where relevant)\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure, movement)\n•Simple schematic or sectional diagrams where applicable\n\nPlace the title {argument name=\"object title\" default=\"[OBJECT]\"} inside a hand-drawn technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations look hand-sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic.\nBlack linework layered over realistic imagery.\nPrecise but slightly hand-drawn feel.\n\nColor palette:\nPure white background.\nBlack annotation lines and text only.\nNo colors.\n\nOutput:\n1080 × 1080 resolution\nUltra-crisp\nSocial-feed optimized\nNo watermark",
+    "title": "Infographic Image with Technical Annotation Overlay",
+    "description": "A prompt designed to generate a technical infographic by combining a photorealistic render of an object with detailed, hand-sketched technical annotations overlaid on top. It specifies a minimalist aesthetic (black linework on a white background) and requires labeling components, measurements, and functional arrows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668485225_dgc66j_G_uRZiDaYAAnq5o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "First-person perspective inside a brightly lit supermarket aisle or section. Realistic human hands are holding {argument name=\"product name\" default=\"[PRODUCT NAME]\"} close to the camera. The product’s [key visual traits: color, texture, packaging, freshness details] are clearly visible under natural store lighting.\n\nThe {argument name=\"product name 2\" default=\"[PRODUCT NAME]\"} is surrounded by a multi-layered holographic augmented reality interface displaying relevant product information, including [nutritional or product data such as calories, protein/sugar/caffeine, vitamins, freshness indicator, origin, expiration date, usage or recipe suggestions].\n\nThe AR UI elements smoothly shift and reorganize based on the viewer’s gaze direction, as if dynamically responding to user focus. In the left peripheral vision, a vertical semi-transparent shopping list is visible with checked-off items, where {argument name=\"product name 3\" default=\"[PRODUCT NAME]\"} is highlighted as the currently active selection.\n\nHyper-realistic mixed reality, clean futuristic AR design, glass-like UI panels, soft ambient glow, realistic lighting and shadows, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.",
+    "title": "Mixed Reality Retail Experience Prompt",
+    "description": "A prompt for generating a hyper-realistic first-person perspective image inside a supermarket aisle, where human hands hold a product surrounded by a dynamic, multi-layered holographic Augmented Reality (AR) interface displaying nutritional data and a highlighted shopping list item.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668438150_uyprlp_G_t_m35bAAE0BX7.jpg",
+      "https://cms-assets.youmind.com/media/1769668438047_iuytjx_G_t_m4AbgAAsB12.jpg",
+      "https://cms-assets.youmind.com/media/1769668438141_zqfrte_G_t_m3wbAAMIvjf.jpg",
+      "https://cms-assets.youmind.com/media/1769668439361_r7enas_G_t_m4cXwAAS11Y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Atmospheric product interface visual for a modern SaaS platform.\nClean hierarchy, balanced contrast,\nsoft shadows, neutral color palette,\nfocus on clarity and calm,\ndesigned like a best-in-class SaaS experience.",
     "title": "Atmospheric Product Interface Visual Prompt for SaaS UI",
     "description": "A prompt designed to generate a luxurious and calm visual representation of a modern SaaS product interface, emphasizing clarity, hierarchy, and a neutral color palette for a premium user experience.",
