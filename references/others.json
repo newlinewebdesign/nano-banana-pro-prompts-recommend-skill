@@ -12,6 +12,119 @@
     "needReferenceImages": true
   },
   {
+    "content": "Bamboo shoots deep in the bamboo grove, borrowing a palanquin, by Kyohaku.\nPlum blossoms still have a bitter scent, by Kosai.",
+    "title": "AI Haiga (Haiku Painting) Generation",
+    "description": "This tweet discusses the ability of Nano Banana Pro to generate AI Haiga (Haiku paintings), specifically mentioning the ability to draw both thick and thin bamboo shoots, which was an improvement over the previous Recraft V3 model. The content provided is the text of the Haiku used in the generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927686156_pv4xpp_HABiFOebEAAkLmc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Control using structured parameters: {argument name=\"motion\" default=\"motion\"}, {argument name=\"texture\" default=\"texture\"}, {argument name=\"lighting\" default=\"lighting\"}, {argument name=\"atmosphere\" default=\"atmosphere\"}.\nFour distinct Oriental aesthetics, one core logic.",
+    "title": "Structured JSON Prompt for Controlling Aesthetic Elements in Nano Banana Pro",
+    "description": "A structured JSON prompt designed for the Gemini terminal to precisely control the generation of images using the Nano Banana Pro model. It uses structured parameters to define motion, texture, lighting, and atmosphere to achieve specific aesthetic results, demonstrating that AI generation can be programmed rather than random.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927688162_rac7bf_HAArzYBXgAAQr8z.jpg",
+      "https://cms-assets.youmind.com/media/1769927688200_t4ot5n_HAArzW0XQAAHsWC.jpg",
+      "https://cms-assets.youmind.com/media/1769927688270_2mf86s_HAArzX9XgAAbyKP.jpg",
+      "https://cms-assets.youmind.com/media/1769927689432_2wc8oc_HAArzWzXcAEngsO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "An image of a {argument name=\"type\" default=\"mountain\"} landscape, featuring a cave entrance that is shaped exactly like the outline of a {argument name=\"shape\" default=\"star\"}. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable {argument name=\"shape\" default=\"star\"} shape. This {argument name=\"shape\" default=\"star\"} shape should be simple and defined, without intricate details,\nemphasizing just the overall {argument name=\"shape\" default=\"star\"} outline. The surrounding environment should include {argument name=\"details\" default=\"pine trees and rocks\"}, but these elements should not distract from the cave's  {argument name=\"shape\" default=\"star\"}-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the {argument name=\"shape\" default=\"star\"}-shaped cave entrance.",
+    "title": "Generic Prompt for Shape-Shaped Cave Entrance",
+    "description": "A generic prompt template designed to generate images of a landscape featuring a cave entrance shaped exactly like a specified simple geometric shape, ensuring the shape is clearly visible and integrated into the rugged terrain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927647198_zko2oy_HAAkzlFaAAA7_9J.jpg",
+      "https://cms-assets.youmind.com/media/1769927647192_49vg1y_HAAk1NIbEAcDIZJ.jpg",
+      "https://cms-assets.youmind.com/media/1769927648323_603t0s_HAAk6MtagAA3mGR.jpg",
+      "https://cms-assets.youmind.com/media/1769927648947_3krw9n_HAAk4fwbcAAWLl_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a minimal, poetic illustration of a {argument name=\"subject\" default=\"young woman\"}, shown from {argument name=\"framing\" default=\"close-up\"}.\n\nThe subject is {argument name=\"emotion\" default=\"contemplative\"}, with clear facial details and soft, natural expressions.\nIntroduce one subtle surreal element [unexpected object / scale shift / visual metaphor] that reflects their inner world.\n\nUse clean shapes, limited color palette, gentle lighting, and a calm background. The mood should feel introspective, cinematic, and quietly emotional.",
+    "title": "Poetic Minimal Illustration Template",
+    "description": "A template prompt for creating a minimal, poetic illustration of a subject in a specific emotional state, requiring the introduction of one subtle surreal element to reflect their inner world, using a limited color palette and cinematic mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927661908_e8jffx_G__hiYvbYAADCIa.jpg",
+      "https://cms-assets.youmind.com/media/1769927661946_tvvzjt_G__hiYKbEAYAUCD.jpg",
+      "https://cms-assets.youmind.com/media/1769927661966_jd4aky_G__hiZdaoAAbNwT.jpg",
+      "https://cms-assets.youmind.com/media/1769927663270_9seycr_G__hiafaUAAN2O3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A soft watercolor illustration of two adorable, fluffy kittens walking side-by-side in a flower garden. One kitten is a grey and white tabby, the other is ginger and white, both with large blue eyes. They are surrounded by pink daisies, blue wildflowers, tall grasses, and fluttering pink butterflies. The background is a dreamy blue sky with watercolor textures. Pastel color palette, wet-on-wet technique, paper texture, soft diffused lighting, whimsical and cute atmosphere.",
+    "title": "Watercolor Illustration of Kittens in a Garden",
+    "description": "A prompt for generating a soft watercolor illustration of two adorable kittens (a grey tabby and a ginger/white) walking in a flower garden, specifying a pastel color palette, wet-on-wet technique, and a whimsical atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927663737_ls6sxt_G__UGx6aQAA_xoP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Provide a place and objects that look like life is being enjoyed to the fullest.",
+    "title": "Generate a room that looks like life is being enjoyed to the fullest",
+    "description": "This is an image generation prompt used with Nano Banana Pro to create a scene for the '#人生すっごい楽しい選手権' (Life is Super Fun Championship) contest. The prompt asks the AI to provide a location and objects that suggest someone is enjoying life to the maximum.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927693571_54zkd5_G-N3m-vbcAAT1qZ.jpg",
+      "https://cms-assets.youmind.com/media/1769927693734_4e47ub_G_-nh3qbEAIl0Ry.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"Restore this old photo into professional portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity.......\"",
+    "title": "Old Photo Restoration Prompt",
+    "description": "A prompt designed to restore an old, faded vintage photo into a professional, high-definition portrait, specifying DSLR quality, advanced upscaling, and strict preservation of facial features and natural skin texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927657679_oe55gs_G_-k4FfbEAM9viK.jpg",
+      "https://cms-assets.youmind.com/media/1769927657660_tvnprh_G_ueeVlbMAAKX-u.jpg",
+      "https://cms-assets.youmind.com/media/1769927657673_ycbr6x_G_-k4FWbEAQ1wI2.jpg",
+      "https://cms-assets.youmind.com/media/1769927658035_sz9u4v_G_ueebcaAAAZTJL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Today's theme is {argument name=\"theme\" default=\"keeping time\"}",
+    "title": "Four-Panel Comic Strip on Keeping Time",
+    "description": "This prompt is for generating a four-panel comic strip (Yonkoma Manga) focusing on the theme of 'keeping time' (時間の約束), intended to be humorous or heartwarming, and created using the Nano Banana Pro model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927686717_fsgcyq_G9jm6LAaMAQ1sSX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "I tried replacing and adjusting the background of the bead brooch with nanobanana.",
+    "title": "Image Editing Prompt for Accessory Background Replacement",
+    "description": "A user describes using Nano Banana to replace and adjust the background of a bead brooch image, noting that the AI didn't seem to alter the brooch itself, suggesting its utility for background replacement tasks.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927692012_citwuw_G_-Wa1taMAAS-K4.jpg",
+      "https://cms-assets.youmind.com/media/1769927692070_4oak0s_G_-Wa1sbEAI9EDf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Do not send Japanese prompts for image generation.\nTranslate them into English before sending.",
+    "title": "Advice on Generating Images with NanoBananaPro",
+    "description": "This tweet discusses issues with hitting generation limits on NanoBananaPro and suggests a workaround: using a new chat for each image generation and keeping the prompt minimal. It also advises against sending Japanese prompts directly for image generation, recommending translation to English first.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927694067_puzod5_G_-JMApbEAEi9qO.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"31.7785° N, 35.2296° E, April 3, 33 AD, 15:00 hours.\"",
+    "title": "Geospatial and Temporal Prompt for Nano Banana Pro",
+    "description": "A simple, highly specific prompt for Gemini Nano Banana Pro using geographic coordinates, a historical date, and a time of day: 31.7785° N, 35.2296° E, April 3, 33 AD, 15:00 hours. This prompt likely aims to generate an image corresponding to a specific historical or religious location and moment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927704887_jg14dg_G_9OjNOWsAAjxgJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Make something like this but for something else of your choosing",
     "title": "Generic 'Make Something Like This' Prompt",
     "description": "A simple, high-level instruction prompt used to generate an image similar in style or concept to a provided reference image, but substituting the main subject with something else chosen by the AI.",

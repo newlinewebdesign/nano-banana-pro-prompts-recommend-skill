@@ -1,5 +1,36 @@
 [
   {
+    "content": "Ultra-wide-angle hyper-realistic top-down flat lay photography. The central focus is a custom physical conference table meticulously shaped like {argument name=\"Shape\" default=\"[SHAPE/NUMBER/SYMBOL]\"}.\n\nThe table features {argument name=\"Material\" default=\"[MATERIAL/TEXTURE/COLOR]\"} and placed on a [FLOOR COLOR] floor, creating significant negative space around it for a clean, minimalist composition. A group of {argument name=\"Number of People\" default=\"[NUMBER]\"} real people are sitting around the edges of this [SHAPE]-shaped table. [POSITIONING: e.g., 3 on each side, 1 top/bottom]\n\nActions: [DESCRIBE PEOPLE'S ACTIONS, e.g., working on laptops, drinking coffee].\nLighting & Quality: Professional studio lighting with crisp, distinct drop shadows that define the [SHAPE] silhouette on the floor. 8k resolution, sharp focus, cinematic commercial aesthetic.",
+    "title": "Top-Down Flat Lay of Custom-Shaped Conference Table",
+    "description": "A customizable prompt for generating a hyper-realistic, ultra-wide-angle top-down flat lay photograph of a conference table shaped like a specific object or symbol. The prompt requires defining the table's shape, material, and the actions of the people seated around it, emphasizing professional studio lighting and crisp drop shadows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927672921_b0uh8t_HAAnE-zXoAIVugE.jpg",
+      "https://cms-assets.youmind.com/media/1769927672926_ws77u5_HAAnFAQWgAAL08a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-wide-angle hyper-realistic top-down flat lay photography. The central focus is a custom physical conference table meticulously shaped like {argument name=\"Shape\" default=\"[SHAPE/NUMBER/SYMBOL]\"}.\n\nThe table features {argument name=\"Material\" default=\"[MATERIAL/TEXTURE/COLOR]\"} and placed on a [FLOOR COLOR] floor, creating significant negative space around it for a clean, minimalist composition. A group of {argument name=\"Number of People\" default=\"[NUMBER]\"} real people are sitting around the edges of this [SHAPE]-shaped table. [POSITIONING: e.g., 3 on each side, 1 top/bottom]\n\nActions: [DESCRIBE PEOPLE'S ACTIONS, e.g., working on laptops, drinking coffee].\nLighting & Quality: Professional studio lighting with crisp, distinct drop shadows that define the [SHAPE] silhouette on the floor. 8k resolution, sharp focus, cinematic commercial aesthetic.",
+    "title": "Top-Down Flat Lay of Custom-Shaped Conference Table (Duplicate)",
+    "description": "A customizable prompt for generating a hyper-realistic, ultra-wide-angle top-down flat lay photograph of a conference table shaped like a specific object or symbol. The prompt requires defining the table's shape, material, and the actions of the people seated around it, emphasizing professional studio lighting and crisp drop shadows. (Duplicate of 2017655603405942826).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927676499_7dhvvn_HAAaWTtXkAAiA6-.jpg",
+      "https://cms-assets.youmind.com/media/1769927676512_a0j2qb_HAAaWUIXkAAqoor.jpg",
+      "https://cms-assets.youmind.com/media/1769927676541_9dtyn2_HAAaWSZXcAAAoFA.jpg",
+      "https://cms-assets.youmind.com/media/1769927677166_pwy7zo_HAAaWQiWMAAiILl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "This one for Nano Banana Pro 4k:\nCinematic sci-fi landscape, a massive pale celestial moon dominating the sky partially obscured by layers of thick clouds, a rugged rocky coastline with sparse ancient vegetation on the left, calm water in the foreground reflecting the scene, a solitary silhouette of a person standing on a rock ledge for scale, heavy atmospheric blue mist and fog, soft diffuse lighting, ethereal and dreamlike mood, cool color palette of icy blues and whites, high-quality digital matte painting, 4k resolution, photorealistic concept art.\n\nThis for the frontend:\nHigh-fidelity UI design overlay for a modern fintech SaaS landing page, minimalist navigation bar with \"Flowstate\" logo and centered menu links, \"Get Started\" button in top right, centered hero section layout, pill-shaped transparent badge reading \"INFRASTRUCTURE FOR NEXT FINANCIAL LAYER\", large bold sans-serif headline \"Trust-first infrastructure for digital finance\", clean paragraph subtext below, primary solid black rounded button next to a secondary text link button, bottom row featuring monochrome trusted company logos (Google, Microsoft, Stripe), glassmorphism effects, white typography, transparent background, sleek Figma interface design",
+    "title": "Cinematic Sci-Fi Landscape and Fintech UI Design Prompts",
+    "description": "This tweet provides two separate prompts: one for Nano Banana Pro (4k) to generate a cinematic sci-fi landscape featuring a massive celestial moon, rocky coastline, and heavy blue atmospheric mist; and a second prompt for a frontend tool to generate a high-fidelity UI design overlay for a modern fintech SaaS landing page.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927701995_t5urzt_G__-unmW4AApvax.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Clean case-style visual layout.\nStructured grid composition,\nsubtle abstract data cues (lines, blocks, rhythm),\nneutral professional color palette,\nsoft lighting with no dramatic contrast,\ndesigned to feel credible, calm, and serious,\nlike a consulting-grade presentation cover.",
     "title": "Consulting-Grade Presentation Cover Visual Prompt",
     "description": "A prompt designed to generate a clean, professional, case-style visual layout suitable for a consulting presentation cover, featuring a structured grid, abstract data cues, a neutral color palette, and soft lighting to convey credibility and seriousness.",

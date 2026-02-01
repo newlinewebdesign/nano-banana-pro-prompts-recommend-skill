@@ -1,5 +1,42 @@
 [
   {
+    "content": "Create a LEGO-style version of Kaneda’s motorcycle with its box, displayed on a clean white background. High-quality product presentation, realistic LEGO bricks.",
+    "title": "LEGO Kaneda's Motorcycle Product Shot Prompt",
+    "description": "A simple prompt for generating a high-quality product presentation image of a LEGO-style version of Kaneda's motorcycle from Akira, including its box, displayed against a clean white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927656941_7u64yx_HAAm_G-bEAYGtxG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Character sheet prompt for Nano Banana",
+    "title": "Character Sheet Prompt for Nano Banana",
+    "description": "A user mentions borrowing and modifying a publicly available character sheet prompt specifically for Nano Banana, resulting in a single image of a standing figure viewed from the front.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927696024_nrymqp_G__mfgZaQAALLA6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "## Overall Concept\nconcept: \"A cute, smiling chibi character girl engrossed in operating a semi-transparent window (display) floating in cyberspace\"\n\n## Details of the Main Character\nsubject:\n  type: \"Chibi character in anime style\"\n  reference: \"Character design should be based on the character design reference sheet attached in the image\"\n  expression: \"A beaming smile with sparkling eyes, full of discovery and joy\"\n  hair:\n    details: \"Part of the hair faintly glows like data particles\"\n  wearables:\n    - item: \"AR Glasses\"\n      type: \"Frameless visor style\"\n      material: \"Highly transparent, semi-transparent material with a crystal-like texture\"\n      details: \"The rim of the glasses glows with a thin neon blue line, projecting information into her field of view\"\n  outfit:\n    style: \"Geometric patterns resembling electronic circuits are printed in cyan on the inside of the cuffs\"\n  direction: \"Facing the left side of the image\"\n\n## Character Action and Pose\naction:\n  verb: \"Operating the window (display)\"\n  pose: \"Floating gently in cyberspace, leaning slightly forward, operating the semi-transparent window (display) floating in the air\"\n  hands: \"Lightly moving fingertips, operating the semi-transparent window (display) floating in the air\"\n\n## Surrounding Objects\nobjects:\n  - item: \"Multiple semi-transparent windows floating in the air\"\n    type: \"Semi-transparent interface\"\n    shape: \"Wide screen with gentle curves\"\n    content: \"A colorful list is visible, transparently, within the window.\"\n    details: \"Since the window (display) is semi-transparent, the character and background behind it are visible through it\"\n\n## Background and Environment\nenvironment:\n  setting: \"Abstract and minimal cyberspace\"\n  background:\n    color: \"Black\"\n    details:\n      - \"A white starburst (with very thin, sharp spikes) is drawn behind the character, centered on the character.\"\n      - \"Small particles of data light and semi-transparent cubes are slowly drifting around her\"\n    text:\n      - \"Upper right of the screen: Large vertical text: 'After all, Sticky ToC....' (The text 'Sticky ToC' should be displayed horizontally.)\"\n      - \"Upper left of the screen: Large vertical text: 'Sticky ToC \\n solves everything....!!' (The text 'Sticky ToC' should be displayed horizontally.)\"\n\n## Art Style and Quality\nstyle:\n  art_style: \"High-quality anime illustration, smooth line art and vibrant colors\"\n  lighting: \"The character herself and the window (display) she is operating are the main light sources. Soft reflected light from the display hits her face and body. Overall bright and clean impression.\"\n  color_palette: \"White base, with pastel pink, emerald green, cyber blue, and cyan as accent colors\"\n  effects: \"Moderate use of glow and bloom effects\"\n  quality: \"Highest quality, masterpiece, ultra-high resolution, detailed\"",
+    "title": "Chibi Character Operating a Cyber Window Prompt",
+    "description": "A highly detailed, structured prompt for Nano Banana Pro to generate an anime-style chibi girl operating a semi-transparent window in cyberspace. The prompt includes specific details about the character's expression, hair, AR glasses, outfit, pose, surrounding objects, background, and art style, including text overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927696289_pctb8t_G_95gZAbEAEDZPk.jpg",
+      "https://cms-assets.youmind.com/media/1769927696615_s971mp_GzUEOWEa4AQTvLf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "keep the girl’s character and pose from Image 2; have her turn her head toward the camera and smile; raise her left hand, make a fist, and point toward the logo from Image 1. The logo should float above her upper body, fully visible with its original background color preserved. No UI overlays.",
+    "title": "Image Editing Prompt for Logo Integration",
+    "description": "An instruction prompt for Nano Banana Pro used for image editing, specifically to integrate a logo into an existing image. The prompt details the required changes to the subject's pose (turning head, smiling, pointing) and the logo's placement (floating above the upper body, preserving its original background).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927691273_ul5x81_G_9ftnoakAAPCkn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.",
     "title": "Pixar-Style 3D Avatar Generation Prompt",
     "description": "A prompt for transforming an uploaded image into a high-quality 3D avatar using a Pixar-style aesthetic. It specifies a cheerful expression, smooth textures, and soft, even studio lighting for a friendly and approachable animated look.",
