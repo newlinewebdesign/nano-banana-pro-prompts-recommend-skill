@@ -1,5 +1,23 @@
 [
   {
+    "content": "A sad boy ({argument name=\"face reference\" default=\"same face as uploaded\"}) standing alone in the rain at night, cinematic and emotional mood, soft rain streaks visible, wet hair and jacket, downcast eyes, subtle tear mixing with rain, neon city lights blurred in the background, shallow depth of field, moody blue and gray color palette, realistic skin texture, natural body proportions, dramatic side lighting, high contrast, film grain, 35mm lens look, ultra detailed, realistic, no oversmoothing, melancholic atmosphere.",
+    "title": "Melancholic Sad Boy in the Rain (Reference Face)",
+    "description": "A prompt for generating a cinematic, emotional image of a sad boy standing alone in the rain at night. It requires using an uploaded face as a reference and emphasizes moody blue/gray colors, dramatic side lighting, film grain, and the detail of a subtle tear mixing with the rain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014639341_i5e5ck_HAFWagqbQAEPqjH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Generating images now using prompts with Nano Banana Pro to teach how to make Minecraft potions.",
+    "title": "Minecraft Potion Crafting Image Generation Prompt",
+    "description": "A prompt used with Nano Banana Pro to generate images illustrating how to craft potions in the game Minecraft, intended for teaching children.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014700281_1k4hg1_HAEEfq8a0AAZP41.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "This one for Nano Banana Pro 4k:\nCinematic sci-fi landscape, a massive pale celestial moon dominating the sky partially obscured by layers of thick clouds, a rugged rocky coastline with sparse ancient vegetation on the left, calm water in the foreground reflecting the scene, a solitary silhouette of a person standing on a rock ledge for scale, heavy atmospheric blue mist and fog, soft diffuse lighting, ethereal and dreamlike mood, cool color palette of icy blues and whites, high-quality digital matte painting, 4k resolution, photorealistic concept art.\n\nThis for the frontend:\nHigh-fidelity UI design overlay for a modern fintech SaaS landing page, minimalist navigation bar with \"Flowstate\" logo and centered menu links, \"Get Started\" button in top right, centered hero section layout, pill-shaped transparent badge reading \"INFRASTRUCTURE FOR NEXT FINANCIAL LAYER\", large bold sans-serif headline \"Trust-first infrastructure for digital finance\", clean paragraph subtext below, primary solid black rounded button next to a secondary text link button, bottom row featuring monochrome trusted company logos (Google, Microsoft, Stripe), glassmorphism effects, white typography, transparent background, sleek Figma interface design",
     "title": "Cinematic Sci-Fi Landscape and Fintech UI Design Prompts",
     "description": "This tweet provides two separate prompts: one for Nano Banana Pro (4k) to generate a cinematic sci-fi landscape featuring a massive celestial moon, rocky coastline, and heavy blue atmospheric mist; and a second prompt for a frontend tool to generate a high-fidelity UI design overlay for a modern fintech SaaS landing page.",

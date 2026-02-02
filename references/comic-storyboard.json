@@ -1,5 +1,17 @@
 [
   {
+    "content": "A dramatic cinematic scene in a dark foggy forest where two hooded figures clash, one unleashing a burst of glowing red energy that lights up the trees, sparks flying, deep shadows, dense atmosphere, high-detail lighting and moody composition.",
+    "title": "Dramatic cinematic forest clash scene",
+    "description": "A prompt for generating a dramatic cinematic scene set in a dark, foggy forest, depicting two hooded figures clashing, with one unleashing a burst of glowing red energy, emphasizing deep shadows, dense atmosphere, and high-detail lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014678915_hir6mm_HADMkiRbEAEqc9J.jpg",
+      "https://cms-assets.youmind.com/media/1770014678862_skuoev_HADMkara8AAhkR2.jpg",
+      "https://cms-assets.youmind.com/media/1770014678881_72s11b_HADMkUbbEAEW_Bl.jpg",
+      "https://cms-assets.youmind.com/media/1770014680049_43df95_HADMksFaUAEfiJw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A {argument name=\"Ordinary Object\" default=\"[ORDINARY OBJECT]\"} as desperate refuge, tiny [human beings] huddled inside while catastrophic weather rages outside. The storm visible through gaps: {argument name=\"Storm Type\" default=\"flood waters rising, or toxic clouds swirling, or fire approaching\"}. Makeshift barriers installed in openings. Rationing supplies visible. Frightened faces lit by emergency lighting. Some spaces leak, others hold. The group must decide whether to stay or run. The object never designed for this but it's all they have. Dramatic storm lighting, claustrophobic interior, the mundane as ark.",
     "title": "Ordinary Object as Desperate Refuge During Catastrophe",
     "description": "A conceptual prompt for generating a dramatic scene where an ordinary object is used as a desperate refuge by tiny human beings during a raging catastrophic storm. The prompt emphasizes claustrophobic interior lighting, visible storm elements through gaps, and the emotional tension of deciding whether to stay or flee.",

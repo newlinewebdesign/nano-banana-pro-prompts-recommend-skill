@@ -12,6 +12,35 @@
     "needReferenceImages": true
   },
   {
+    "content": "A detailed, close-up, overhead shot shows four shelves of books, each shelf adorned with vibrant floral arrangements. The books are of various sizes and colors, with some spines featuring intricate patterns and others appearing plain. The floral arrangements consist of lush green foliage and brightly colored flowers, predominantly in shades of {argument name=\"flower color 1\" default=\"pink\"}, {argument name=\"flower color 2\" default=\"red\"}, and {argument name=\"flower color 3\" default=\"teal\"}. The overall aesthetic is rich and textured, with a slightly painterly or illustrative quality.",
+    "title": "Overhead Shot of Bookshelves with Floral Arrangements",
+    "description": "A prompt for generating a detailed, close-up, overhead image of four bookshelves. The scene is rich in texture, featuring books of various sizes and vibrant floral arrangements in shades of pink, red, and teal, aiming for a slightly painterly aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014626505_otbke6_HAEwD84XsAArytN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A highly detailed miniature diorama entirely made of crochet and amigurumi yarn, whimsical cute style, featuring a tall {argument name=\"tower color\" default=\"mint-green\"} crocheted airport control tower with white accents and antenna on top, a small teal crocheted camper van with luggage on roof driving on a crocheted road, tiny crocheted blue classic car, a large crocheted passenger airplane parked near an orange-lit terminal building, crocheted city skyline with tall buildings in the background, sunset sky with soft clouds and golden hour lighting, tiny crocheted daisies and grass patches on the ground, textured yarn stitches visible everywhere, cozy handmade craft aesthetic, soft pastel colors, dreamy warm atmosphere, macro photography style, bokeh background, ultra detailed, cute and charming",
+    "title": "Crocheted Miniature Airport Diorama Prompt",
+    "description": "A prompt for generating a highly detailed miniature diorama image, entirely made of crochet and amigurumi yarn, featuring an airport scene with a control tower, vehicles, and a city skyline, emphasizing a cozy, handmade aesthetic with soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014605504_8m4yoq_HAFbq83bMAAMyDN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A surreal photo manipulation showing a detailed {argument name=\"animal pawprint\" default=\"[ANIMAL]\"} pawprint pressed into snow, within which {argument name=\"environment inside\" default=\"[ENVIRONMENT]\"} and a {argument name=\"animal inside\" default=\"[ANIMAL]\"}, {argument name=\"colors\" default=\"[COLORS]\"}, is visible",
+    "title": "Surreal Pawprint Photo Manipulation Template",
+    "description": "A template prompt for generating a surreal photo manipulation image. It describes a detailed pawprint pressed into snow, with a miniature environment and animal visible inside the print, allowing customization of the animal, environment, and colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014641875_gzupdn_HAFFjgTaEAAy2D_.jpg",
+      "https://cms-assets.youmind.com/media/1770014642038_2lf3bz_HAFFjgTaQAEbxtw.jpg",
+      "https://cms-assets.youmind.com/media/1770014642141_opngo2_HAFFje4b0AAGHWi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Bamboo shoots deep in the bamboo grove, borrowing a palanquin, by Kyohaku.\nPlum blossoms still have a bitter scent, by Kosai.",
     "title": "AI Haiga (Haiku Painting) Generation",
     "description": "This tweet discusses the ability of Nano Banana Pro to generate AI Haiga (Haiku paintings), specifically mentioning the ability to draw both thick and thin bamboo shoots, which was an improvement over the previous Recraft V3 model. The content provided is the text of the Haiku used in the generation.",

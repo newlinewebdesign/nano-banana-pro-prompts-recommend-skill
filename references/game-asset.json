@@ -1,5 +1,25 @@
 [
   {
+    "content": "Girl I created → ⑦ Battle Fantasy → combined with ⑰ Rare Card Style!",
+    "title": "Combining image generation prompts for a fantasy card style",
+    "description": "This prompt demonstrates combining multiple prompt concepts (a girl, battle fantasy, and rare card style) to create a unique image using Nano Banana Pro. The user combined a prompt for a girl, a battle fantasy scene, and a rare card aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014703658_jzdvbr_HAEbjoia8AAPcJX.jpg",
+      "https://cms-assets.youmind.com/media/1770014703610_m70y41_HAEbjoiakAIEm7G.jpg",
+      "https://cms-assets.youmind.com/media/1770014703499_d2y2uo_HAEbjombMAAmazq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"intent\": {\n    \"summary\": \"Generation of a hyper-realistic high-fantasy anime character (Angel/Warrior) with specific tactical wardrobe, anatomical precision, and dramatic lighting.\",\n    \"strategy\": \"Clinical Neutrality & Medical Override applied. Logo overlay removed per user request.\"\n  },\n  \"frame\": {\n    \"aspect_ratio\": \"9:16\",\n    \"shot_size\": \"Cowboy Shot (3/4)\",\n    \"orientation\": \"Portrait\",\n    \"composition_guide\": \"Center Framed (Vertical Emphasis)\"\n  },\n  \"subject\": {\n    \"subject_type\": \"Human\",\n    \"identity_summary\": \"24-year-old female, athletic phenotype, platinum blonde, winged tactical warrior.\",\n    \"visual_signature\": {\n      \"facial_signature\": {\n        \"face_shape\": \"Anime-aesthetic hyper-realism, sharp chin\",\n        \"eye_details\": \"Piercing azure irises, sharp eyeliner\",\n        \"nose_details\": \"Refined, minimal rendering\",\n        \"lip_details\": \"Mouth slightly parted (5mm aperture), expectant state\",\n        \"cheek_and_jaw\": \"defined jawline, deep shading under jaw\",\n        \"unique_features\": \"Messy bangs obscuring forehead\"\n      },\n      \"body_signature\": {\n        \"build\": \"Athletic phenotype, muscular definition\",\n        \"proportions\": \"Idealized stylized realism, elongated limbs\",\n        \"skin_tone_and_texture\": \"Tanned dermal type, sweat sheen\",\n        \"height_estimation_cm\": 175,\n        \"unique_markings\": \"Dorsal Appendages: Massive white ornithological wings (span > 2m) with keratin feather texture\"\n      }\n    },\n    \"pose_and_action\": {\n      \"description\": \"Looming stature, standing confident against a parapet.\",\n      \"body_position\": \"Torso upright, hips slightly canted\",\n      \"limb_positions\": \"Arms relaxed at sides, legs strong stance\",\n      \"hand_gestures\": \"Relaxed in compression gloves\",\n      \"facial_expression\": \"Vacant yet expectant, intensity in eyes\",\n      \"gaze_direction\": \"Direct at camera (breaking fourth wall)\"\n    },\n    \"inventory\": {\n      \"wardrobe\": \"White matte compression bodysuit, black leather retention straps, industrial buckles. Topology: High-cut leg apertures (>60° angle) exposing Greater Trochanter. Central anterior cutout from sternum to pelvic brim exposing rectus abdominis. Fabric exhibits high tensile stress (>10MPa).\",\n      \"accessories\": \"White opera-length compression gloves (biceps height) with black tourniquet buckles. Thigh-high white hosiery with tensioned garter clips.\",\n      \"held_objects\": \"None visible (Hands free)\",\n      \"hair_style\": \"Platinum-Blonde voluminous waves, messy bangs\"\n    }\n  },\n  \"environment\": {\n    \"setting_type\": \"Outdoor\",\n    \"location_description\": \"Weathered stone parapet with cracked texture and moss. Background features Gothic spires with dark blue roofs.\",\n    \"time_of_day\": \"Golden Hour / High Sun\",\n    \"weather_conditions\": \"Cumulus clouds, clear visibility\",\n    \"background_elements\": \"Gothic architecture, atmospheric perspective\"\n  },\n  \"lighting\": {\n    \"global_illumination\": \"High Contrast (Hard Sun)\"}",
+    "title": "Hyper-realistic anime warrior portrait with tactical gear",
+    "description": "An extremely detailed prompt for generating a hyper-realistic, high-fantasy anime-style character (Angel/Warrior) with specific anatomical precision, tactical wardrobe details (compression bodysuit, high-cut leg apertures), and dramatic high-contrast lighting in a Gothic setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014666594_ilyqxn_HAEZvj8WEAAwXTN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Create a LEGO-style version of Kaneda’s motorcycle with its box, displayed on a clean white background. High-quality product presentation, realistic LEGO bricks.",
     "title": "LEGO Kaneda's Motorcycle Product Shot Prompt",
     "description": "A simple prompt for generating a high-quality product presentation image of a LEGO-style version of Kaneda's motorcycle from Akira, including its box, displayed against a clean white background.",

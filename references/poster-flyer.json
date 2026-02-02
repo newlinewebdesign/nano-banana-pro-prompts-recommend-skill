@@ -18,6 +18,46 @@
     "needReferenceImages": false
   },
   {
+    "content": "A hyper-realistic Indonesian food infographic poster with dramatic floating ingredients. Vertical composition, bold title text at the top showing the dish name and origin (ASAL). Ingredients levitating in mid-air with clean white label lines and Indonesian text. Cinematic food photography style, ultra-detailed textures, glossy sauces, charred meat, fresh vegetables, steam and smoke effects. Strong contrast lighting, editorial layout, modern typography, professional food magazine look, motion-frozen splashes, realistic shadows, studio lighting, shallow depth of field, 8K ultra-realistic, DSLR quality.",
+    "title": "Hyper-Realistic Indonesian Food Infographic Poster",
+    "description": "A prompt for generating a hyper-realistic food infographic poster of an Indonesian dish, featuring dramatic floating ingredients, strong contrast lighting, and editorial layout, designed to look like professional food magazine photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014659037_ambg97_HAH4fYQbUAAIB_4.jpg",
+      "https://cms-assets.youmind.com/media/1770014659181_6av4ak_HAH4fYSbwAEe7yv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Epic 3D scene: a weathered field journal lies open on a naturalist's camp table, its pages erupting into the ecosystems they document. Hand-drawn botanical illustrations push upward into living specimens : {argument name=\"plant 1\" default=\"[PLANT 1]\"} unfurls actual petals, {argument name=\"plant 2\" default=\"[PLANT 2]\"} releases pollen that drifts across the spread. Pinned insect diagrams detach and take flight. Watercolor landscapes inflate into traversable terrain. Margin notes become tiny expedition camps. Pressed flowers resurrect in time-lapse bloom. A specimen jar on the page contains an actual swimming creature. Field sketches of {argument name=\"animal\" default=\"[ANIMAL]\"} step off the paper, leaving graphite footprints. Coffee-stained pages become amber pools. Canvas tent visible beyond, lantern light mixing with fireflies, the smell of pine and old paper, 8K, photorealistic documentary aesthetic.",
+    "title": "Naturalist Field Journal Ecosystem Scene",
+    "description": "A highly detailed, photorealistic prompt for generating an epic 3D scene in the style of a naturalist's field journal, where the illustrations come to life. It specifies complex elements like botanical illustrations turning into living plants, pinned insects taking flight, and watercolor landscapes becoming traversable terrain, all set within a firefly-lit camp.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014645448_hn9g9s_HADJPc3W4AATC1W.jpg",
+      "https://cms-assets.youmind.com/media/1770014645698_q0y61l_HADIXzpX0AAYBLY.jpg",
+      "https://cms-assets.youmind.com/media/1770014645796_1v8ifs_HADIrQIXgAAlXzD.jpg",
+      "https://cms-assets.youmind.com/media/1770014648985_5cd691_HADKXN6W4AAlztU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an infographic poster using this prompt 👇",
+    "title": "Infographic Poster Creation Prompt",
+    "description": "A general instruction to create an infographic poster, implying that the user should provide the specific content for the infographic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014605869_lgk0px_HAE9bMRaMAAjQcy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Cinematic action poster with a forward-propagating explosion blasting toward the viewer, debris and flames streaking outward, dynamic perspective and motion blur on background elements only. In the center, a realistic plastic {argument name=\"product name\" default=\"EVERVESS cola\"} bottle frozen in perfect clarity, pristine lighting balance, explosion glow wrapping naturally around the bottle, realistic reflections, strong cinematic contrast, hyper-realistic, ultra-detailed, sharp focus, 8K commercial realism.",
+    "title": "Cinematic Action Poster with Exploding Product Shot",
+    "description": "A prompt designed for commercial-grade realism, generating a cinematic action poster featuring a product (a plastic cola bottle) frozen in perfect clarity against a forward-propagating explosion. It emphasizes dynamic perspective, hyper-realism, and 8K detail for advertising aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014623087_wln8dr_HACfacqaMAAWxLs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "image_generation_prompt:\n  meta:\n    description: \"Anime movie poster style illustration of a chibi character from behind, about to ride a road bike\"\n    reference_usage: \"Character appearance refers to the attached image\"\n  \n  style:\n    art_style: \"Anime movie poster\"\n    mood: \"Dramatic\"\n\n  subject:\n    type: \"Chibi character\"\n    pose:\n      view: \"Back view\"\n      action: \"Stepping forward with the left foot towards the road bike in the background (directly above)\"\n      target_direction: \"Towards the road bike (directly above the image)\"\n\n  composition:\n    top:\n      element: \"Red Road bike\"\n      layout: \"Full width of the screen, parallel to the top edge of the image\"\n    center:\n      element: \"Back view of the chibi character\"\n      angle: \"Overhead\"\n    bottom:\n      text_layer_base:\n        content: \"{argument name=\"base text\" default=\"KASANE\"}\"\n        style: \"bold sans-serif font\"\n        color: \"White\"\n      text_layer_overlay:\n        content: \"{argument name=\"overlay text\" default=\"カサネ\"}\"\n        style: \"Rough, brush-stroked characters\"\n        color: \"Red\"\n        position: \"Overlapping the KASANE text\"\n\n  objects:\n    road_bike:\n      color: \"Red\"\n      orientation: \"Side view / Horizontal\"\n      facing_direction: \"Left\"\n    road:\n      detail: \"A straight white line is drawn in the center of the road. The white line is not clearly visible, only faintly and vaguely. A slight, faint crack is visible in a small part of the left side of the road.\"\n\n  technical_settings:\n    shot_size: \"Long shot\"\n    shot_angle: \"Overhead shot\"\n    zoom_emphasis: \"Strong emphasis on the chibi character and the bicycle\"\n    lens_effects: \"Vignetting\"\n    lighting:\n      direction: \"Illuminated from above\"",
     "title": "Anime Movie Poster Prompt: Chibi Character and Road Bike",
     "description": "A highly structured prompt for Nano Banana Pro to generate an anime movie poster illustration featuring a chibi character from behind, stepping towards a red road bike. The prompt specifies the art style, composition, camera angle (overhead), lighting, and text overlays.",
