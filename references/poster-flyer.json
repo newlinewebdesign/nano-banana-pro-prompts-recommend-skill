@@ -18,12 +18,83 @@
     "needReferenceImages": false
   },
   {
+    "content": "Create a vintage patent-style technical illustration of {argument name=\"object\" default=\"a complex mechanical device\"} on aged cream parchment paper. Black ink linework with sepia accents, hand-lettered labels, cross-section views, numbered component callouts, official patent border frame with fake patent number and date. Style of 1890s mechanical engineering drawings. Elegant, authoritative, museum-worthy.",
+    "title": "Vintage Patent Drawing Technical Illustration",
+    "description": "A prompt template for generating a vintage patent-style technical illustration of an object. It specifies black ink linework, sepia accents, hand-lettered labels, cross-section views, and an official patent border on aged cream parchment paper, aiming for the aesthetic of 1890s mechanical engineering drawings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100770869_3w5rmq_HAL2ypcW8AAbjLT.jpg",
+      "https://cms-assets.youmind.com/media/1770100771009_ufysr9_HAL3GDMW0AEeWmA.jpg",
+      "https://cms-assets.youmind.com/media/1770100770795_3s6qdz_HAL3RwIW4AAEl2Y.jpg",
+      "https://cms-assets.youmind.com/media/1770100772779_st9otu_HAL3kbYXwAA-aiN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"NanoBanana Pro\",\n      \"task_type\": \"street_photography_decisive_moment\",\n      \"language\": \"en\",\n      \"priority\": \"highest\",\n      \"version\": \"v1.0_DECISIVE_MOMENT_GEOMETRY_NO_CROP\"\n    },\n\n    \"scene\": {\n      \"location\": \"busy urban street corner\",\n      \"time_of_day\": \"daytime\",\n      \"environment\": \"natural light only, no artificial lighting\",\n      \"activity\": \"pedestrians walking through a geometrically strong background\",\n      \"moment_description\": \"a single pedestrian enters the frame at the exact peak of motion, perfectly aligned with architectural lines\"\n    },\n\n    \"camera_logic\": {\n      \"lens\": \"50mm prime\",\n      \"aperture\": \"f/8\",\n      \"shutter_speed\": \"1/250\",\n      \"iso\": \"auto\",\n      \"focus_mode\": \"manual zone focusing\",\n      \"focus_distance\": \"approximately 3 meters\"\n    },\n\n    \"composition_logic\": {\n      \"approach\": \"pre-framed composition\",\n      \"geometry_priority\": \"high\",\n      \"human_subject_role\": \"secondary to composition but perfectly timed\",\n      \"crop_policy\": \"no crop, frame must be complete in-camera\"\n    },\n\n    \"timing_logic\": {\n      \"capture_rule\": \"capture only at the peak of human motion\",\n      \"burst_mode\": \"minimal, 1-2 frames max\",\n      \"anticipation_based\": true\n    },\n\n    \"style\": {\n      \"color\": \"black and white\",\n      \"contrast\": \"medium\",\n      \"tonality\": \"natural, film-like\",\n      \"mood\": \"quiet, precise, timeless\"\n    },\n\n    \"negative_prompt\": \"posed subjects, artificial lighting, shallow depth of field, dramatic blur, heavy post-processing, cinematic exaggeration, crop, zoom lens look\"\n  }\n}",
+    "title": "Black and White Street Photography Decisive Moment",
+    "description": "A highly technical and structured prompt for generating a black and white street photograph, focusing on capturing the 'decisive moment' where a single pedestrian perfectly aligns with architectural lines in a geometrically strong urban background. It specifies precise camera settings (50mm prime, f/8, manual zone focusing) and strict composition rules to mimic classic street photography masters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100782200_345tt2_HALqcKUXgAE1HwL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"Ultra-realistic 8K full body portrait of {argument name=\"subject name\" default=\"Taylor Swift\"} , wearing a clean and pressed white social shirt with folded collar and a small lapel microphone, dark navy-blue dress pants and polished brown social shoes. Casually and unpretentiously leaning against a smooth light gray studio wall; hands are in pockets and one leg is crossed over the other, with relaxed and confident body language. Add to the wall next to them a prominent vector portrait in black and white of their face and bust - with sharp lines and angles, overlapping polygonal shapes and a minimalist modern graphic style, right below the information: “Taylor Swift”, and below the name: “Singer-Songwriter”. 2:3 dimension.”",
+    "title": "Ultra-realistic full body portrait of Taylor Swift with graphic overlay",
+    "description": "A prompt for generating an ultra-realistic 8K full-body portrait of Taylor Swift in professional attire, leaning against a gray studio wall. The unique element is the requirement to add a prominent, sharp vector portrait and text overlay (name and title) directly onto the wall, blending photographic realism with modern graphic design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100820809_egae55_HALNai6XwAAjXCn.jpg",
+      "https://cms-assets.youmind.com/media/1770100820760_ablcbu_HALNdYpW4AAt8By.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "“Eternity’s Checkmate, a massive cosmic chessboard floating in deep outer space, final move frozen in time, a radiant cracked king chess piece emitting starlight energy, a mysterious hooded cosmic entity formed from galaxies and nebula dust reaching forward to deliver checkmate, shattered chess pieces transforming into constellations, swirling colorful nebula clouds, deep space background with stars, cinematic wide-angle view, dramatic volumetric lighting, ultra detailed, epic scale, surreal symbolism, sharp focus, high dynamic range, dark blue and gold color scheme, professional digital art, 8k, masterpiece quality.”",
+    "title": "Cosmic Chessboard Checkmate Scene",
+    "description": "A prompt for generating a surreal, epic digital art image of a massive cosmic chessboard floating in deep space. It focuses on dramatic symbolism, featuring a cracked king chess piece emitting starlight and a hooded cosmic entity reaching for checkmate, with shattered pieces transforming into constellations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100781690_2sxn1j_HALG-GvaMAALvCm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A master watchmaker's documentation board for {argument name=\"timepiece\" default=\"a Tourbillon Chronograph\"} — {argument name=\"manufacture\" default=\"Patek Philippe\"} / {argument name=\"complication\" default=\"Perpetual Calendar\"} / {argument name=\"year\" default=\"1950\"}. Left section: historical context showing the original patent drawings, period advertisements in gilded frames, and archival photographs of the atelier with craftsmen at work. Center section: the movement in exploded view, every wheel, spring, and jewel suspended in precise spatial relationship, with material callouts (Geneva stripes, blued screws, ruby bearings) and functional annotations tracing the flow of power from mainspring to escapement. Right section: the completed watch in its defining context—wrist of an explorer, pocket of a diplomat, or display case of a collector—captured with shallow depth and warm side lighting. Visual style transitions from sepia patent office to mechanical precision chrome to intimate portraiture. Title block reading \"{argument name=\"watch name\" default=\"[WATCH NAME]\"} — CALIBRE {argument name=\"calibre number\" default=\"[NUMBER]\"}, {argument name=\"complication\" default=\"[COMPLICATION]\"}, CIRCA {argument name=\"year\" default=\"[YEAR]\"}\".",
+    "title": "Watchmaker's Documentation Board (Exploded View)",
+    "description": "A prompt template designed to generate a complex, multi-section documentation board for a timepiece, blending historical patent drawings, a detailed exploded view of the movement (with material callouts), and an intimate portrait of the completed watch, transitioning visual styles across the board.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100775386_g5ffyp_HAK0L0AWQAAyDdY.jpg",
+      "https://cms-assets.youmind.com/media/1770100775477_13tobv_HAK0ZBIW0AEfVEw.jpg",
+      "https://cms-assets.youmind.com/media/1770100775593_28lqpt_HAK0qZyXQAADo5R.jpg",
+      "https://cms-assets.youmind.com/media/1770100778118_rhhis0_HAK00TZWAAAmN1W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Use the uploaded image exactly as the base/reference. Do not change the subjects’ faces, poses, camera angle, or composition. Preserve facial features and expression. Recreate a vertical cinematic movie-poster based on this image with the following specifications:\nCanvas: vertical poster, aspect ratio 2:3 (e.g. 4000×6000 px). High-res, photoreal, print-quality (minimum 300 DPI).\nComposition: keep the ship’s bow centered and dominating the lower two-thirds; keep the couple faded and large in the top third as in the uploaded image (overlay/blend). Do not move or re-pose subjects.\nLighting & mood: cinematic golden-hour rim light on faces, soft warm highlights, cool deep shadows on the hull; strong contrast with gentle atmospheric mist; subtle film grain and slight vignette for vintage cinematic look.\nColor grade: warm skin highlights, slightly desaturated midtones, deep navy/charcoal hull, soft cyan sky with white cloud details; natural skin texture preserved (no smoothing).\nShip details: maintain the bow’s perspective and railing lines; add realistic water spray/splash at the hull base, small white foam particles; keep deck rail details sharp.\nOverlay blend: the couple at the top should be semi-translucent, softly feathered into the sky; maintain original hair, jewelry, and clothing details.\nTitle & typography: center the single word {argument name=\"title\" default=\"TITANIC\"} across the bottom third in large serif (Trajan Pro / classic film serif), all caps, wide tracking, pure white with subtle drop shadow and tiny bevel; place title exactly like the reference.\nEffects/finishing: increase perceived sharpness on ship hull and title; keep couple slightly softer; apply subtle film grain, mild chromatic aberration, and filmic contrast curve.\nNegative constraints: no additional people or logos, no modern artifacts (phones, text), no watermark, no unnatural skin smoothness, no heavy plastic look.\nFor img2img parameters (suggested): strength 0.35–0.55, preserve composition, seed optional for reproducibility. Output: 4000×6000 PNG, lossless.\nInstruction to renderer: Use the uploaded photo as the primary source and only refine/augment per the above — do not replace or re-render faces or change the original pose/composition.",
+    "title": "Image-to-Image Titanic Movie Poster Prompt",
+    "description": "A highly specific, multi-constraint prompt designed for image-to-image generation, transforming an uploaded photo of a couple into a vertical, cinematic Titanic movie poster. It mandates preserving the original faces, poses, and composition while applying detailed cinematic lighting, color grading, typography, and texture effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100790836_kraftp_HAJz3umaYAAy1dB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"image_prompt\": {\n    \"type\": \"Ultra-realistic Indonesian traditional food infographic poster\",\n    \"layout_and_composition\": {\n      \"orientation\": \"Vertical composition\",\n      \"style\": \"Modern culinary infographic design, editorial layout\",\n      \"background\": \"Dramatic but clean background\"\n    },\n    \"typography_elements\": {\n      \"headline\": {\n        \"position\": \"Top\",\n        \"style\": \"Bold text showing dish name and origin (ASAL)\"\n      },\n      \"labels\": {\n        \"style\": \"Clean Indonesian typography\",\n        \"connectors\": \"Curved label arrows pointing to ingredients\"\n      }\n    },\n    \"visual_content\": {\n      \"main_action\": \"Cinematic floating ingredients suspended in mid-air\",\n      \"details\": [\n        \"Glossy curry splash\",\n        \"Fresh herbs\",\n        \"Spices\",\n        \"Steam rising from the bowl\"\n      ],\n      \"textures\": \"Hyper-detailed, glossy, appetizing\"\n    },\n    \"lighting_and_atmosphere\": {\n      \"lighting_style\": \"Rich golden lighting, studio lighting\",\n      \"mood\": \"Professional, appetizing, high-end\"\n    },\n    \"technical_specs\": {\n      \"quality\": \"8K ultra-realistic, DSLR quality\",\n      \"focus\": \"Shallow depth of field\",\n      \"style\": \"Professional food photography\"\n    }\n  }\n}",
+    "title": "Structured Indonesian Food Infographic Prompt",
+    "description": "A highly structured JSON prompt template for generating an ultra-realistic infographic poster of Indonesian traditional food. It meticulously defines the layout, typography (using Indonesian text), visual content (floating ingredients, glossy curry splash), and technical specifications for high-end food photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100767796_tqndy0_HAJGFNbaYAAkaD8.jpg",
+      "https://cms-assets.youmind.com/media/1770100767680_50uxhj_HAJGFQSbIAAhIC5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A hyper-realistic Indonesian food infographic poster with dramatic floating ingredients. Vertical composition, bold title text at the top showing the dish name and origin (ASAL). Ingredients levitating in mid-air with clean white label lines and Indonesian text. Cinematic food photography style, ultra-detailed textures, glossy sauces, charred meat, fresh vegetables, steam and smoke effects. Strong contrast lighting, editorial layout, modern typography, professional food magazine look, motion-frozen splashes, realistic shadows, studio lighting, shallow depth of field, 8K ultra-realistic, DSLR quality.",
     "title": "Hyper-Realistic Indonesian Food Infographic Poster",
-    "description": "A prompt for generating a hyper-realistic food infographic poster of an Indonesian dish, featuring dramatic floating ingredients, strong contrast lighting, and editorial layout, designed to look like professional food magazine photography.",
+    "description": "A detailed prompt for generating a hyper-realistic, cinematic food infographic poster featuring Indonesian cuisine. It specifies a vertical composition, bold typography for the dish name and origin, and dramatic lighting with levitating, ultra-detailed ingredients like glossy sauces and charred meat.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1770014659037_ambg97_HAH4fYQbUAAIB_4.jpg",
-      "https://cms-assets.youmind.com/media/1770014659181_6av4ak_HAH4fYSbwAEe7yv.jpg"
+      "https://cms-assets.youmind.com/media/1770100762014_e503ya_HAH4fYQbUAAIB_4.jpg",
+      "https://cms-assets.youmind.com/media/1770100762238_k0l73g_HAH4fYSbwAEe7yv.jpg"
     ],
     "needReferenceImages": false
   },

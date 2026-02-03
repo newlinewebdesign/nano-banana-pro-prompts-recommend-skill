@@ -51,12 +51,75 @@
     "needReferenceImages": false
   },
   {
+    "content": "Create a vintage patent-style technical illustration of {argument name=\"object\" default=\"a complex mechanical device\"} on aged cream parchment paper. Black ink linework with sepia accents, hand-lettered labels, cross-section views, numbered component callouts, official patent border frame with fake patent number and date. Style of 1890s mechanical engineering drawings. Elegant, authoritative, museum-worthy.",
+    "title": "Vintage Patent Drawing Technical Illustration",
+    "description": "A prompt template for generating a vintage patent-style technical illustration of an object. It specifies black ink linework, sepia accents, hand-lettered labels, cross-section views, and an official patent border on aged cream parchment paper, aiming for the aesthetic of 1890s mechanical engineering drawings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100770869_3w5rmq_HAL2ypcW8AAbjLT.jpg",
+      "https://cms-assets.youmind.com/media/1770100771009_ufysr9_HAL3GDMW0AEeWmA.jpg",
+      "https://cms-assets.youmind.com/media/1770100770795_3s6qdz_HAL3RwIW4AAEl2Y.jpg",
+      "https://cms-assets.youmind.com/media/1770100772779_st9otu_HAL3kbYXwAA-aiN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A master watchmaker's documentation board for {argument name=\"timepiece\" default=\"a Tourbillon Chronograph\"} — {argument name=\"manufacture\" default=\"Patek Philippe\"} / {argument name=\"complication\" default=\"Perpetual Calendar\"} / {argument name=\"year\" default=\"1950\"}. Left section: historical context showing the original patent drawings, period advertisements in gilded frames, and archival photographs of the atelier with craftsmen at work. Center section: the movement in exploded view, every wheel, spring, and jewel suspended in precise spatial relationship, with material callouts (Geneva stripes, blued screws, ruby bearings) and functional annotations tracing the flow of power from mainspring to escapement. Right section: the completed watch in its defining context—wrist of an explorer, pocket of a diplomat, or display case of a collector—captured with shallow depth and warm side lighting. Visual style transitions from sepia patent office to mechanical precision chrome to intimate portraiture. Title block reading \"{argument name=\"watch name\" default=\"[WATCH NAME]\"} — CALIBRE {argument name=\"calibre number\" default=\"[NUMBER]\"}, {argument name=\"complication\" default=\"[COMPLICATION]\"}, CIRCA {argument name=\"year\" default=\"[YEAR]\"}\".",
+    "title": "Watchmaker's Documentation Board (Exploded View)",
+    "description": "A prompt template designed to generate a complex, multi-section documentation board for a timepiece, blending historical patent drawings, a detailed exploded view of the movement (with material callouts), and an intimate portrait of the completed watch, transitioning visual styles across the board.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100775386_g5ffyp_HAK0L0AWQAAyDdY.jpg",
+      "https://cms-assets.youmind.com/media/1770100775477_13tobv_HAK0ZBIW0AEfVEw.jpg",
+      "https://cms-assets.youmind.com/media/1770100775593_28lqpt_HAK0qZyXQAADo5R.jpg",
+      "https://cms-assets.youmind.com/media/1770100778118_rhhis0_HAK00TZWAAAmN1W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a highly detailed blueprint-style technical schematic based on the reference image. Analyze the image to capture all details including the subject's appearance, structure, design, colors, and background. Use clean line art in multiple pen colors ({argument name=\"pen colors\" default=\"blue, black, red, green, etc.\"}) on a {argument name=\"paper type\" default=\"beige, aged engineering paper\"} background with technical annotations, dimension lines, and engineering-style details. Maintain the professional blueprint aesthetic with precise line work and technical drawing elements.",
+    "title": "Blueprint-style technical schematic generation",
+    "description": "A prompt designed to convert a reference image into a highly detailed, blueprint-style technical schematic. It requires clean line art in multiple colors on an aged engineering paper background, complete with technical annotations, dimension lines, and a professional drawing aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100816459_d8f8mi_HAKr0_EbIAE1-wn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "PROMPT 1  - Create an infographic image of Mustang GTD  combining a realistic photograph or photorealistic render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text ({argument name=\"car color\" default=\"blue\"} Mustang GTD   ) on a pure white studio background.\n\nInclude:\n•Key component labels\n•Internal cutaway or exploded-view outlines (where relevant)\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (all the functions that comes with bugatti Chiron)\n•Simple schematic or sectional diagrams where applicable\n\nPlace the title Mustang GTD  inside a real technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations(no annotation on the real object)\n•Annotations look hand-sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic.\nBlack linework layered over realistic imagery.\nPrecise but slightly hand-drawn feel.\n\nColor palette:\nPure white background.\nBlack annotation lines and text only.\nNo colors.\n\nOutput:\n1080 × 1080 resolution\nUltra-crisp\nSocial-feed optimized\nNo watermark\n\nPROMPT 2 - Create an infographic image of bugatti, combining a realistic photograph or photorealistic render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text ({argument name=\"bugatti color\" default=\"copper color\"} bugatti ) on a pure white studio background.\n\nInclude:\n•Key component labels\n•Internal cutaway or exploded-view outlines (where relevant)\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (all the functions that comes with bugatti Chiron)\n•Simple schematic or sectional diagrams where applicable\n\nPlace the title bugatti inside a real technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations(no annotation on the real object)\n•Annotations look hand-sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic.\nBlack linework layered over realistic imagery.\nPrecise but slightly hand-drawn feel.\n\nColor palette:\nPure white background.\nBlack annotation lines and text only.\nNo colors.\n\nOutput:\n1080 × 1080 resolution\nUltra-crisp\nSocial-feed optimized\nNo watermark",
+    "title": "Infographic image of Mustang GTD with technical annotations",
+    "description": "A detailed prompt for generating a technical infographic of a car, combining a photorealistic render of the Mustang GTD with hand-sketched, architectural-style technical annotations. It specifies elements like component labels, cutaway outlines, measurements, and flow arrows, all rendered in black ink on a pure white background for an engineering manual aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100808643_dxaecu_HAJbpMfbgAEYyUE.jpg",
+      "https://cms-assets.youmind.com/media/1770100808623_h3oggu_HAJbpOSbYAAI5z7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "① Always switch the mode to 'Thought' or 'Pro' (I feel 'Thought' is better)\n② 'Describe the scene in sentences' rather than listing keywords\n③ Specify the subject, background, and atmosphere as a set of three points\n④ Don't aim for perfection in one go; apply 'gradual corrections'\n⑤ Avoid negative expressions; give instructions in positive sentences\n⑥ Add quality keywords (4K, high resolution) in English\n⑦ Clearly state the purpose at the beginning (e.g., \"{argument name=\"purpose\" default=\"Diagram for a proposal\"}\")\n⑧ Exclude unnecessary elements using negative prompts\n⑨ Do not attempt complex edits all at once; proceed in segments\n⑩ Save frequently used prompts as templates",
+    "title": "Nano Banana Pro Prompting Strategy for Stable Output",
+    "description": "This is a comprehensive set of 10 instructions and strategies for writing effective prompts for Nano Banana Pro (Gemini 3 Pro Image), aimed at stabilizing output and avoiding garbled text. It emphasizes switching to 'Thought Mode' or 'Pro Mode', using descriptive sentences instead of keyword lists, specifying subject/background/atmosphere, and using positive language and English keywords for quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100855406_jd9nn5_HAJLel0bsAA7EV_.jpg",
+      "https://cms-assets.youmind.com/media/1770100855391_f359q8_HAJLjUobUAATIW7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"image_prompt\": {\n    \"type\": \"Ultra-realistic Indonesian traditional food infographic poster\",\n    \"layout_and_composition\": {\n      \"orientation\": \"Vertical composition\",\n      \"style\": \"Modern culinary infographic design, editorial layout\",\n      \"background\": \"Dramatic but clean background\"\n    },\n    \"typography_elements\": {\n      \"headline\": {\n        \"position\": \"Top\",\n        \"style\": \"Bold text showing dish name and origin (ASAL)\"\n      },\n      \"labels\": {\n        \"style\": \"Clean Indonesian typography\",\n        \"connectors\": \"Curved label arrows pointing to ingredients\"\n      }\n    },\n    \"visual_content\": {\n      \"main_action\": \"Cinematic floating ingredients suspended in mid-air\",\n      \"details\": [\n        \"Glossy curry splash\",\n        \"Fresh herbs\",\n        \"Spices\",\n        \"Steam rising from the bowl\"\n      ],\n      \"textures\": \"Hyper-detailed, glossy, appetizing\"\n    },\n    \"lighting_and_atmosphere\": {\n      \"lighting_style\": \"Rich golden lighting, studio lighting\",\n      \"mood\": \"Professional, appetizing, high-end\"\n    },\n    \"technical_specs\": {\n      \"quality\": \"8K ultra-realistic, DSLR quality\",\n      \"focus\": \"Shallow depth of field\",\n      \"style\": \"Professional food photography\"\n    }\n  }\n}",
+    "title": "Structured Indonesian Food Infographic Prompt",
+    "description": "A highly structured JSON prompt template for generating an ultra-realistic infographic poster of Indonesian traditional food. It meticulously defines the layout, typography (using Indonesian text), visual content (floating ingredients, glossy curry splash), and technical specifications for high-end food photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100767796_tqndy0_HAJGFNbaYAAkaD8.jpg",
+      "https://cms-assets.youmind.com/media/1770100767680_50uxhj_HAJGFQSbIAAhIC5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A hyper-realistic Indonesian food infographic poster with dramatic floating ingredients. Vertical composition, bold title text at the top showing the dish name and origin (ASAL). Ingredients levitating in mid-air with clean white label lines and Indonesian text. Cinematic food photography style, ultra-detailed textures, glossy sauces, charred meat, fresh vegetables, steam and smoke effects. Strong contrast lighting, editorial layout, modern typography, professional food magazine look, motion-frozen splashes, realistic shadows, studio lighting, shallow depth of field, 8K ultra-realistic, DSLR quality.",
     "title": "Hyper-Realistic Indonesian Food Infographic Poster",
-    "description": "A prompt for generating a hyper-realistic food infographic poster of an Indonesian dish, featuring dramatic floating ingredients, strong contrast lighting, and editorial layout, designed to look like professional food magazine photography.",
+    "description": "A detailed prompt for generating a hyper-realistic, cinematic food infographic poster featuring Indonesian cuisine. It specifies a vertical composition, bold typography for the dish name and origin, and dramatic lighting with levitating, ultra-detailed ingredients like glossy sauces and charred meat.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1770014659037_ambg97_HAH4fYQbUAAIB_4.jpg",
-      "https://cms-assets.youmind.com/media/1770014659181_6av4ak_HAH4fYSbwAEe7yv.jpg"
+      "https://cms-assets.youmind.com/media/1770100762014_e503ya_HAH4fYQbUAAIB_4.jpg",
+      "https://cms-assets.youmind.com/media/1770100762238_k0l73g_HAH4fYSbwAEe7yv.jpg"
     ],
     "needReferenceImages": false
   },

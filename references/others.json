@@ -12,6 +12,62 @@
     "needReferenceImages": true
   },
   {
+    "content": "{\n  \"image_generation_request\": {\n    \"model\": \"Nano Banana\",\n    \"created_at\": \"2026-02-03T06:05:00.000000\",\n    \"concept\": \"{argument name=\"concept\" default=\"19th Century London: The Little Match Girl walking the boundary between slum and prosperity\"}\",\n    \"parameters\": {\n      \"5w1h\": {\n        \"who\": \"{argument name=\"person\" default=\"The Little Match Girl (ragged shawl, soot-stained cheeks, transparent eyes)\"}\",\n        \"when\": \"Around 3 PM (low winter sun, long shadows, cold and damp atmosphere)\",\n        \"where\": \"The road marking the boundary between the muddy streets of 19th-century London slums and the cobblestone London city center visible in the distance. Background features chimney smoke and rows of gas lamps.\",\n        \"what\": \"Looking up at a break in the heavy overcast sky as if praying, walking towards the city lights.\",\n        \"why\": \"A stumbling gait, as if knees are buckling from cold and fatigue, dragging ill-fitting, old shoes.\",\n        \"how\": \"Direct side view (side view), shallow depth of field focusing on the girl, the background cityscape is beautifully blurred.\"\n      },\n      \"style\": \"Hyper-Photorealistic, Cinematic Lighting, 8k Resolution, Detailed Texture\",\n      \"version\": \"1.1_Enhanced\"\n    }\n  }\n}",
+    "title": "Nano Banana Pro JSON Prompt for 'The Little Match Girl' Concept",
+    "description": "This is a detailed JSON structure designed to be fed into NanoBananaPro, likely via a custom application, to generate a hyper-photorealistic and cinematic image based on the concept of 'The Little Match Girl' in 19th-century London. It uses the 5W1H framework (Who, When, Where, What, Why, How) to specify every detail, from the girl's appearance and the time of day to the camera angle and focus depth, ensuring a highly controlled and specific output.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100854721_uz8pt4_HAL2QZDaMAA8Pa5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Please draw \"{argument name=\"melody\" default=\"Popopo-popopopo♪\"}\"",
+    "title": "Yobikomi-kun Melody Prompt",
+    "description": "A user expresses amazement at Nano Banana Pro's ability to identify the 'Yobikomi-kun' character (a famous Japanese store mascot) from its melody prompt, while cleverly avoiding direct depiction due to copyright concerns. The prompt is the onomatopoeic representation of the melody.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100851495_bduvnw_HALsckWa4AA_aiK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Show me what occurs before/After.\nShow me what happens before/after that.",
+    "title": "Prompt for Controlling Event Timing in Nano Banana Pro",
+    "description": "A user provides a specific phrase to be used in Nano Banana Pro prompts to control the timing of an event in the generated image, allowing the user to request what happens 'before' or 'after' the main scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100853376_pfc13o_HALHajTW8AAC5Ts.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "The place where I am actually making hidden efforts\n<{argument name=\"persona information\" default=\"persona information copy and paste\"}>",
+    "title": "Nano Banana Pro Prompt for Hidden Effort",
+    "description": "A user shares a simple prompt used with Nano Banana Pro and Higgsfield to generate an image related to 'hidden effort', incorporating a persona's information.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100858738_ymc9xf_HAKW_A9bQAAunJD.jpg",
+      "https://cms-assets.youmind.com/media/1770100859019_xrj80j_HAKW_BDaoAAyZSs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Run background research with the deep-research-pro-preview. Stream summaries during research execution. Control output via prompt: tables, sections, tone adjustments. Chain outputs to Nano Banana Pro for report > slide use cases. Continue conversations using previous_interaction_id.",
+    "title": "Gemini Deep Research API Use Case",
+    "description": "This is a text-based prompt detailing a workflow for the Gemini Deep Research API, focusing on running background research, streaming summaries, controlling output format (tables, sections, tone), and chaining outputs to Nano Banana Pro for report and slide generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100833984_2uisqf_HAKOf-JWEAAOG-m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "NanoBananaPro version of Rina Arkenlux with the same prompt",
+    "title": "Comparing AI Art Versions with Nano Banana Pro",
+    "description": "A user compares two versions of AI art featuring the character Rina Arkenlux, both generated with the same prompt but using the Nano Banana Pro version, asking which one is preferred.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100857079_a7vqz8_HAJ6VsHaoAANdCD.jpg",
+      "https://cms-assets.youmind.com/media/1770100856944_23pies_HAJ6Vy3bgAIeOEy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A detailed, close-up, overhead shot shows four shelves of books, each shelf adorned with vibrant floral arrangements. The books are of various sizes and colors, with some spines featuring intricate patterns and others appearing plain. The floral arrangements consist of lush green foliage and brightly colored flowers, predominantly in shades of {argument name=\"flower color 1\" default=\"pink\"}, {argument name=\"flower color 2\" default=\"red\"}, and {argument name=\"flower color 3\" default=\"teal\"}. The overall aesthetic is rich and textured, with a slightly painterly or illustrative quality.",
     "title": "Overhead Shot of Bookshelves with Floral Arrangements",
     "description": "A prompt for generating a detailed, close-up, overhead image of four bookshelves. The scene is rich in texture, featuring books of various sizes and vibrant floral arrangements in shades of pink, red, and teal, aiming for a slightly painterly aesthetic.",

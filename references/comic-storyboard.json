@@ -1,5 +1,26 @@
 [
   {
+    "content": "Create a single cinematic image divided into four horizontal panels, each panel representing a different camera angle of the same scene and subject.\nAll panels must be visually cohesive in lighting, color grading, and atmosphere.\nTop panel – BIRD’S-EYE SHOT:\nA top-down overhead view, perfectly vertical camera angle, emphasizing spatial layout and geometry.\nSecond panel – SIDE CLOSE-UP SHOT:\nA close-up shot from the side profile, shallow depth of field, focusing on facial or object details with cinematic compression.\nThird panel – EXTREME CLOSE-UP:\nAn extreme close-up capturing fine textures and micro details, filling the frame almost abstractly.\nBottom panel – MEDIUM WIDE BACK SHOT:\nA medium-wide shot from behind the subject, showing posture and environment, cinematic framing, strong sense of depth.\nClean horizontal separations between panels, editorial film-strip composition, high-end cinematic still, consistent subject identity across all panels.",
+    "title": "Four-Angle Cinematic Panel Composition",
+    "description": "A complex prompt designed to generate a single cinematic image divided into four horizontal panels, each showing the same scene and subject from a different camera angle: bird’s-eye, side close-up, extreme close-up, and medium wide back shot. This is intended for high-end editorial film-strip compositions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100869316_3jmgr2_HALVK9ybUAAwAG_.jpg",
+      "https://cms-assets.youmind.com/media/1770100869337_1vafo0_HALVK32a8AAW243.jpg",
+      "https://cms-assets.youmind.com/media/1770100869469_n0tslw_HALVLKkbMAAnKr3.jpg",
+      "https://cms-assets.youmind.com/media/1770100870972_1wvoet_HALVK97aAAAQhRT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "AI Manga Nano Banana Pro 🍌",
+    "title": "AI Manga Nano Banana Pro",
+    "description": "This tweet showcases an AI-generated manga created using the Nano Banana Pro model, featuring a cat character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100857031_le7l59_HAJXINYaQAAx4tC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A dramatic cinematic scene in a dark foggy forest where two hooded figures clash, one unleashing a burst of glowing red energy that lights up the trees, sparks flying, deep shadows, dense atmosphere, high-detail lighting and moody composition.",
     "title": "Dramatic cinematic forest clash scene",
     "description": "A prompt for generating a dramatic cinematic scene set in a dark, foggy forest, depicting two hooded figures clashing, with one unleashing a burst of glowing red energy, emphasizing deep shadows, dense atmosphere, and high-detail lighting.",

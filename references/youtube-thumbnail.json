@@ -1,5 +1,72 @@
 [
   {
+    "content": "“Eternity’s Checkmate, a massive cosmic chessboard floating in deep outer space, final move frozen in time, a radiant cracked king chess piece emitting starlight energy, a mysterious hooded cosmic entity formed from galaxies and nebula dust reaching forward to deliver checkmate, shattered chess pieces transforming into constellations, swirling colorful nebula clouds, deep space background with stars, cinematic wide-angle view, dramatic volumetric lighting, ultra detailed, epic scale, surreal symbolism, sharp focus, high dynamic range, dark blue and gold color scheme, professional digital art, 8k, masterpiece quality.”",
+    "title": "Cosmic Chessboard Checkmate Scene",
+    "description": "A prompt for generating a surreal, epic digital art image of a massive cosmic chessboard floating in deep space. It focuses on dramatic symbolism, featuring a cracked king chess piece emitting starlight and a hooded cosmic entity reaching for checkmate, with shattered pieces transforming into constellations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100781690_2sxn1j_HALG-GvaMAALvCm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A slow, cinematic close-up video of crispy golden chicken nuggets. One nugget is bitten in half, revealing tender, juicy shredded white meat inside. The extra-crunchy panko coating glistens with golden-brown highlights and coarse sea salt flakes. Camera gently pans and slowly zooms in, with warm, inviting lighting and soft shallow depth of field creating a dreamy bokeh background. Out-of-focus nuggets in the background add depth. The coating crunch subtly emphasized with slow-motion micro-detail shots, highlighting texture and golden crispiness. Professional food styling, hyper-realistic, appetizing, mouthwatering, [food], 4K, cinematic lighting, smooth camera movement.",
+    "title": "Cinematic Close-Up of Crispy Chicken Nuggets",
+    "description": "A prompt for generating a slow-motion, cinematic video close-up of crispy golden chicken nuggets. It emphasizes the texture of the panko coating, the juiciness of the meat, and uses warm, inviting lighting with a shallow depth of field to create an appetizing, hyper-realistic food shot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100770160_vdcqff_HAJbt6kbIAAmw5m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"type\": \"image_generation_prompt\",\n  \"style\": \"surreal, cinematic, conceptual art\",\n  \"camera\": {\n    \"angle\": \"high-angle\",\n    \"shot\": \"full shot\",\n    \"composition\": \"symmetrical balance with central campfire dividing two characters\",\n    \"background\": \"pitch-black void with no visible environment\"\n  },\n  \"scene\": {\n    \"setting\": \"abstract cosmic space\",\n    \"environment\": \"dark void emphasizing isolation and contrast\",\n    \"resolution\": \"8k\",\n    \"render_style\": \"photorealistic\"\n  },\n  \"characters\": [\n    {\n      \"position\": \"left\",\n      \"subject\": \"{argument name=\"character 1\" default=\"astronaut\"}\",\n      \"pose\": \"sitting\",\n      \"seat\": \"rough gray rock\",\n      \"appearance\": {\n        \"suit\": \"highly detailed realistic white space suit\",\n        \"helmet\": \"on, reflective visor\"\n      },\n      \"action\": \"holding a stick and roasting a marshmallow over the fire\"\n    },\n    {\n      \"position\": \"right\",\n      \"subject\": \"{argument name=\"character 2\" default=\"young man\"}\",\n      \"pose\": \"sitting and leaning forward\",\n      \"seat\": \"metal folding chair\",\n      \"appearance\": {\n        \"hair\": \"dark hair\",\n        \"clothing\": {\n          \"top\": \"red and black plaid flannel shirt\",\n          \"bottom\": \"blue jeans\",\n          \"footwear\": \"brown boots\"\n        }\n      },\n      \"action\": \"warming hands by the fire\"\n    }\n  ],\n  \"central_element\": {\n    \"object\": \"campfire\",\n    \"style\": \"magical and surreal\",\n    \"fire_behavior\": \"flames transition seamlessly into a spiral galaxy\",\n    \"galaxy\": {\n      \"type\": \"photorealistic spiral galaxy\",\n      \"details\": [\n        \"glittering stars\",\n        \"cosmic dust\",\n        \"swirling motion\"\n      ],\n      \"shape\": \"arching overhead like a celestial canopy\"\n    }\n  },\n  \"lighting\": {\n    \"primary_light\": \"warm orange glow from the campfire\",\n    \"secondary_light\": \"cool blue and purple glow from the galaxy\",\n    \"mood\": \"dramatic, cinematic, ethereal\",\n    \"shadows\": \"soft but deep, emphasizing contrast\"\n  },\n  \"color_palette\": {\n    \"dominant\": [\"black\", \"orange\", \"blue\", \"purple\"],\n    \"accent\": [\"white\", \"red\", \"brown\"]\n  },\n  \"themes\": [\n    \"human connection\",\n    \"cosmic wonder\",\n    \"contrast between the ordinary and the infinite\",\n    \"shared warmth in an infinite universe\"\n  ],\n  \"quality_tags\": [\n    \"ultra-detailed\",\n    \"photorealistic textures\",\n    \"cinematic lighting\",\n    \"sharp focus\",\n    \"high dynamic range\"\n  ]\n}",
+    "title": "Surreal Campfire in Cosmic Void",
+    "description": "A highly structured prompt for generating a surreal, cinematic conceptual art image. It depicts two figures—an astronaut and a young man in flannel—sitting symmetrically around a campfire in a pitch-black cosmic void, where the fire's flames seamlessly transition into a swirling spiral galaxy, emphasizing themes of contrast and human connection in the infinite universe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100785672_wiyfim_HAJUkcybAAEraR_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A hyper-detailed, adorable golden hamster in a bright, cheerful gym, animated in smooth cinematic motion. The chubby hamster, fluffy and round, lifts oversized black dumbbells with both tiny paws, bouncing slightly with effort. It wears playful over-ear headphones, a backwards beige baseball cap, and a soft grey weightlifting belt. Mouth open in an excited squeak, eyes sparkling with joy and determination. Warm, soft lighting with gentle shadows shifts subtly across the scene, highlighting floating dust motes and colorful gym equipment. Camera slowly pans around the hamster, showing dynamic angles from three-quarters and low perspectives. Fun textures and whimsical details remain visible throughout. Motion is lively, charming, and heartwarming, 8K ultra-realistic cinematic style, shallow depth of field, soft focus transitions, gentle ambient gym sounds.\n--ar 3:4 --stylize 250 --v 6",
+    "title": "Hyper-Detailed Hamster Weightlifting Cinematic Scene",
+    "description": "This is a highly detailed, ultra-realistic cinematic prompt for generating an image of an adorable golden hamster lifting oversized dumbbells in a bright gym setting. The prompt specifies lighting, motion, textures, and camera angles for a heartwarming and dynamic visual.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100786524_qgm1uv_HAJLGuQbMAAvttV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Tilt-shift 3D model diorama in 4:5 aspect ratio, highlighting {argument name=\"landmark\" default=\"Tokyo Tower and the Shibuya Crossing\"} at {argument name=\"time of day\" default=\"sunset\"}. Tiny pedestrians and cyclists navigate the bustling streets, while cherry blossoms drift gently from nearby trees. Neon signs and LED billboards glow softly in the background.",
+    "title": "Tilt-Shift Tokyo Diorama at Sunset",
+    "description": "A prompt for generating a tilt-shift 3D model diorama image, focusing on iconic Tokyo landmarks like the Tokyo Tower and Shibuya Crossing at sunset, emphasizing miniature scale and atmospheric details like cherry blossoms and glowing neon signs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100761947_7p84qx_HAIKCK2bMAAnFpK.jpg",
+      "https://cms-assets.youmind.com/media/1770100762608_2up0re_HAIKCdHacAAR0Dh.jpg",
+      "https://cms-assets.youmind.com/media/1770100763799_tmdc91_HAIKCc3a8AEbiqB.jpg",
+      "https://cms-assets.youmind.com/media/1770100764752_lx2ogu_HAIKCeRbUAAgBZp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "TETRIS  “Home Organization Level: SSS Rank”\n\nReal apartment moves are performed by tetrominoes fitting perfectly into a moving truck. Zero empty spaces.\n\nHumor flavor:\ndomestic efficiency gamified",
+    "title": "Tetris Home Organization Humor Prompt",
+    "description": "A humorous prompt for generating an image based on the concept of Tetris pieces perfectly organizing a home move. The prompt uses the idea of tetrominoes fitting perfectly into a moving truck with zero empty spaces, gamifying domestic efficiency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100800454_0drzai_HAHzpZNX0AAN68u.jpg",
+      "https://cms-assets.youmind.com/media/1770100800774_woq6kr_HAHzpZUXAAAsfY1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "When I instructed it to create an X thumbnail in 5:2, it produced the perfect size.",
+    "title": "Gemini's Nano Banana Pro for X Thumbnails",
+    "description": "A user praises Gemini's Nano Banana Pro for its ability to generate high-quality thumbnails for X (Twitter) in the exact requested 5:2 aspect ratio, demonstrating its utility for social media content creation. The prompt is a simple instruction for sizing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100849909_ldqqhz_HAHNU2XbIAAtkBi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A sad boy ({argument name=\"face reference\" default=\"same face as uploaded\"}) standing alone in the rain at night, cinematic and emotional mood, soft rain streaks visible, wet hair and jacket, downcast eyes, subtle tear mixing with rain, neon city lights blurred in the background, shallow depth of field, moody blue and gray color palette, realistic skin texture, natural body proportions, dramatic side lighting, high contrast, film grain, 35mm lens look, ultra detailed, realistic, no oversmoothing, melancholic atmosphere.",
     "title": "Melancholic Sad Boy in the Rain (Reference Face)",
     "description": "A prompt for generating a cinematic, emotional image of a sad boy standing alone in the rain at night. It requires using an uploaded face as a reference and emphasizes moody blue/gray colors, dramatic side lighting, film grain, and the detail of a subtle tear mixing with the rain.",

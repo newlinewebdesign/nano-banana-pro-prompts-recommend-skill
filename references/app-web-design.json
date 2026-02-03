@@ -1,5 +1,32 @@
 [
   {
+    "content": "Ultra-high-end abstract composition.\nLarge smooth sculptural forms with realistic material shading,\nsoft diffused studio lighting from above,\ngentle shadow gradients with no hard edges,\nneutral gallery-style color palette,\nperfect balance and spacing,\ncomposed like a contemporary design exhibition piece.",
+    "title": "Ultra-high-end Abstract Composition",
+    "description": "A prompt designed to stress-test visual quality by generating an ultra-high-end abstract composition. It specifies large, smooth sculptural forms, soft diffused studio lighting, gentle shadow gradients, and a neutral gallery-style color palette, aiming for a contemporary design exhibition piece aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100868436_ozqc8w_G_dMh_UX0AA0dX_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Cover visual for a premium startup presentation.\nMinimal layout,\nstrong visual hierarchy,\nabstract brand motif,\nample negative space,\ndesigned to set tone without overwhelming content.",
+    "title": "Minimalist Startup Presentation Cover Visual Prompt",
+    "description": "A prompt designed for generating a minimalist, high-impact cover visual for a premium startup presentation. The focus is on restraint, strong visual hierarchy, abstract branding, and ample negative space to set a confident tone without overwhelming the content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100806599_g7qxko_G_K9BT-WUAAuyTG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "The image uses a left-right split composition, with a clear boundary between the left and right halves, aligned overall, presenting a comparison effect of \"concept map versus actual implementation\".\nThe left half is a highly detailed modern minimalist architectural floor plan illustration, consistent with the reference image style. It shows a top-down orthogonal projection of the residential layout, clearly labeling spaces and circulation: living room, dining area, open kitchen, bedroom, entrance hall, corridor and flow lines, balcony or loggia space, bay window, and window opening locations. The color scheme uses neutral beige and warm gray, with clean lines, slight soft shadows, and delicate material textures, showcasing the quality of the interior design plan, presented in a blueprint-style flat visual, with visible and accurately scaled furniture placement.\nThe right half is an ultra-realistic interior photo effect of the same living room as the left floor plan, with spatial proportions and layout strictly corresponding to the floor plan. The living room includes a curved sofa set, a central coffee table, soft carpet, warm wooden floor, neutral walls, and large windows introducing natural light. The overall style is modern and warm home atmosphere, with earthy tones and soft lighting, realistic and tactile materials, details that feel lived-in yet remain neat and restrained. The right side presents a real interior photography texture, with clear textures and high-resolution details.\nThe style and atmosphere combine architectural visualization with real interior photography, modern, warm, elegant, conveying the professional design studio presentation feel, emphasizing the contrast between the plan and the actual scene.\nLighting and color requirements: The left side uses uniform flat light and neutral colors, while the right side uses natural daylight with soft shadows and warm highlights; the colors on both sides maintain a unified harmonious relationship.\nLens and technical requirements: The left side is a top-down orthogonal view, and the right side is a flat view using an interior wide-angle lens, with sharp image clarity, rich real materials, and details.\nNegative prompt: cartoon style, rough details, messy interior, mismatch between floor plan and actual scene, distorted proportions, overly harsh light, exaggerated saturated colors, text overlay, watermark, logo, noise, blur.",
+    "title": "Prompt for Generating Architectural Floor Plan and Photorealistic Interior Comparison",
+    "description": "A detailed prompt for Nano Banana Pro to generate a split-screen image comparing an architectural floor plan (left side) and a photorealistic interior rendering (right side) of the same space (a living room). It specifies composition, style, color palette, lighting, camera angles, and detailed elements for both the technical blueprint and the warm, modern interior shot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100852289_d2xj4a_HAIWy6za4AA0z1y.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Ultra-wide-angle hyper-realistic top-down flat lay photography. The central focus is a custom physical conference table meticulously shaped like {argument name=\"Shape\" default=\"[SHAPE/NUMBER/SYMBOL]\"}.\n\nThe table features {argument name=\"Material\" default=\"[MATERIAL/TEXTURE/COLOR]\"} and placed on a [FLOOR COLOR] floor, creating significant negative space around it for a clean, minimalist composition. A group of {argument name=\"Number of People\" default=\"[NUMBER]\"} real people are sitting around the edges of this [SHAPE]-shaped table. [POSITIONING: e.g., 3 on each side, 1 top/bottom]\n\nActions: [DESCRIBE PEOPLE'S ACTIONS, e.g., working on laptops, drinking coffee].\nLighting & Quality: Professional studio lighting with crisp, distinct drop shadows that define the [SHAPE] silhouette on the floor. 8k resolution, sharp focus, cinematic commercial aesthetic.",
     "title": "Top-Down Flat Lay of Custom-Shaped Conference Table",
     "description": "A customizable prompt for generating a hyper-realistic, ultra-wide-angle top-down flat lay photograph of a conference table shaped like a specific object or symbol. The prompt requires defining the table's shape, material, and the actions of the people seated around it, emphasizing professional studio lighting and crisp drop shadows.",
