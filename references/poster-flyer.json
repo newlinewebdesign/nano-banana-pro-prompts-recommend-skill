@@ -18,6 +18,78 @@
     "needReferenceImages": false
   },
   {
+    "content": "A high-definition, cinematic portrait of a young man with wavy blonde hair, looking over his shoulder with a serious expression. He is standing on a crowded, rainy city street at night. The background is filled with intense, warm golden bokeh from city lights and traffic, contrasting with cool blue tones in the upper atmosphere. Rain droplets and golden dust particles are caught in the light, creating a shimmering, ethereal atmosphere. Sharp focus on the subject's face, shallow depth of field, photorealistic, shot on 35mm lens, moody lighting.",
+    "title": "Cinematic Night Portrait with Teal and Orange Contrast",
+    "description": "A detailed prompt for generating a high-definition, cinematic portrait of a young man on a crowded, rainy city street at night. The prompt specifically uses color contrast (warm golden bokeh vs. cool blue tones) and atmospheric elements (rain droplets, golden dust) to achieve a moody, photorealistic look with sharp focus and shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187152110_7wy2bf_HASdVVkbEAEfAVL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A 10-year-old Palestinian boy inspired by Naji al-Ali's Handala character, standing with his back turned to the viewer on a rocky Gaza beach at sunset, hands clasped behind his back, wearing tattered simple clothes and barefoot, short messy hair, silhouette against the sea and horizon, keffiyeh scarf loosely around his neck, the phrase '{argument name=\"phrase\" default=\"To exist is to resist\"}' written in bold white handwritten English letters floating in the sky or carved into the sand in front of him, dramatic golden hour lighting, warm orange and deep blue tones, emotional and symbolic atmosphere of steadfast resistance and sumud, photorealistic style with slight cartoonish influence from classic Handala drawings, high detail, cinematic composition, 8k resolution",
+    "title": "Emotional Handala-Inspired Palestinian Boy Portrait",
+    "description": "An image generation prompt for a photorealistic, symbolic portrait of a 10-year-old Palestinian boy inspired by Naji al-Ali's Handala, set on a rocky Gaza beach at sunset, emphasizing themes of resistance and steadfastness (sumud).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187163968_8ldowr_HAQsxSuWIAAzY3a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A surreal cinematic fantasy portrait of a man's face (uploaded face as reference) emerging from a frozen forest, his skin dusted with snow and glowing embers. One luminous golden eye glowing with mystical energy, ultra-detailed iris. Warm firelight and cold blue ice colliding across his face, snow particles floating in the air. A small cloaked figure standina beside his face inside the forest, adding scale and mystery. Dramatic contrast between fire and ice, ethereal atmosphere, fantasy realism, ultra-sharp facial details, volumetric lighting, shallow depth of field, magical glow, cinematic color grading, hyper-realistic textures, 8K resolution, epic dark fantasy art, movie poster quality",
+    "title": "Surreal Cinematic Fantasy Portrait with Fire and Ice",
+    "description": "A prompt for generating a highly detailed, cinematic fantasy portrait of a man's face emerging from a frozen forest, featuring glowing embers, a luminous golden eye, and dramatic contrast between warm firelight and cold blue ice, requiring an uploaded face as reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187191230_u6bseq_HAPwRadaYAA8S4_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create a striking neo-noir fashion portrait of a man dressed in a sharp black three-piece suit, white dress shirt, and slim black tie, carrying a {argument name=\"prop item\" default=\"gun\"} in the hands. He faces slightly downward and to the side, head tilted with a brooding, introspective expression. His presence feels controlled, distant, and powerful—like a stylish anti-hero caught between worlds. He has medium-length wavy dark hair falling loosely around his temples, a well-groomed beard, and wears round black sunglasses that completely conceal his eyes, amplifying mystery and authority. His posture is relaxed yet deliberate, conveying confidence without effort. The subject is rendered in dramatic black and white, while the background is a rich, textured {argument name=\"background color\" default=\"crimson red\"}, creating intense contrast and visual impact. The red backdrop feels symbolic and emotional, evoking danger, passion, rebellion, and cinematic tension. Lighting is moody and directional, sculpting facial features and suit fabric with subtle highlights and deep shadows. Fine film grain and painterly texture add an editorial, poster-like quality. The image feels like a luxury fashion campaign, noir graphic novel cover, or arthouse film poster. Use aspect ratio 4:5.",
+    "title": "Neo-Noir Fashion Portrait with High Contrast",
+    "description": "A prompt for generating a striking neo-noir fashion portrait of a man in a black three-piece suit, carrying a gun. The image uses dramatic black and white for the subject against a rich, textured crimson red background, emphasizing moody, directional lighting, film grain, and a stylish anti-hero aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187124771_0txl4x_HANuq6iawAATacW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A surreal hyper-realistic cinematic video of a colossal macaron megastructure under construction, envisioned as a futuristic architectural spire made entirely of oversized pastel macarons. Each macaron tier functions like a rotating skyscraper floor, subtly spiraling upward as the structure grows. Crisp glossy shells with sculptural ruffled edges and softly glowing cream fillings ooze slightly in slow motion, catching the light.\nTiny miniature construction workers in reflective vests, hard hats, harnesses, and safety gear move with purposeful realism: rappelling down macaron surfaces, welding delicate sugar-like support ribs, laser-measuring seams, signaling to cranes, and guiding a levitating macaron layer suspended by synchronized cables. A massive yellow crane slowly lifts the top macaron into place while smaller cranes, excavators, and dump trucks operate below on a powdered-sugar terrain.\nCamera movement is cinematic and deliberate: slow vertical crane-up shots revealing scale, macro close-ups of textured macaron shells and creamy fillings, then wide aerial pulls showing the entire tower disappearing into thick vanilla-tinted fog. Volumetric god rays pierce the mist, soft particles float in the air, and subtle motion blur enhances realism. Lighting is dramatic yet elegant, blending industrial grit with whimsical luxury.\nUltra-detailed photorealistic textures contrast smooth dessert surfaces with worn construction machinery. Dreamlike but believable physics, gentle ambient motion, no abrupt cuts, seamless transitions. Vertical composition, epic scale contrast, surreal food-architecture world, cinematic depth of field, 8K realism, slow majestic pacing.\nSettings:\n– aspect ratio 2:3\n– cinematic realism\n– slow motion accents\n– volumetric lighting\n– ultra-high detail\n– surreal architectural fantasy",
+    "title": "Surreal Cinematic Macaron Megastructure Video Prompt",
+    "description": "A complex, multi-layered prompt for generating a surreal, hyper-realistic cinematic video of a colossal architectural spire made entirely of oversized pastel macarons. It specifies detailed elements like miniature construction workers, slow-motion effects, volumetric lighting, and a contrast between industrial grit and whimsical luxury, aiming for an 8K, slow-pacing, vertical composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187130467_ilt7ou_HAOZPzNbwAAN_UZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A high fashion magazine pictorial of a young blonde American woman in her early 20s standing still and looking at the camera, gently turning her head in the center, surrounded by blurry silhouettes of people walking past in New York Times Square. She has a calm, stoic expression and is wearing a black minimalist outfit. The background shows the vibrant lights and billboards of Times Square, slightly abstract and bright, emphasizing the contrast between motion blur and her static presence. Editing style, film composition, pure art photography, soft magazine texture, high resolution. --stylize 200 --raw",
+    "title": "High Fashion Magazine Pictorial in Times Square",
+    "description": "A prompt for generating a high-fashion editorial image featuring a young woman standing still in the vibrant, motion-blurred chaos of New York Times Square. The focus is on contrast between the static subject and the dynamic background, aiming for a pure art photography style with film composition and soft magazine texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187128693_veq8lf_HAN8lm4akAA3dRF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n\"subject\": {\n\"description\": \"A realistic close-up portrait poster composed of two overlaid image layers. The first layer features a clean, solid red background with Rosé (BLACKPINK) photographed under hard direct sunlight, raising an open hand close to the camera. A single eyeglass lens frame is centered as a 'lens window' concept, precisely revealing the woman's face. The second layer sits above the first, applying a frosted-glass effect, while the area inside the eyeglass lens remains clearer.\", \"mirror_rules\": null, \"age\": \"approximately late 20s\", \"expression\": { \"eyes\": { \"look\": \"direct eye contact\", \"energy\": \"focused and calm\", \"direction\": \"toward the camera\" }, \"mouth\": { \"position\": \"closed\", \"energy\": \"neutral to slightly cool\" }, \"overall\": \"calm, serious editorial poster expression\" }, \"face\": { \"preserve_original\": true, \"makeup\": \"natural makeup, subtle eyeliner, natural lip color\" }, \"hair\": { \"color\": \"blonde / platinum blonde\", \"style\": \"long layered hair with soft waves\", \"effect\": \"soft golden waves catching sunlight with a warm sheen\" }, \"body\": { \"frame\": \"slim\", \"waist\": null, \"chest\": null, \"legs\": null, \"skin\": { \"visible_areas\": [ \"face\", \"neck\", \"hand\" ], \"tone\": \"light to medium skin tone\", \"texture\": \"natural skin texture with realistic pores\", \"lighting_effect\": \"hard direct sunlight with crisp shadow edges\" } }, \"pose\": { \"position\": \"front-facing close-up\", \"base\": \"one hand raised close to the lens with fingers spread\", \"overall\": \"the hand forms a strong shape and partially obscures the face\" }, \"clothing\": { \"top\": { \"type\": \"simple T-shirt or minimalist top\", \"color\": \"off-white / light beige\", \"details\": \"clean neckline, no visible logo\", \"effect\": \"soft fabric texture under harsh sunlight\" }, \"bottom\": { \"type\": null, \"color\": null, \"details\": null } }\n},\n\"accessories\": {\n\"headwear\": null, \"jewelry\": { \"description\": \"small hoop earring (at least one side visible) and a thin ring on one finger\" }, \"device\": null, \"prop\": { \"description\": \"a single eyeglass lens frame centered in the composition; the lens area functions as a 'clarity window'\" }\n},\n\"photography\": {\n\"camera_style\": \"realistic portrait base image combined with modern graphic poster overlay\", \"angle\": \"slightly high to eye-level close-up angle\", \"shot_type\": \"tight close-up (head and hand dominate the frame)\", \"aspect_ratio\": \"2:3 vertical poster\", \"texture\": \"sharp facial details on the base image, clean edges, high contrast\", \"lighting\": \"hard direct sunlight with warm highlights and strong shadows\", \"depth_of_field\": \"two-layer effect: the first layer remains fully clear; the second layer applies global frosted-glass diffusion, blur, and vintage grain, while the eyeglass lens area is inversely masked to remain sharper and clearer\"\n},\n\"background\": {\n\"setting\": \"poster layout desig\"\n}",
+    "title": "Rosé (BLACKPINK) Frosted Glass Poster Prompt",
+    "description": "A complex, layered prompt for creating a realistic close-up portrait poster of Rosé (BLACKPINK). It requires two overlaid layers: a sharp base image under hard sunlight, and a frosted-glass effect applied globally, except for a 'lens window' centered on the face by a single eyeglass frame, resulting in a high-contrast, modern graphic poster look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187140602_zweuy3_HANteDQbMAAd9y3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Let's make Nano Banana design a poster!",
+    "title": "Poster Design Improvement Prompt (Meta-Prompt)",
+    "description": "A meta-prompt or instruction set used to refine and improve a poster design generated by an AI (Nano Banana). The goal is to elevate the design quality from a basic PPT level to something comparable to a one-day design class output. The actual prompt text is referenced externally, but the context describes a prompt engineering process.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187222631_v5osnj_HANsSGNaIAAXa2M.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Create a vintage patent-style technical illustration of {argument name=\"object\" default=\"a complex mechanical device\"} on aged cream parchment paper. Black ink linework with sepia accents, hand-lettered labels, cross-section views, numbered component callouts, official patent border frame with fake patent number and date. Style of 1890s mechanical engineering drawings. Elegant, authoritative, museum-worthy.",
     "title": "Vintage Patent Drawing Technical Illustration",
     "description": "A prompt template for generating a vintage patent-style technical illustration of an object. It specifies black ink linework, sepia accents, hand-lettered labels, cross-section views, and an official patent border on aged cream parchment paper, aiming for the aesthetic of 1890s mechanical engineering drawings.",

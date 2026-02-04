@@ -1,5 +1,36 @@
 [
   {
+    "content": "Use the uploaded image of the character as an exact reference. Preserve the original proportions, materials, colors, textures, and facial features. Do not alter the design and do not stylize the character.\n\nA first-person point-of-view shot inside an abandoned space [LOCATION TYPE: television studio/advertising set/real filming location].\n\nThe viewer is holding a flashlight, creating a single circular beam of light while the rest of the space is engulfed in darkness. In the flashlight beam, it is visible that the character is positioned as if it was left behind after filming: [POSITION: lying on the floor/curled up in a corner/leaning against a table/slumped against a wall]. The character must appear completely lifeless and inactive: no action, no intentional pose, no sense of presence. If it is a doll or a costume, there must be no visible hands, rods, strings, or person inside.\n\nThe character appears old, dirty, and abandoned: worn fabric, accumulated dust, stains, discoloration, flattened or damaged areas.\n\nThe environment is clearly abandoned: dusty surfaces, old filming equipment, cables scattered on the floor, faded signs or set decorations.\n\nDust particles float within the flashlight beam; the space feels silent and untouched for years.\n\nPhotorealistic flashlight-based lighting, harsh shadows, rough textures, documentary realism, on-location shooting aesthetics, no stylization Aspect\n\nRatio 9:16",
+    "title": "Abandoned Promotional Statue Conversion Prompt",
+    "description": "A unique prompt for converting an uploaded character image into a photorealistic, abandoned promotional statue or costume found in a dark, dusty location (like an old TV studio). It mandates preserving the original character design while rendering the figure as lifeless, dirty, and worn, illuminated only by a harsh flashlight beam, emphasizing documentary realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187140138_7fx439_HAO1zBTaoAEywfl.jpg",
+      "https://cms-assets.youmind.com/media/1770187140025_av5uo2_HAO1y_VakAAIvnI.jpg",
+      "https://cms-assets.youmind.com/media/1770187139984_ah0drx_HAO1y_WagAAPTxT.jpg",
+      "https://cms-assets.youmind.com/media/1770187141056_72vjjz_HAO1zDDbcAEjs8c.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "AI Manga: {argument name=\"theme\" default=\"2-minute cooking\"}",
+    "title": "AI Manga: 2-Minute Cooking",
+    "description": "A prompt or instruction to generate an AI manga strip focused on the theme of '2-minute cooking', created using the Nano Banana Pro tool.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187219720_w5crek_HAOhWssaIAEOZYD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A multi-cut image of a Japanese woman doing yoga in a stylish room.\nDivide the frame into 5x5 sections and create 25 scenes.\nDisplay sequential numbers from 1 in the upper left of each scene.\n\n25 scenes are depicted in the image above.\nThe upper left is the scene number.\nExtract scene number {argument name=\"extracted scene number\" default=\"7\"} and reproduce it in high resolution.",
+    "title": "Multi-Cut Scene Generation and Extraction Prompt",
+    "description": "A two-part prompt demonstrating a technique in Nano Banana Pro to generate a multi-cut image (25 scenes) and then extract a specific scene (scene 7) at high resolution, useful for comparing multiple variations quickly.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187208800_fg4pik_HAN5rpDa4AEa1g5.jpg",
+      "https://cms-assets.youmind.com/media/1770187208630_j70tyu_HAN6S7CaIAAY4tj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Create a single cinematic image divided into four horizontal panels, each panel representing a different camera angle of the same scene and subject.\nAll panels must be visually cohesive in lighting, color grading, and atmosphere.\nTop panel – BIRD’S-EYE SHOT:\nA top-down overhead view, perfectly vertical camera angle, emphasizing spatial layout and geometry.\nSecond panel – SIDE CLOSE-UP SHOT:\nA close-up shot from the side profile, shallow depth of field, focusing on facial or object details with cinematic compression.\nThird panel – EXTREME CLOSE-UP:\nAn extreme close-up capturing fine textures and micro details, filling the frame almost abstractly.\nBottom panel – MEDIUM WIDE BACK SHOT:\nA medium-wide shot from behind the subject, showing posture and environment, cinematic framing, strong sense of depth.\nClean horizontal separations between panels, editorial film-strip composition, high-end cinematic still, consistent subject identity across all panels.",
     "title": "Four-Angle Cinematic Panel Composition",
     "description": "A complex prompt designed to generate a single cinematic image divided into four horizontal panels, each showing the same scene and subject from a different camera angle: bird’s-eye, side close-up, extreme close-up, and medium wide back shot. This is intended for high-end editorial film-strip compositions.",

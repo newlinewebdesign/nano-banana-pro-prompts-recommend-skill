@@ -1,20 +1,106 @@
 [
   {
-    "content": "'Analyze this photo and give me a very detailed json prompt to reproduce it. It must be very detailed, and must break down the color grading and all the exact colors in the photo'\n\nUse this json as a reference to generate a person holding my product [attach product image]",
-    "title": "Workflow for Generating Realistic UGC Photos with Nano Banana Pro and ChatGPT",
-    "description": "A detailed workflow describing how to use ChatGPT's analytical capabilities to generate a highly specific JSON prompt from a reference image (for style/color grading), then feeding that JSON into Nano Banana Pro (via Gemini Pro) along with a product image to create photorealistic UGC (User Generated Content) featuring a consistent model holding the product.",
+    "content": "{\n  \"image_prompt\": {\n    \"subject\": \"Close-up shot of a woman's chest and neckline area\",\n    \"focus_product\": {\n      \"item_main\": \"Layered gold necklace set\",\n      \"pendant_1\": \"Large, shiny gold letter '{argument name=\\\"initial letter\\\" default=\\\"P\\\"}' initial pendant (bamboo or balloon texture style)\",\n      \"pendant_2\": \"Small, round gold coin or medallion pendant hanging on a slightly longer chain\",\n      \"chain_style\": \"Delicate, thin gold chains\"\n    },\n    \"clothing\": \"{argument name=\\\"clothing color\\\" default=\\\"Bright red\\\"}, ribbed texture (knit), scoop neck tank top or bodysuit\",\n    \"hair\": \"Wavy strawberry blonde or copper red hair falling on the sides\",\n    \"skin_tone\": \"Fair skin\",\n    \"camera_angle\": \"Straight-on frontal view, close-up crop at chest level (maintaining original framing)\",\n    \"lighting\": \"Soft, diffused natural lighting, emphasizing the shine of the gold\",\n    \"style\": \"Jewelry product photography, lifestyle aesthetic, high resolution, sharp focus on the necklaces\"\n  }\n}",
+    "title": "Jewelry Product Photography of Layered Gold Necklace",
+    "description": "A structured JSON prompt for generating a close-up product photograph of a layered gold necklace set, featuring a large initial 'P' pendant, against a woman's chest wearing a red ribbed tank top, emphasizing sharp focus on the jewelry under soft, diffused lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1770100854399_armxd3_HANgq5MaIAA68dM.jpg"
+      "https://cms-assets.youmind.com/media/1770187206392_ogknox_HAPNPDXXQAAeTX4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A product photo in a premium advertising style. Two tall matte bottles of Salton Shoe Deodorant levitate in the air in a dynamic, balanced composition.\nThe bottles are positioned at an angle to each other, creating a striking diagonal composition. One bottle is slightly forward, the other is slightly behind, creating depth and hierarchy. Both bottles are elegantly wrapped with a wide black and brown satin ribbon featuring the repeating \"Salton\" branding. The lettering is executed in a neat, contrasting font, legible without distortion, and is repeated evenly along the entire length of the ribbon. The ribbon flows smoothly between the bottles, uniting them into a single composition, without obscuring key messages on the packaging or clashing with the main branding on the bottles. Shot from a slightly lower angle, the bottles are slightly tilted, enhancing a sense of confidence, strength, and premium quality. The background is a solid studio color, a deep warm shade (chocolate, dark caramel or soft terracotta), clean and minimalist, without distracting details.",
+    "title": "Premium Advertising Photo of Levitation Bottles",
+    "description": "A prompt for creating a dynamic, premium advertising image featuring two matte product bottles levitating in a balanced diagonal composition. The bottles are wrapped with a branded satin ribbon, shot from a low angle against a clean, warm-toned studio background to convey confidence and premium quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187129227_6wu1e5_HAOIN8PaAAAsqdW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Hyperrealistic luxury product photography of a transparent cosmetic jar labeled “{argument name=\\\"product name\\\" default=\\\"SOLARA SKIN\\\"}” papaya glow scrub floating mid-air, lid suspended above. Vibrant orange whipped scrub erupts upward with juicy texture, surrounded by papaya cubes, halved papayas, and golden droplets frozen in motion. Centered macro view, cinematic studio lighting from above, glowing highlights, shallow depth, warm nude gradient background, premium skincare advertising, crisp 8K realism.",
+    "title": "Hyperrealistic Luxury Product Photography of Papaya Scrub",
+    "description": "A prompt for generating hyperrealistic luxury product photography, focusing on a transparent cosmetic jar floating mid-air with vibrant orange scrub erupting from it, surrounded by fruit and golden droplets, emphasizing crisp 8K realism and cinematic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187195147_n7grnz_HAOHXChagAE6pd3.jpg",
+      "https://cms-assets.youmind.com/media/1770187195193_rwjdfx_HAOHXCrbYAAHD7t.jpg",
+      "https://cms-assets.youmind.com/media/1770187195256_gts8pi_HAOHXCfaIAAjnMy.jpg",
+      "https://cms-assets.youmind.com/media/1770187197284_reo5sm_HAOHXCgaAAAwsS0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A premium studio product photograph of a tall, slim red aluminum sparkling water can standing upright and centered against a seamless vivid red background, the can covered in fine condensation droplets with crisp white typography reading “{argument name=\"text\" default=\"GOOD IDEA\"}” and smaller flavor text beneath, positioned on a matte red surface with subtle reflections, surrounded symmetrically by fresh ripe strawberries with glossy seeds and deep red flesh, some resting directly on the surface and others.",
+    "title": "Premium Studio Product Photo of Sparkling Water Can",
+    "description": "A detailed prompt for generating a premium studio photograph of a red aluminum sparkling water can. The focus is on condensation, crisp typography, and surrounding the product with fresh strawberries, all set against a seamless vivid red background for a high-end commercial look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187128918_6s7pw4_HAN3eGxbwAAZ4Hk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "'Analyze this photo and give me a very detailed json prompt to reproduce it. It must be very detailed, and be sure to break down the color grading and all the exact colors in the photo.'\n\nUsing this json as a reference, generate a person holding my product [{argument name=\"product image\" default=\"attached product image\"}]",
+    "title": "JSON Prompt Generation for Hyper-Realistic AI Photos",
+    "description": "A detailed, multi-step workflow for generating hyper-realistic AI photos using Nano Banana Pro by leveraging ChatGPT's image analysis capabilities to create a highly specific JSON prompt based on a reference image, focusing on color grading and realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187212715_moza8m_HANgq5MaIAA68dM.jpg"
     ],
     "needReferenceImages": true
   },
   {
-    "content": "{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K ultra-high-definition\",\n      \"aspect_ratio\": \"3:4 vertical\",\n      \"style\": \"hyper-realistic AI-edited commercial product photography\",\n      \"sharpness\": \"extreme clarity, micro-detail visibility\",\n      \"lighting_quality\": \"cinematic studio lighting with controlled highlights and shadows\",\n      \"motion_freeze\": \"high-speed capture, frozen splashes and particles\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n\n\"module_1_image_1_style\": {\n      \"subject\": {\n        \"type\": \"{argument name=\\\"subject type\\\" default=\\\"orange-flavored soda can\\\"}\",\n        \"color\": \"bright orange\",\n        \"surface_details\": \"condensation droplets across can\",\n        \"branding_text_visible\": [\n          \"Sesla\",\n          \"cola\"\n        ]\n      },\n      \"pose_and_orientation\": {\n        \"position\": \"upright, slightly embedded in splash\",\n        \"angle\": \"centered frontal view\"\n      },\n      \"liquid_and_motion\": {\n        \"liquid_color\": \"transparent orange-tinted liquid\",\n        \"motion\": \"high-energy splash bursting upward and outward\",\n        \"splash_detail\": \"clear liquid arcs with suspended droplets\"\n      },\n      \"floating_elements\": {\n        \"oranges\": [\n          \"whole oranges\",\n          \"halved oranges with visible pulp\"\n        ],\n        \"ice_cubes\": \"clear sharp-edged cubes floating mid-air\",\n        \"droplets\": \"numerous spherical liquid droplets\"\n      },\n      \"background\": {\n        \"color\": \"solid {argument name=\\\"background color\\\" default=\\\"bright orange\\\"}\",\n        \"lighting\": \"high-key, evenly lit\"\n      },\n      \"surface_and_reflection\": {\n        \"base\": \"shallow liquid pool\",\n        \"reflection_quality\": \"strong mirror-like reflection with ripples\"\n      }\n    }\n  }\n}",
-    "title": "Hyper-realistic commercial product shot of a soda can splash",
-    "description": "A highly detailed, structured JSON prompt for generating a hyper-realistic commercial product photograph of an orange soda can bursting through a liquid splash. It specifies extreme clarity, cinematic studio lighting, frozen motion of droplets and floating elements (oranges, ice cubes), all against a solid orange background.",
+    "content": "A photorealistic commercial beauty product shot featuring the CAIA Instant Soothing Face Mask tube tightly squeezed between two large glossy {argument name=\"balloon color\" default=\"pink\"} balloon like spheres. The balloons press inward with soft, rounded tension, creating a realistic compression effect around the tube.\nPosition the CAIA tube vertically, slightly angled, perfectly centered, with the front label text sharp, readable, and facing directly toward the camera.\nUltra-clean studio beauty lighting with smooth highlights, soft specular reflections on the balloons, and gentle shadow falloff. Background is soft pastel {argument name=\"background color\" default=\"pink\"} with subtle gradient transitions, clean and distraction-free.\nThe tube features accurate matte plastic material, realistic surface texture, subtle reflections, crisp edges, and ultra sharp focus. Shallow depth of field keeps the product perfectly sharp while balloons remain slightly softer.\nModern, minimalistic, premium skincare advertising aesthetic. High-end commercial look, playful squeeze composition, luxury beauty campaign energy, hyper detailed textures, clean symmetry, editorial grade realism, image size 9: 16 image create",
+    "title": "8K Beauty Product Shot with Balloons",
+    "description": "An ultra-realistic promotional prompt for a commercial beauty product shot, featuring a face mask tube squeezed between two glossy pink balloons, emphasizing clean studio lighting, sharp focus on the product label, and a luxury beauty campaign aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1770100812402_l1xol1_HAM94EZaQAAe4YF.jpg",
-      "https://cms-assets.youmind.com/media/1770100812294_y7mn7g_HAM94ETagAEACO-.jpg"
+      "https://cms-assets.youmind.com/media/1770187171871_avjgwl_HANfk_6aMAAmVZn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt\": \"A premium minimalist skincare product photography scene featuring an open white cosmetic jar labeled '{argument name=\"product name\" default=\"Sealine Serum\"}'. The jar is placed on a smooth, pale stone partially submerged in crystal-clear shallow water. The cream inside the jar has a soft, glossy swirl with a pristine, silky texture. Gentle water ripples surround the stone, creating natural light refractions and caustic patterns on the surface below. Small water droplets and subtle splashes add freshness and motion. The environment feels serene, clean, and natural, evoking purity, hydration, and calm luxury. The color palette is cool and airy, dominated by soft whites, light blues, and stone neutrals. Lighting is bright, diffused daylight with soft highlights and minimal shadows, emphasizing texture, moisture, and realism. The composition is centered and balanced, with shallow depth of field and a softly blurred background for a high-end cosmetic advertising look. Ultra-realistic, photoreal, editorial-quality product shot.\",\n  \"negative_prompt\": \"harsh shadows, dirty water, cluttered background, plastic texture, low resolution, oversharpening, unrealistic reflections, strong color cast, text artifacts, watermark, logo distortion, messy cream surface\",\n  \"style\": \"luxury skincare advertising\",\n  \"camera\": {\n    \"type\": \"DSLR\",\n    \"lens\": \"90mm macro\",\n    \"aperture\": \"f/5.6\",\n    \"iso\": 100,\n    \"shutter_speed\": \"1/250\"\n  },\n  \"composition\": {\n    \"framing\": \"centered product focus\",\n    \"angle\": \"slightly elevated\",\n    \"orientation\": \"portrait\",\n    \"depth_of_field\": \"shallow with soft background blur\"\n  },\n  \"quality\": {\n    \"resolution\": \"8K\",\n    \"detail\": \"ultra-fine texture detail\",\n    \"sharpness\": \"high\",\n    \"realism\": \"photorealistic\"\n  }\n}",
+    "title": "Luxury Skincare Product Macro Shot in Water",
+    "description": "A detailed prompt for generating a premium, minimalist product photograph of a white cosmetic jar submerged in shallow, crystal-clear water. It emphasizes the silky texture of the cream, natural light refractions, gentle water ripples, and a cool, airy color palette, aiming for an ultra-realistic, editorial-quality image suitable for luxury skincare advertising.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187142834_aosxz9_HANaUACbYAA9c4V.jpg",
+      "https://cms-assets.youmind.com/media/1770187142870_prmnda_HANaUAEb0AA594-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K ultra-high-definition\",\n      \"aspect_ratio\": \"3:4 vertical\",\n      \"style\": \"hyper-realistic AI-edited commercial product photography\",\n      \"sharpness\": \"extreme clarity, micro-detail visibility\",\n      \"lighting_quality\": \"cinematic studio lighting with controlled highlights and shadows\",\n      \"motion_freeze\": \"high-speed capture, frozen splashes and particles\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n\n\"module_1_image_1_style\": {\n      \"subject\": {\n        \"type\": \"orange-flavored soda can\",\n        \"color\": \"bright orange\",\n        \"surface_details\": \"condensation droplets across can\",\n        \"branding_text_visible\": [\n          \"{argument name=\"brand name\" default=\"Sesla\"}\",\n          \"{argument name=\"product type\" default=\"cola\"}\"\n        ]\n      },\n      \"pose_and_orientation\": {\n        \"position\": \"upright, slightly embedded in splash\",\n        \"angle\": \"centered frontal view\"\n      },\n      \"liquid_and_motion\": {\n        \"liquid_color\": \"transparent orange-tinted liquid\",\n        \"motion\": \"high-energy splash bursting upward and outward\",\n        \"splash_detail\": \"clear liquid arcs with suspended droplets\"\n      },\n      \"floating_elements\": {\n        \"oranges\": [\n          \"whole oranges\",\n          \"halved oranges with visible pulp\"\n        ],\n        \"ice_cubes\": \"clear sharp-edged cubes floating mid-air\",\n        \"droplets\": \"numerous spherical liquid droplets\"\n      },\n      \"background\": {\n        \"color\": \"solid bright orange\",\n        \"lighting\": \"high-key, evenly lit\"\n      },\n      \"surface_and_reflection\": {\n        \"base\": \"shallow liquid pool\",\n        \"reflection_quality\": \"strong mirror-like reflection with ripples\"\n      }\n    }\n  }\n}",
+    "title": "Hyper-Realistic Soda Can Splash Commercial Photo",
+    "description": "A structured prompt for generating a hyper-realistic commercial product photograph of an orange soda can splashing into liquid. It specifies extreme clarity, cinematic studio lighting, frozen motion (splashes, droplets), and floating elements like oranges and ice cubes, all against a solid bright orange background for a high-impact visual.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187137361_jd4hth_HAM94ETagAEACO-.jpg",
+      "https://cms-assets.youmind.com/media/1770187137448_k9foqs_HAM94EZaQAAe4YF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-cinematic vertical composition of coffee elements suspended in mid-air cascading roasted coffee beans, chocolate bonbons, swirling latte art in a mid-air coffee cup, splashes of milk and espresso frozen in motion, fine coffee grounds dusting through the air captured with rich brown and cream color tones.￼\nHyper-detailed textures with glossy liquid surfaces, crema bubbles, and matte bean textures, lit with dramatic high-contrast studio lighting against a deep, velvety {argument name=\"background color\" default=\"black\"} background. Cinematic depth of field, splash photography aesthetic, premium café advertising style. Shot with a virtual Nikon D850, 105mm macro lens, aperture f/4.0, crisp editorial clarity.￼",
+    "title": "Ultra-Cinematic Coffee Splash Photography",
+    "description": "A prompt for generating an ultra-cinematic vertical composition of coffee elements suspended in mid-air, such as cascading beans, chocolate, and swirling latte art. It demands hyper-detailed textures, dramatic high-contrast studio lighting against a black background, and a splash photography aesthetic, specifying Nikon D850 and macro lens settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187115614_5qj5p2_HAM9yn6bAAENYOM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{argument name=\"product name\" default=\"Famichiki\"}",
+    "title": "Generating 'Famichiki' Image with Nano Banana Pro",
+    "description": "The user is impressed by the photorealistic image generated by Nano Banana Pro using only the simple prompt 'Famichiki' (a fried chicken product from FamilyMart convenience store).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187217226_8473d5_HAMy0UAbsAA2m38.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{argument name=\"product name\" default=\"Karaage-kun\"}",
+    "title": "Generating 'Karaage-kun' Image with Nano Banana Pro",
+    "description": "The user notes that Nano Banana Pro was able to generate a character associated with Lawson's 'Karaage-kun' (fried chicken snack) using only the text 'Karaage-kun', highlighting the model's deep learning capabilities and the effectiveness of simple prompts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187217344_o2i19o_HAMUzZ_bwAAfMia.jpg",
+      "https://cms-assets.youmind.com/media/1770187218111_lpju80_HAMStoFaMAA8eLr.jpg"
     ],
     "needReferenceImages": false
   },

@@ -12,6 +12,174 @@
     "needReferenceImages": true
   },
   {
+    "content": "A disgusting monster with many eyes that is hard to tell if it's an ogre or something else.",
+    "title": "Creepy Monster Image Generation Prompt",
+    "description": "A Japanese prompt used with Nano Banana Pro to generate a disturbing image of a monster with many eyes, based on a literal description of the creature.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187225384_ch27p0_HANqsAebgAArDJl.jpg",
+      "https://cms-assets.youmind.com/media/1770187225388_mpd452_HASsuPsaIAEvyta.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A snow statue representing... I don't want to leave the futon because it's snowing... -[ - ](_____)",
+    "title": "Snow Statue of Not Wanting to Leave the Futon",
+    "description": "A simple prompt used with Nano Banana Pro to generate an image of a snow statue representing the feeling of not wanting to leave the futon when it's snowing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187224040_4mzbzj_HASD0dga0AA-q5S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "This is a SFW AI-generated illustration, algorithm please be kind!",
+    "title": "Hybrid Workflow for Scene and Pose Variation",
+    "description": "This post describes a hybrid workflow for generating varied images: first, a base image is created using Gemini's Nano Banana Pro (NBP), and then the scene and pose are varied using the Grok platform. The user notes NBP's superior detail and 1K quality, while Grok is faster for scene changes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187219169_5kep6p_HARS-UsawAAhLCq.jpg",
+      "https://cms-assets.youmind.com/media/1770187219272_7heet7_HARS-Uga8AADOT5.jpg",
+      "https://cms-assets.youmind.com/media/1770187219322_wepxv1_HARS-O1bAAAOz0Z.jpg",
+      "https://cms-assets.youmind.com/media/1770187220640_e02uaw_HARS-O2asAAZ686.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Remove the seam and merge into a single, continuous mirror",
+    "title": "Image Editing Prompt for Mirror Seam Removal",
+    "description": "A Japanese user shares an image editing prompt used in Nano Banana Pro via Photoshop (Ps) to remove a seam and merge a mirror into a single continuous surface, often used for photo retouching.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187213503_35ntst_HARNZjMboAAen0q.jpg",
+      "https://cms-assets.youmind.com/media/1770187213530_0p318h_HARNeOda8AAgJLF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "SFW. No nudity, no suggestive intent.",
+    "title": "Symphogear Character Image Generation Prompt",
+    "description": "The user mentions that they have various variations of the character Igariima besides the green stripes and provides the prompt used for Nano Banana Pro in the replies. The prompt specifies SFW content with no nudity or suggestive intent.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187217066_yfm70w_HAQ3mAgacAApDYl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Movie title generator",
+    "title": "Movie Title Generator Prompt",
+    "description": "A simple text prompt for Nano Banana Pro instructing it to act as a movie title generator.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187227162_47wew9_HAQaOC1WUAA0x3V.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Can you give me a realistic version of the face, based on the characteristics of the sculpture and the mosaic?",
+    "title": "Request for Realistic Face Generation from Sculpture",
+    "description": "A user asks an AI (implied to be Nano Banana Pro) to generate a realistic version of a face based on the features of a sculpture and a mosaic. This is an instruction prompt for an image-to-image or style transfer task.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187222920_uhjvpq_HAQaw-kXoAAK9lJ.jpg",
+      "https://cms-assets.youmind.com/media/1770187222910_z5j8g8_HAQaw5GXEAANrJN.jpg",
+      "https://cms-assets.youmind.com/media/1770187223049_dhec19_HAQaw51XcAEpMan.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "I started with two reference images and a simple first prompt:\n\" Change the clothes of the woman to the {argument name=\"new outfit\" default=\"yellow and green outfit\"}, keep her face the same\" \n\nOnce I had that result, I reused the generated image as the new base. \nI added a fresh outfit reference and kept the prompt structure identical, only changing the outfit name:\n\n\"Change outfit to [NAME] outfit\"",
+    "title": "Outfit Swapping Workflow with Reference Images",
+    "description": "A description of a workflow using Gemini 3 and Nano Banana Pro to maintain character identity while iteratively swapping outfits. The initial prompt changes the clothing based on a reference image, and subsequent iterations use the newly generated image as the base for further outfit changes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187185646_9rs5s7_HAQHhNCXYAAovQK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "name: \"Reality-First Prompt\n    primary_use: \"Image generation prompt creation (photoreal, editorial-documentary, product, architecture, nature, illustration/3D if requested)\"\n    works_for: [\"people\", \"objects\", \"animals\", \"food\", \"interiors\", \"architecture\", \"landscapes\", \"abstract concepts (by grounding into visible cues)\"]\n  mission: >\n    Write high-control prompts that reliably produce believable, real-world results by anchoring hard constraints,\n    describing observable details, defining one priority focus, and adding strict negatives to prevent common artifacts.\n  why_it_works:\n    - \"Front-loads non-negotiables (aspect ratio, medium, shot type, location/time, framing).\"\n    - \"Uses domain language (camera/light/material behavior) instead of vague aesthetics.\"\n    - \"Defines realism with observable cues (micro-texture, imperfections, separation).\"\n    - \"Adds disambiguation clauses to prevent frequent model failure modes.\"\n    - \"Strong strict negatives target the 'AI look' and unwanted styles.\"\n    - \"Avoids contradictions; keeps one coherent lighting/color pipeline.\"\n  operating_principles:\n    - \"Hard constraints first; never bury them.\"\n    - \"Write like a photographer/designer: measurable, stageable, physically plausible.\"\n    - \"Pick ONE primary focus and define it using 3–8 observable features.\"\n    - \"Convert style words into camera/light/material behaviors (not filters).\"\n    - \"Specify color & light explicitly: white balance, warmth, contrast, exposure, saturation rules.\"\n    - \"Specify camera behavior: lens/phone realism, DoF/focus falloff, grain, edge softness, motion blur.\"\n    - \"Use strict negatives as guardrails; keep them targeted and non-contradictory.\"\n    - \"No contradictory instructions (e.g., 'accurate WB' + 'heavy teal-orange grade').\"\n  required_inputs:\n    - key: \"subject\"\n      description: \"What to depict (who/what), specific nouns.\"\n      examples: [\"{argument name=\"subject example 1\" default=\"a ceramic mug with visible glaze crazing\"}\", \"a mountain bike leaning against a wall\"]\n    - key: \"medium\"\n      description: \"Photo / smartphone photo / film photo / 3D render / illustration (must be explicit).\"\n      examples: [\"ultra-realistic smartphone photo\", \"35mm film photo\", \"studio product photo\"]\n    - key: \"aspect_ratio\"\n      description: \"Orientation and ratio.\"\n      examples: [\"9:16 vertical\", \"1:1 square\", \"3:2 horizontal\"]\n    - key: \"setting\"\n      description: \"Where + time-of-day + primary light source.\"\n      examples: [\"indoors near a window during daytime\", \"overcast outdoor street, late afternoon\"]\n    - key: \"shot\"\n      description: \"Framing + angle + distance + occlusions if any.\"\n      examples: [\"close-up from collarbone to top of head\", \"top-down tabletop shot, 50cm distance\"]\n    - key: \"primary_focus\"\n      description: \"ONE priority: what must look correct/real.\"\n      examples: [\"skin realism\", \"material realism\", \"typography accuracy\", \"motion re\"",
+    "title": "System Prompt for High-Control Photorealistic Image Generation",
+    "description": "A meta-prompt or system prompt template named 'Reality-First Prompt' designed to guide LLMs in creating highly controlled, photorealistic image generation prompts by enforcing hard constraints, using technical language, and specifying detailed negatives to avoid 'AI look' artifacts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187168827_h54g3h_HAPaQ-lXMAAcCoG.jpg",
+      "https://cms-assets.youmind.com/media/1770187168812_wbkz1y_HAPaQ-kW4AAN-Wh.jpg",
+      "https://cms-assets.youmind.com/media/1770187168909_i4tfr3_HAPaQ-lXoAAaKnq.jpg",
+      "https://cms-assets.youmind.com/media/1770187169841_mnt3nk_HAPaVAPXoAAECGH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"Generate colorful high-definition wallpapers featuring corn cobs in different shades and layouts, focusing on detailed kernels and natural textures, set against rustic {argument name=\"background setting\" default=\"farm or outdoor\"} backgrounds\",\n  \"style\": \"food photography\",\n  \"resolution\": \"4K\",\n  \"colors\": [\"golden yellow\", \"cream white\", \"deep purple\", \"fresh green\", \"earthy brown\"],\n  \"elements\": [\"corn cobs\", \"husks\", \"kernels\", \"corn leaves\", \"farm field\"]",
+    "title": "Rainbow Corn Harvest Wallpaper",
+    "description": "A prompt for generating colorful, high-definition food photography wallpapers featuring rainbow corn cobs. It focuses on detailed kernels, natural textures, and a rustic outdoor setting, specifying a 4K resolution and a list of desired colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187120712_9o376e_HAPR7sfbsAEwa7w.jpg",
+      "https://cms-assets.youmind.com/media/1770187120730_hwtxaw_HAPR7pPaAAA26Xu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "The banana wouldn't listen even when I put human characteristics into photos 1 and 2.",
+    "title": "Inpainting with Nano Banana Pro and Drawthings",
+    "description": "A user attempted to use Nano Banana Pro to generate an image and then use Drawthings for inpainting, specifically trying to incorporate human features into the 'banana' subject, but found it difficult. They noted that GPT Image 1.5 produced better results without needing Drawthings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187215984_aycmcb_HAPHZPvbYAArd2M.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Today's theme is {argument name=\"theme\" default=\"morning, noon, night, mandarin orange\"}",
+    "title": "Four-Panel Comic: Morning, Noon, Night, Mandarin Orange Theme",
+    "description": "A prompt used to generate a four-panel comic strip (Yonkoma Manga) with the theme of morning, noon, night, and mandarin oranges, created using the Nano Banana Pro tool.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187222747_xzewa9_G_-PDoJaUAA3ZHx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Lighting: e.g., \"{argument name=\"lighting style\" default=\"Golden hour backlighting\"}\" (soft evening light)\n\nDepth of Field: e.g., \"{argument name=\"depth of field\" default=\"Shallow depth of field (f/1.8)\"}\" (professional bokeh)",
+    "title": "Director Style Prompting Tips for Nano Banana Pro",
+    "description": "A tip suggesting users employ 'Director Style' prompting in Nano Banana Pro by specifying technical camera terms like lighting and depth of field to achieve more professional-looking results.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187208629_zgolzb_HAOZSE3aAAAnF5n.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Silver-gray hair color, old Shanghai style curly hair, medium-short length",
+    "title": "LocalBanana Copilot Feature for Prompt Refinement",
+    "description": "An announcement for LocalBanana's upcoming Copilot feature, which helps users refine vague natural language descriptions (like 'curly hair, atmosphere, feeling') into precise, consistent prompts for AI models like Nano Banana Pro, overcoming language barriers and prompt engineering difficulties.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187215220_1eh3dw_HANzeunaYAAl7vN.jpg",
+      "https://cms-assets.youmind.com/media/1770187215145_w1m0f3_HANzcX9bEAAO2B0.jpg",
+      "https://cms-assets.youmind.com/media/1770187215314_mxkruj_HANzhi-a8AAtAM_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Imagine a serene, futuristic library on an alien planet, filled with glowing holographic books and strange, beautiful flora.\n\nHow about a breathtaking view of a vibrant, bioluminescent coral reef at twilight, teeming with exotic fish and glowing marine life, all beneath a surface shimmering with the last rays of the setting sun?\n\nhow about a vibrant, whimsical underwater city, bustling with marine life and glowing coral structures, where mermaids and other fantastical sea creatures gracefully navigate illuminated pathways?",
+    "title": "Futuristic and Underwater Scene Concepts",
+    "description": "A set of three conceptual prompts for generating imaginative scenes: a futuristic library on an alien planet, a bioluminescent coral reef at twilight, and a whimsical underwater city with mermaids.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187124755_ag07va_HANFKeAaUAAS3pl.jpg",
+      "https://cms-assets.youmind.com/media/1770187124886_idsctk_HANFGUNacAIRJNc.jpg",
+      "https://cms-assets.youmind.com/media/1770187124791_jcigf0_HANF4oIaEAAxDUq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Today's theme is {argument name=\"theme\" default=\"red, blue, yellow\"}",
+    "title": "Four-Panel Comic: Red, Blue, Yellow Theme",
+    "description": "A prompt used to generate a four-panel comic strip (Yonkoma Manga) with the theme of red, blue, and yellow colors, created using the Nano Banana Pro tool.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187220939_4ljfaz_G_-NsLObEAAiEdR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "You are an image generation AI. Create the image I instructed earlier.",
+    "title": "Gemini Model Troubleshooting Prompt",
+    "description": "A troubleshooting prompt used when the Gemini model (which powers Nano Banana) fails to generate an image and outputs text instead, reminding the AI of its role as an image generation model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187210638_jb0qg7_HAL8b8RaAAESkTJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "{\n  \"image_generation_request\": {\n    \"model\": \"Nano Banana\",\n    \"created_at\": \"2026-02-03T06:05:00.000000\",\n    \"concept\": \"{argument name=\"concept\" default=\"19th Century London: The Little Match Girl walking the boundary between slum and prosperity\"}\",\n    \"parameters\": {\n      \"5w1h\": {\n        \"who\": \"{argument name=\"person\" default=\"The Little Match Girl (ragged shawl, soot-stained cheeks, transparent eyes)\"}\",\n        \"when\": \"Around 3 PM (low winter sun, long shadows, cold and damp atmosphere)\",\n        \"where\": \"The road marking the boundary between the muddy streets of 19th-century London slums and the cobblestone London city center visible in the distance. Background features chimney smoke and rows of gas lamps.\",\n        \"what\": \"Looking up at a break in the heavy overcast sky as if praying, walking towards the city lights.\",\n        \"why\": \"A stumbling gait, as if knees are buckling from cold and fatigue, dragging ill-fitting, old shoes.\",\n        \"how\": \"Direct side view (side view), shallow depth of field focusing on the girl, the background cityscape is beautifully blurred.\"\n      },\n      \"style\": \"Hyper-Photorealistic, Cinematic Lighting, 8k Resolution, Detailed Texture\",\n      \"version\": \"1.1_Enhanced\"\n    }\n  }\n}",
     "title": "Nano Banana Pro JSON Prompt for 'The Little Match Girl' Concept",
     "description": "This is a detailed JSON structure designed to be fed into NanoBananaPro, likely via a custom application, to generate a hyper-photorealistic and cinematic image based on the concept of 'The Little Match Girl' in 19th-century London. It uses the 5W1H framework (Who, When, Where, What, Why, How) to specify every detail, from the girl's appearance and the time of day to the camera angle and focus depth, ensuring a highly controlled and specific output.",
