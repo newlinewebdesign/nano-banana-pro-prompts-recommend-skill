@@ -12,6 +12,55 @@
     "needReferenceImages": true
   },
   {
+    "content": "\"prompt\": \"Cinematic close-up portrait of a rugged middle-aged man with a thick grey-flecked beard and piercing blue eyes. He is wearing a classic red and black checkered flannel lumberjack jacket with a black fleece collar. He is standing in a snowy pine forest during a light snowfall, holding the wooden handle of an axe. Warm sunlight is breaking through the tall trees in the background, creating a soft bokeh effect and lens flare. Hyper-realistic texture, 8k resolution, dramatic lighting.\",\n    \"aspect_ratio\": \"1:1\",\n    \"style\": \"photorealistic_cinematic\"\n  }",
+    "title": "Cinematic Lumberjack Portrait Prompt",
+    "description": "A photorealistic cinematic prompt for generating a close-up portrait of a rugged, middle-aged man with a beard, set in a snowy pine forest. The prompt emphasizes dramatic lighting, hyper-realistic textures, and a bokeh effect from sunlight breaking through the trees.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770273499556_2rs3g8_HAXViVGXQAAMZxm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Extreme close-up surface study.\nRealistic material texture resembling {argument name=\"material type\" default=\"stone, ceramic, or paper\"},\nsoft grazing light revealing micro-details,\nnatural imperfections,\nneutral monochrome palette,\nno pattern repetition,",
+    "title": "Material and Surface Study for Realism Testing",
+    "description": "A prompt designed to stress-test the material realism capabilities of an image generator by requesting an extreme close-up surface study. It specifies realistic textures (stone, ceramic, or paper), soft grazing light to reveal micro-details, natural imperfections, and a neutral monochrome palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770273437279_g98m8x_G_dM9AzXwAAEhGL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"subject\": {\n    \"character\": \"{argument name=\"subject name\" default=\"Sadie Sink\"}\",\n    \"age_range\": \"early to mid 20s\",\n    \"skin_texture\": \"smooth, natural skin texture, soft porcelain tone\",\n    \"expression\": \"calm, distant, introspective\"\n  },\n\n  \"pose_and_orientation\": {\n    \"body_direction\": \"upper body fully facing the camera, straight on\",\n    \"head_direction\": \"head turned gently to the left, matching the reference image angle\",\n    \"gaze_direction\": \"looking past the camera to the left, identical to the reference image\",\n    \"shoulders\": \"even, squared shoulders facing forward\",\n    \"posture\": \"upright, elegant, noble posture\"\n  },\n\n  \"gaze\": {\n    \"eye_focus\": \"soft, unfocused gaze into the distance\",\n    \"emotion\": \"quiet confidence, subtle melancholy, composed elegance\"\n  },\n\n  \"mood\": {\n    \"overall_feeling\": \"elegant, poetic, timeless\",\n    \"energy\": \"soft, restrained, aristocratic\",\n    \"atmosphere\": \"romantic European fine art portrait\"\n  },\n\n  \"hair\": {\n    \"style\": \"loosely gathered messy bun\",\n    \"structure\": \"soft volume at the crown, natural irregularity\",\n    \"flyaways\": \"loose strands framing the face and neck\",\n    \"finish\": \"natural, matte, effortless\"\n  },\n\n  \"accessories\": {\n    \"earrings\": \"delicate dangling pearl earrings\",\n    \"style\": \"classic, minimal, aristocratic\",\n    \"movement\": \"subtle natural swing\"\n  },\n\n  \"outfit\": {\n    \"reference_instruction\": \"base the outfit directly on the clothing in the provided reference image\",\n    \"dress_type\": \"deep V-neck evening dress\",\n    \"fabric\": \"sheer black lace overlay\",\n    \"lace_detail\": \"intricate floral lace patterns identical in spirit to the reference\",\n    \"inner_layer\": \"solid black structured bodice beneath the lace\",\n    \"neckline_behavior\": \"lace softly draped over shoulders and collarbone as in the reference image\",\n    \"overall_style\": \"haute couture, timeless, refined, identical silhouette to the reference\"\n  },\n\n  \"lighting\": {\n    \"type\": \"soft natural daylight\",\n    \"direction\": \"side lighting from camera right, matching reference\",\n    \"shadow_style\": \"gentle shadows sculpting cheekbones and jawline\",\n    \"contrast\": \"low contrast, painterly softness\",\n    \"skin_light\": \"even, diffused glow\"\n  },\n\n  \"camera\": {\n    \"shot_type\": \"medium close-up portrait\",\n    \"lens\": \"85mm portrait lens look\",\n    \"depth_of_field\": \"shallow depth of field with soft background blur\",\n    \"focus\": \"sharp focus on eyes and facial features\"\n  },\n\n  \"composition\": {\n    \"framing\": \"vertical portrait\",\n    \"subject_placement\": \"centered composition with subtle negative space\",\n    \"aesthetic\": \"fine art editorial photography\"\n  },\n\n  \"background\": {\n    \"location\": \"historic European castle garden\",\n    \"elements\": [\n      \"ancient stone castle walls\",\n      \"ivy-covered arches\",\n      \"classical European garden statues\",\n      \"trimmed hedges and greenery\",\n      \"stone garden pathways\"\n    ],\n    \"time_of_day\": \"late afternoon\",\n    \"backgr",
+    "title": "Sadie Sink Fine Art Editorial Portrait",
+    "description": "A detailed prompt for generating an elegant, timeless fine art editorial portrait of a woman resembling Sadie Sink, wearing a sheer black lace V-neck dress, set in a historic European castle garden with soft natural daylight and low contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770273459229_qwy949_HAVfqYDWIAA1qcq.jpg",
+      "https://cms-assets.youmind.com/media/1770273459389_lagq9q_HAVfqcyX0AAbxnu.jpg",
+      "https://cms-assets.youmind.com/media/1770273459488_fqacex_HAVfqYAXQAAb5Bs.jpg",
+      "https://cms-assets.youmind.com/media/1770273460710_dvpoi2_HAVfqcbW8AI7dqD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Heavily detailed oil painting of a lion, with only its eyes and nose visible as it peers out from a dense thicket of bushes. The rest of the lion is obscured by the lush green leaves, creating a sense of mystery and intrigue in the composition.",
+    "title": "Heavily Detailed Oil Painting of a Lion in a Thicket",
+    "description": "A prompt for generating a heavily detailed oil painting of a lion, where only its eyes and nose are visible as it peers out from dense green bushes, creating a sense of mystery and intrigue, using an encaustic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770273460482_h0gn5j_HATuSlDXMAAF5_A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A hyper-realistic, close-up portrait of a small, ethereal forest sprite with iridescent wings and glowing eyes, perched on a moss-covered branch. The sprite has delicate, translucent skin and hair woven with tiny flowers. Soft, dappled sunlight filters through the dense canopy, creating a magical, volumetric lighting effect. Ultra-detailed, photorealistic, fantasy illustration, 8K resolution, shallow depth of field.",
+    "title": "Magical Forest Creature Portrait Prompt (from ALT text)",
+    "description": "This prompt, extracted from the ALT text, generates a highly detailed, whimsical portrait of a magical creature, emphasizing photorealism, specific lighting, and a fantasy setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770273500370_y2sq97_HATqjYHW0AAwuE3.jpg",
+      "https://cms-assets.youmind.com/media/1770273500506_4eumzu_HATqkNHWEAAcU0B.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A disgusting monster with many eyes that is hard to tell if it's an ogre or something else.",
     "title": "Creepy Monster Image Generation Prompt",
     "description": "A Japanese prompt used with Nano Banana Pro to generate a disturbing image of a monster with many eyes, based on a literal description of the creature.",
@@ -27,6 +76,15 @@
     "description": "A simple prompt used with Nano Banana Pro to generate an image of a snow statue representing the feeling of not wanting to leave the futon when it's snowing.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1770187224040_4mzbzj_HASD0dga0AA-q5S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A close-up, abstract shot captures a swirling, iridescent mixture of colors, resembling an oil slick or marbled paint. The dominant colors are vibrant blues, purples, reds, and oranges, all shimmering with a fine glitter. These colors flow and blend into each other in organic, wave-like patterns, creating a sense of depth and movement. The texture appears smooth and viscous, with some areas showing a foamy or bubbly quality, particularly in the lower left corner. The lighting highlights the metallic sheen and sparkle of the material, giving it a magical, almost otherworldly appearance.",
+    "title": "Abstract Iridescent Swirling Color Mixture",
+    "description": "A detailed image generation prompt for creating a close-up, abstract shot of swirling, iridescent colors, resembling an oil slick or marbled paint, emphasizing vibrant blues, purples, reds, and oranges with a fine glitter effect. The prompt specifies organic, wave-like patterns and a smooth, viscous texture with some bubbly areas, designed for an otherworldly, magical appearance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770273472392_uiurrj_HAEc7daWcAAjhEI.jpg"
     ],
     "needReferenceImages": false
   },
