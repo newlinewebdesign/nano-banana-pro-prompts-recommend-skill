@@ -1,5 +1,49 @@
 [
   {
+    "content": "Take this image (photo of Viking) and make the right side look like the Dragon Quest X Sage's 'Breath of God'!",
+    "title": "Image Style Transfer Prompt: Viking to Dragon Quest X 'Sage's Breath of God'",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) instructing it to take an input image (of the comedy duo Viking) and transform the right side of the image into the style of the Dragon Quest X Sage's ability, 'Breath of God.' The user noted this attempt was a failure, possibly due to misinterpretation of the reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359999189_479qwz_HAbh9BGacAE1wG0.jpg",
+      "https://cms-assets.youmind.com/media/1770359999114_str9iw_HAbh8_casAAXWOT.jpg",
+      "https://cms-assets.youmind.com/media/1770359999242_xjusn8_HAbh9BbakAAJcFc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"subject\": {\n    \"desc\": \"Realistic Voluptuous hourglass {argument name=\"subject name\" default=\"Sadie Sink\"} in detailed Harley Quinn cosplay, long blonde hair in high pigtails with pink and blue dyed tips, fair natural skin texture, dramatic Harley makeup with pale foundation, black eye mask smudges, red lipstick, and heart cheek tattoo\",\n    \"outfit\": \"Classic Suicide Squad Harley Quinn cosplay: cropped white 'Lil Monster' t-shirt, tiny red and black sequined hot pants with belt, black fishnet stockings, red and blue mismatched wrist cuffs, 'Puddin' choker, layered necklaces, and mismatched red/blue boots optional but visible\",\n    \"anatomy\": \"Preserve full heavy projecting bust, wide curvy hips, thick natural thighs, no reduction/normalization of curves or volume\"\n  },\n  \"pose\": {\n    \"desc\": \"Full-body standing, one hand raised playfully touching a pigtail and the other resting on hip or holding baseball bat loosely, elbows flared, slight spine arch with playful tilt\",\n    \"stance\": \"Weight on left leg (viewer's right), right leg bent forward with heel down\",\n    \"head\": \"Slight tilt to her right, direct mischievous confident gaze at camera with signature Harley grin\",\n    \"orientation\": \"Front-facing, slightly angled to viewer's left\"\n  },\n  \"environment\": {\n    \"setting\": \"Harley Quinn's chaotic apartment room from Suicide Squad movie, colorful graffiti-covered walls, scattered weapons (baseball bat, mallet), neon signs, hanging Joker cards, messy bed with pink sheets, scattered clothing and toys\",\n    \"ground\": \"Cluttered hardwood floor with scattered items like playing cards, confetti, and small props around her feet\"\n  },\n  \"camera\": {\n    \"shot\": \"Full-body vertical portrait\",\n    \"angle\": \"Eye-level to slightly low\",\n    \"lens\": \"35-50mm standard, no wide distortion\",\n    \"framing\": \"Subject centered\"\n  },\n  \"lighting\": \"Warm chaotic indoor lighting with colorful neon glows from signs, pink and purple accents, soft overhead light with playful shadows\",\n  \"mood\": \"Mischievous alluring playful, signature Harley grin with tongue out or slight smile, intense engaging gaze\",\n  \"style\": \"Photorealistic high-fidelity photo, sharp details on fabric/skin/hair/room clutter\",\n  \"colors\": \"Vibrant red/blue/pink/black cosplay against chaotic colorful room with graffiti and neon, fair warm skin, cinematic balance\",\n  \"quality\": \"High resolution, sharp subject focus, visible fabric sequins/skin pores/hair strands/room details\",\n  \"aspect_ratio\": \"3:4 portrait\",\n  \"negative_prompt\": \"anime, draw, small/reduced bust, flattened breasts, lifted breasts, slimmed torso/hips, proportion averaging, beautification, skin smoothing, plastic skin, stylization, depth flattening, wide distortion\"\n}",
+    "title": "Voluptuous Harley Quinn Cosplay Portrait Prompt",
+    "description": "A detailed prompt for generating a photorealistic, full-body portrait of a voluptuous woman resembling Sadie Sink in a detailed Harley Quinn cosplay (Suicide Squad style). The prompt is highly specific about anatomy, outfit details, the chaotic apartment environment, and includes a strong negative prompt to prevent aesthetic alterations like slimming or plastic skin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359964422_sa6t98_HAbFXKpXAAA05tA.jpg",
+      "https://cms-assets.youmind.com/media/1770359964425_m8ya0c_HAbFXFRWEAI_kXH.jpg",
+      "https://cms-assets.youmind.com/media/1770359964505_pn2zte_HAbFW_7WQAEWxGp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Take this image (photo of Viking) and make the right side look like the 'Chamber of Vows' from Dragon Quest X!",
+    "title": "Image Style Transfer Prompt: Viking to Dragon Quest X 'Chamber of Vows'",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) instructing it to take an input image (of the comedy duo Viking) and transform the right side of the image into the style of the 'Chamber of Vows' from Dragon Quest X. The user noted this attempt was a failure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359998569_0h69i5_HAZYKOgboAANclx.jpg",
+      "https://cms-assets.youmind.com/media/1770359998665_sbnwbu_HAZYKL0acAEwHeI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n \"task\": \"image_style_transfer_3d_character\",\n \"input\": {\n \"source_image\": \"USER_UPLOADED_IMAGE\",\n \"preserve_identity\": true,\n \"preserve_pose\": true,\n \"preserve_composition\": true\n },\n \"style_reference\": {\n \"render_style\": \"stylized_3d_character\",\n \"aesthetic\": \"soft_minimal_cartoon_3d\",\n \"inspiration\": [\n \"pixar_like_but_more_minimal\",\n \"toy_figure_render\",\n \"clean_product_character_design\"\n ]\n },\n \"character_design\": {\n \"skin\": {\n \"material\": \"smooth_matte_plastic\",\n \"texture\": \"soft_uniform\",\n \"subsurface_scattering\": \"gentle\"\n },\n \"facial_features\": {\n \"eyes\": \"half_closed_bored_expression\",\n \"eyelids\": \"heavy\",\n \"nose\": \"rounded_simplified\",\n \"mouth\": \"flat_neutral\",\n \"ears\": \"simplified_rounded\"\n },\n \"emotion\": \"unimpressed_calm_bored\"\n },\n \"clothing\": {\n \"style\": \"minimal_streetwear\",\n \"details\": \"no_logos_no_patterns\",\n \"fabric\": \"soft_matte\"\n },\n \"accessories\": {\n \"headwear\": \"simple_baseball_cap_optional\",\n \"ear_accessories\": \"wireless_earbuds_optional\"\n },\n \"lighting\": {\n \"setup\": \"studio_softbox\",\n \"shadows\": \"very_soft\",\n \"contrast\": \"low\",\n \"highlights\": \"subtle\"\n },\n \"background\": {\n \"type\": \"solid_color\",\n \"color_palette\": [\n \"muted_green\",\n \"pastel_tone\"\n ],\n \"gradient\": \"none\"\n },\n \"camera\": {\n \"angle\": \"front_facing\",\n \"framing\": \"medium_close_up\",\n \"lens\": \"50mm_equivalent\",\n \"distortion\": \"none\"\n },\n \"render_quality\": {\n \"resolution\": \"high\",\n \"edges\": \"clean\",\n \"noise\": \"none\",\n \"realism_balance\": \"stylized_over_realistic\"\n },\n \"output\": {\n \"consistency\": \"high\",\n \"style_strength\": \"strong\",\n \"photorealism\": false\n }\n}",
+    "title": "JSON Prompt for Stylized 3D Character Render (Minimal Cartoon)",
+    "description": "A structured JSON prompt for Nano Banana Pro focusing on image style transfer to convert an uploaded image into a stylized 3D character render with a soft, minimal cartoon aesthetic, featuring a bored expression and studio softbox lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359944942_ao3rp2_HAY1HiWXwAAN2CM.jpg",
+      "https://cms-assets.youmind.com/media/1770359945027_aib1sm_HAY1HflWQAA5G5q.jpg",
+      "https://cms-assets.youmind.com/media/1770359945165_7cx15j_HAY1HfIX0AAfCLl.jpg",
+      "https://cms-assets.youmind.com/media/1770359945665_3v7t64_HAY1HfJWMAAi6jH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Ultra-realistic cinematic close-up portrait of a fierce tribal warrior woman, icy blue eyes looking upward with determination, wet skin covered in rain droplets and natural freckles, detailed skin texture, soft dramatic lighting, shallow depth of field. She wears primitive tribal headgear made of {argument name=\"headgear materials\" default=\"feathers, bones, stones\"}, and red-blue fabric wraps, braided hair with beads and threads.Cold, moody color grading, dark blurred forest background, hyper-detailed face, 8K resolution, photorealistic, sharp focus on eyes, epic fantasy game character style, cinematic atmosphere, professional photography, volumetric light, film still look.",
     "title": "Ultra-Realistic Cinematic Close-up of Tribal Warrior Woman",
     "description": "A prompt for generating an ultra-realistic, cinematic close-up portrait of a fierce tribal warrior woman with icy blue eyes, wet skin covered in rain droplets, wearing primitive headgear, emphasizing hyper-detailed texture, cold color grading, and dramatic volumetric lighting.",

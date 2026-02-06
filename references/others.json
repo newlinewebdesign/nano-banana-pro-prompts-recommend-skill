@@ -12,6 +12,63 @@
     "needReferenceImages": true
   },
   {
+    "content": "Take this image (photo of Viking) and change it into a painting like Van Gogh's Starry Night!",
+    "title": "Image Style Transfer Prompt: Viking to Van Gogh's 'Starry Night' Style",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) instructing it to take an input image (of the comedy duo Viking) and transform it into the style of Van Gogh's 'The Starry Night.' The user found the result to be reasonably successful.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359998131_dkv4nf_HAbmF0VbcAA_Fao.jpg",
+      "https://cms-assets.youmind.com/media/1770359998319_ieijbq_HAbmFxRacAAdIOs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Take this image (Viking) and render it like Dali's 'Burning Giraffe'!\n\nSurrealism",
+    "title": "Image Style Transfer Prompt: Viking to Dali's 'Burning Giraffe' Style",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) instructing it to take an input image (of the comedy duo Viking) and transform it into the style of Salvador Dali's 'The Burning Giraffe,' emphasizing surrealism. The user noted the result lacked the intended Dali style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359997337_i0c4ed_HAbj5HRa0AAGXaP.jpg",
+      "https://cms-assets.youmind.com/media/1770359997478_igm1kj_HAbj5GEbUAAQZ5i.jpg",
+      "https://cms-assets.youmind.com/media/1770359997576_evcrpo_HAbj5GGacAAQLHJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Transform the original photo into a dramatic, photorealistic, ultra-detailed set of  styles characters are included , each a mid close up wide-angle shot with an extreme, dynamic camera angle  complex, powerful pose in a consistent, expanded version of the original environment, with cinematic lighting, high contrast, crisp textures, and precise color grading.",
+    "title": "Transformative Style Prompt for Dramatic Cinematic Characters",
+    "description": "A general instruction prompt designed to transform an original photo into a set of dramatic, ultra-detailed, photorealistic images, applying cinematic lighting, high contrast, and dynamic camera angles to the characters within a consistent, expanded environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359985482_y0kr1h_HAaj8SHa4AANeQ-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Take this picture ({argument name=\"subject\" default=\"photo of Viking\"}) and change it into a painting like Renoir's 'Girls at the Piano'!",
+    "title": "Style Transfer: Renoir's Piano Playing Girls",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to perform a style transfer, transforming a photo of the comedy duo Viking into the style of Renoir's painting 'Girls at the Piano'. The result humorously depicted the subjects as 'girls' who had aged considerably.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359994462_45cdke_HAZWWRvacAA5bg3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Please generate an image where the person in the first image {argument name=\"action\" default=\"winks\"} within the second image.",
+    "title": "Image Manipulation: Adding a Wink to a Subject in a New Scene",
+    "description": "This prompt demonstrates a specific image manipulation technique using nano banana pro, where a person from one image is placed into a second image (in this case, a 'famous pool' scene) and instructed to perform a specific facial expression, like winking.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359995081_wrh8rb_HAYyJEUbEAAXcOv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "AI\nSFW. No nudity, no suggestive intent.",
+    "title": "Basic Prompt for Carol Malus Dienheim Character Generation",
+    "description": "A basic prompt template used with Nano Banana Pro to generate images of the character Carol Malus Dienheim from Symphogear, specifically designed to ensure the output is safe for work (SFW) and avoids suggestive content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359996874_g93ez4_HAYhwmSaYAAhEXJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "\"prompt\": \"Cinematic close-up portrait of a rugged middle-aged man with a thick grey-flecked beard and piercing blue eyes. He is wearing a classic red and black checkered flannel lumberjack jacket with a black fleece collar. He is standing in a snowy pine forest during a light snowfall, holding the wooden handle of an axe. Warm sunlight is breaking through the tall trees in the background, creating a soft bokeh effect and lens flare. Hyper-realistic texture, 8k resolution, dramatic lighting.\",\n    \"aspect_ratio\": \"1:1\",\n    \"style\": \"photorealistic_cinematic\"\n  }",
     "title": "Cinematic Lumberjack Portrait Prompt",
     "description": "A photorealistic cinematic prompt for generating a close-up portrait of a rugged, middle-aged man with a beard, set in a snowy pine forest. The prompt emphasizes dramatic lighting, hyper-realistic textures, and a bokeh effect from sunlight breaking through the trees.",
@@ -19,6 +76,24 @@
       "https://cms-assets.youmind.com/media/1770273499556_2rs3g8_HAXViVGXQAAMZxm.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"image\": {\n    \"type\": \"ultra high-definition fantasy illustration\",\n    \"resolution\": \"8K ultra HD\",\n    \"quality\": \"high-detail, painterly realism\",\n    \"setting\": \"majestic castle floating above clouds\",\n    \"subjects\": [\n      {\n        \"role\": \"epic fantasy castle\",\n        \"details\": \"tall spires, glowing windows, stone textures\"\n      }\n    ],\n    \"lighting\": \"{argument name=\"lighting\" default=\"soft sunlight breaking through clouds\"}\",\n    \"details\": [\n      \"flying birds\",\n      \"mist and fog layers\",\n      \"magical glowing particles\"\n    ],\n    \"mood\": \"epic, magical, dreamy\"\n  }\n}",
+    "title": "8K Fantasy Illustration of Floating Castle",
+    "description": "A prompt for generating an ultra high-definition 8K fantasy illustration of a majestic castle floating above the clouds, emphasizing painterly realism, detailed spires, and magical lighting effects from the sun breaking through the clouds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359983722_1ydu9b_HAXRpoIXsAAkJm6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "CONSTRUCT FROM THESE IMAGES AND REQUEST A PROMPT FOR THE CHAT TO MAKE AN IMAGE SHOWING HOW THEY WOULD LOOK 50 YEARS FROM NOW",
+    "title": "Future Aging Prediction Prompt",
+    "description": "A conceptual prompt idea suggesting the use of an AI image generator (like Nano Banana Pro or ChatGPT) to take a photo of individuals and generate an image showing how they would look 50 years in the future.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770360001525_87gz9g_HAXB10FXEAArt4W.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "content": "Extreme close-up surface study.\nRealistic material texture resembling {argument name=\"material type\" default=\"stone, ceramic, or paper\"},\nsoft grazing light revealing micro-details,\nnatural imperfections,\nneutral monochrome palette,\nno pattern repetition,",
