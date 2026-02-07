@@ -12,6 +12,100 @@
     "needReferenceImages": true
   },
   {
+    "content": "Use the man in the uploaded image standing directly on a vast frozen lake surface, feet slightly apart, gazing downward toward the ice. Beneath the thick, crystal-clear ice tinted cyan and deep blue lies an enormous {argument name=\"skeleton type\" default=\"SKELETON TYPE\"} skeleton skull, ribcage, and bones visible in high detail. The bones appear slightly distorted and tinted by the icy depth, surrounded by natural spiderweb cracks, frost veins, and clusters of trapped air bubbles. The ice layer creates strong visual depth, with light refracting through the surface, making it unmistakably clear the skeleton is submerged well beneath the frozen surface. Cold diffused overcast winter light, ultra-photorealistic, cinematic tone, resolution 1080×1440.",
+    "title": "8K Ultra-Realistic Promotional Image of a Man on Ice with a Submerged Skeleton",
+    "description": "A highly detailed, ultra-photorealistic image generation prompt designed for promotional content. It features a man standing on a vast, frozen lake, looking down at an enormous, distorted skeleton visible beneath the crystal-clear, cyan-tinted ice. The prompt specifies cinematic tone, 8K resolution, and details like spiderweb cracks and air bubbles for strong visual depth.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446099180_zot0ic_HAiJoLzacAEI8KU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A low-angle, close-up shot features a cluster of bioluminescent mushrooms in a grassy field. The mushrooms are illuminated with vibrant {argument name=\"light color\" default=\"pink and blue neon lights\"}, casting a soft glow on their surroundings. The grass is also tinged with {argument name=\"grass color\" default=\"pink and purple hues\"}, creating a surreal and dreamlike atmosphere. The background is a soft, out-of-focus {argument name=\"background color\" default=\"teal\"}, further emphasizing the glowing mushrooms.",
+    "title": "Bioluminescent Mushroom Cluster in Retro Sci-Fi Style",
+    "description": "A prompt designed for Freepik's AI generator using a custom retro sci-fi style, generating a low-angle, close-up shot of glowing mushrooms in a surreal, dreamlike environment with vibrant neon lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446106639_xih2i6_HAgTh5WWEAAKHBT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "macro view of a tiny fairy sitting in the middle of a flower, extreme close-up, delicate translucent wings, soft natural light, shallow depth of field, dewy petals and sparkling bokeh in the background, whimsical magical atmosphere, high detail fantasy illustration",
+    "title": "Macro Illustration of a Tiny Fairy on a Flower",
+    "description": "A prompt for generating a high-detail fantasy illustration with a whimsical, magical atmosphere. It specifies a macro view of a tiny fairy sitting on a flower, emphasizing delicate translucent wings, soft natural light, shallow depth of field, and sparkling bokeh.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446063546_rvtnqp_HAfq6VvX0AAfOpC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Photorealistic natural crystal formation emerging from the ground [in a dark cave] mid-growth in the exact same shape as {argument name=\"referenced image\" default=\"[REFERENCED IMAGE]\"}, geometric facets emerging and expanding slightly outward adhering to the referenced image, prismatic light refractions casting {argument name=\"color palette\" default=\"[COLOR PALETTE FROM IMAGE]\"} and [COMPLEMENTARY COLORS] across surfaces, magical crystallization in progress, fantasy meets natural phenomenon, ethereal glow emanating from crystal core, alchemical aesthetic, translucent mineral structure, sharp angular geometry.",
+    "title": "Photorealistic Crystal Logo Generation",
+    "description": "A prompt for generating a photorealistic image of a natural crystal formation, specifically designed to match the exact shape of a referenced image, emphasizing prismatic light refractions and an ethereal, alchemical aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446040278_c11vcu_HAfdkb8WIAAneBx.jpg",
+      "https://cms-assets.youmind.com/media/1770446040343_vcchno_HAfbZhqXAAAQyzM.jpg",
+      "https://cms-assets.youmind.com/media/1770446042027_u2z3wo_HAfdZN6XwAAG3sH.jpg",
+      "https://cms-assets.youmind.com/media/1770446042286_3wfsr0_HAfoCawX0AAMsLW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Generate an image of the Sacré-Cœur Basilica as a painting in the style of {argument name=\"artist\" default=\"Chagall\"}!",
+    "title": "Chagall-style painting of Sacré-Cœur Basilica",
+    "description": "A prompt for the Nano Banana Pro (Gemini 3 Pro Image) AI to generate an image of the Sacré-Cœur Basilica rendered in the artistic style of Marc Chagall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446090143_6w5a3n_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770446089962_jl1y48_HAeC_JSb0AErNV5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"Please generate an image where the person in the first image is sitting down within the scene of the second image\"",
+    "title": "Image-to-Image: Place a Person on a Soap Land",
+    "description": "This prompt is used for image manipulation/image-to-image generation with Nano Banana Pro. It instructs the AI to take a person from the first image and place them sitting down within the scene provided in the second image (a 'soap land' image). This demonstrates the AI's ability to composite elements from multiple inputs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446092099_5v8ury_HAeCceJbYAAP6hy.jpg",
+      "https://cms-assets.youmind.com/media/1770446091928_lu90t2_HAeCcYDaAAAk5cu.jpg",
+      "https://cms-assets.youmind.com/media/1770446092055_x26p7e_HAeCceIboAAS_RE.jpg",
+      "https://cms-assets.youmind.com/media/1770446093538_w72p4c_HAdQu67acAAVCMN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Take this (a painting of the Apollo Fountain at Versailles in the style of Monet's Water Lilies) and turn it into a painting like Picasso's Les Demoiselles d'Avignon!",
+    "title": "Image Style Transfer: Converting Photo to Picasso's Cubism",
+    "description": "A style transfer prompt for Nano Banana Pro (Gemini 3 Pro Image), instructing the AI to convert an uploaded image (a painting of the Apollo Fountain at Versailles in the style of Monet's Water Lilies) into the style of Picasso's 'Les Demoiselles d'Avignon' (The Young Ladies of Avignon).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446098198_3ztwvr_HAeB7PAagAASL-T.jpg",
+      "https://cms-assets.youmind.com/media/1770446098052_4m3wv0_HAeB7L-asAAixe2.jpg",
+      "https://cms-assets.youmind.com/media/1770446098124_hckrzr_HAeB7LHbkAAJfro.jpg",
+      "https://cms-assets.youmind.com/media/1770446099043_00p6lq_GCRihaybMAAN19f.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Take this (a photo from Dragon Quest X) and turn it into a painting in the style of Seurat's pointillism!",
+    "title": "Image Style Transfer: Converting Photo to Seurat's Pointillism",
+    "description": "A simple image style transfer prompt for Nano Banana Pro (Gemini 3 Pro Image), instructing the AI to convert an uploaded photograph (specifically, a photo from Dragon Quest X) into the style of Seurat's pointillism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446096680_kj3i6i_GCbTyTTbQAAo8m-.jpg",
+      "https://cms-assets.youmind.com/media/1770446096581_v77uyl_HAeAiISaEAAGHfw.jpg",
+      "https://cms-assets.youmind.com/media/1770446096795_vbx8tz_HAeAiCmbsAAAdpj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Change the chair in front of the bathtub in the first image to the one in the second image. Please adjust the size and light source so that it blends in without any sense of incongruity.",
+    "title": "Image Editing Prompt: Replacing an Object in a Scene",
+    "description": "This is an image editing prompt used with Nano Banana Pro to replace a specific object (a chair) in a generated image with a different reference image, while ensuring the new object seamlessly integrates with the existing size, lighting, and context of the scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446095251_s2sfpx_HAdcoDCacAMLjFe.jpg",
+      "https://cms-assets.youmind.com/media/1770446095340_2c2nbg_HAdckOFakAAL99B.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Take this image (photo of Viking) and change it into a painting like Van Gogh's Starry Night!",
     "title": "Image Style Transfer Prompt: Viking to Van Gogh's 'Starry Night' Style",
     "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) instructing it to take an input image (of the comedy duo Viking) and transform it into the style of Van Gogh's 'The Starry Night.' The user found the result to be reasonably successful.",

@@ -1,5 +1,60 @@
 [
   {
+    "content": "Transform the original photo into a dramatic, photorealistic, ultra-detailed set of 4 styles characters are included , each a mid close up wide-angle shot with an extreme, dynamic camera angle complex, powerful pose in a consistent, expanded version of the original environment, with cinematic lighting, high contrast, crisp textures, and precise color grading.",
+    "title": "Transformative Photo Enhancement Prompt",
+    "description": "A prompt instructing the AI to transform an original photo into four distinct, dramatic, photorealistic styles, each featuring a mid-close-up, wide-angle shot with extreme camera angles, complex poses, cinematic lighting, and high contrast, while maintaining the original environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446079207_z8a2k8_HAfkSzgaEAAdgXI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A whimsical, cartoonish 3D pirate character designed for 3D modeling. The character is in a perfect T-pose with arms extended horizontally and feet slightly apart. The pirate has oversized stylized features, a large crooked hat, and a wooden peg leg. High-fidelity 3D render style with soft clay textures, vibrant colors, and clean cel-shading. The lighting is bright and even to show all details. Full body shot, centered, on a solid plain white background",
+    "title": "3D Pirate Character in T-Pose for Modeling",
+    "description": "A prompt designed to generate a whimsical, cartoonish 3D pirate character in a perfect T-pose, suitable for 3D modeling assets. It emphasizes oversized features, clay textures, vibrant colors, clean cel-shading, and bright, even lighting on a plain white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446057381_xfn7m5_HAez7CFWcAAQOQJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Vintage black and white RPG rulebook illustration style. Character study in combat attire, fantasy archetype art. Line art with hatching technique, 1970s D&D aesthetic, intricate detail.",
+    "title": "Vintage Black and White RPG Rulebook Illustration",
+    "description": "A prompt to generate an illustration in the style of a vintage black and white RPG rulebook from the 1970s. It focuses on a character study in combat attire, using line art with hatching techniques to achieve an intricate, classic D&D aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446061745_2iqe8d_HAeWY69asAAomOW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Make a game asset sheet for an RPG fantasy game with monsters, with different levels and item drops. Grid layout, each monster with unique design, color-coded by difficulty. High-quality game art style.",
+    "title": "RPG Game Asset Sheet for Monsters",
+    "description": "A prompt for generating a structured game asset sheet for a fantasy RPG. It requires a grid layout showing various monsters, each with a unique design, color-coded by difficulty, and listing item drops, all rendered in a high-quality game art style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446061545_geuebp_HAeVzaWbkAAycBC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A hyperrealistic, ultra-detailed digital painting of a beautiful blonde female fantasy RPG wizard, casting a volatile magical spell, a brilliant orange fireball effect intensely illuminating her features. Volumetric, cinematic chiaroscuro lighting. Realistic anime aesthetic meets D&D fantasy styling. 8K resolution.",
+    "title": "Hyperrealistic D&D Female Fire Mage",
+    "description": "A prompt for generating a hyperrealistic digital painting of a female fantasy RPG wizard casting a volatile fire spell. It specifies cinematic chiaroscuro lighting, a brilliant orange fireball illuminating her features, and a blend of realistic anime aesthetic with D&D fantasy styling in 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446059204_nt4wlq_HAeVD5eaQAAuSuK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Please use the attached reference image as the base character.\nCreate a single high-resolution collage containing at least 20 cute sticker-style illustrations of the same female character. Ensure the face, skin tone, hairstyle, and overall appearance perfectly match the reference image.\nArt Style: {argument name=\"art style\" default=\"3D Pixar-style / Disney-style cartoon\"}, soft cinematic lighting, smooth pastel colors, large expressive eyes, rounded cute facial proportions, ultra-detailed 3D rendering.\nCharacter Details:\n– Lightly permed black hair\n– Large expressive eyes\n– Beige cardigan\n– Cute, slightly chubby proportions\nExpressions and Reactions (all distinct):\nHappy smile, surprised, shocked, shy smile, angry, confused, crying, sleepy, winking, peace sign, blowing a kiss, holding a cell phone, thinking, covering face, holding coffee, covering mouth while laughing, annoyed, excited, affectionate expression, cute neutral pose (over 20 total).\nSticker Design:\n– Each reaction as a separate sticker\n– Clean white border on all stickers\n– Soft drop shadow\n– No text, no watermark\nLayout:\n– All stickers neatly arranged in one collage\n– Balanced grid layout\n– Soft beige/pastel-toned background\n– Instagram/WhatsApp-style sticker pack design\nQuality:\nUltra-high definition, high resolution, smooth 3D finish, professional-grade sticker pack style, lovingly expressive.",
+    "title": "3D Pixar-Style Sticker Pack Generation from Reference Image",
+    "description": "A comprehensive prompt, provided in both English and Japanese, designed to generate a collage of over 20 distinct sticker-style illustrations of a female character based on an uploaded reference image. The prompt specifies a 3D Pixar/Disney art style, soft cinematic lighting, pastel colors, and detailed character features (lightly permed black hair, beige cardigan). It requires a variety of expressions and reactions, all arranged in a single, high-resolution collage with white borders and soft shadows, ideal for creating sticker packs for social media.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770446095719_4t37i1_HAcSe7yacAIZJRS.jpg",
+      "https://cms-assets.youmind.com/media/1770446095878_ccwv1i_HAcSe76aIAIRpP4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Take this image (photo of Viking) and make the right side look like the Dragon Quest X Sage's 'Breath of God'!",
     "title": "Image Style Transfer Prompt: Viking to Dragon Quest X 'Sage's Breath of God'",
     "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) instructing it to take an input image (of the comedy duo Viking) and transform the right side of the image into the style of the Dragon Quest X Sage's ability, 'Breath of God.' The user noted this attempt was a failure, possibly due to misinterpretation of the reference image.",
