@@ -12,11 +12,229 @@
     "needReferenceImages": true
   },
   {
+    "content": "You are REWIND.\n\nYou exist because someone looked at a paused frame of a VHS tape  the\ntracking bar rolling across the bottom, the timestamp burning orange in\nthe corner, the whole image swimming in warm noise  and thought: that's\nbeautiful. That accidental, imperfect, unreproducible beauty is what you\nchase.\n\nYou convert plain-English scene descriptions into structured JSON prompts\nfor Nano Banana Pro, Google's image generation model. Every prompt you\nwrite is calibrated to produce images that look and feel like they were\nborn in the 1980s. Not filtered. Not styled. Born there.\n\nYou know the difference between a look and a truth. A VHS filter is a\nlook. Actual magnetic tape degradation  the way oxide particles lose\ntheir grip on the signal over decades, the way chroma bleeds rightward\nbecause NTSC was a compromise between bandwidth and color  that is a\ntruth. You always reach for the truth.\n\nWHO YOU ARE\n\nYou are part archivist, part cinematographer, part obsessive collector\nof dead formats. You have opinions. You think the Ikegami HK-323 had\nthe most beautiful tube bloom of any broadcast camera ever built. You\nbelieve VHS gets a bad reputation from people who never calibrated their\ntracking properly. You know that the reason 80s footage looks warm is\nnot nostalgia  it is tungsten lighting at 3200 Kelvin hitting NTSC\ncolor space that was biased toward skin tones by design.\n\nYou talk like someone who has spent too many nights in a garage\nsurrounded by Betacam decks and CRT monitors and loved every second.\nYou are precise but never clinical. You care about this stuff the way a\nluthier cares about wood grain.\n\nYou do not use filler language. You do not say \"dive into\" or\n\"leverage\" or \"unlock\" or \"elevate\" or \"game-changer\" or \"seamlessly.\"\nYou say what you mean in plain words. Short sentences when short\nsentences are right. Longer ones when the thought needs room to breathe.\n\nWhen you reference the era, you reference it specifically. Not \"the 80s\nvibe.\" You say: the way the light looked on Late Night with David\nLetterman in 1986, shot on the NBC Studio 6A rig. Or: the particular\nshade of teal in the opening credits of Miami Vice, Season 3. Or: that\none scene in The Goonies where the Fratellis' hideout is lit entirely\nby practicals and you can see the tube camera struggling with the\ncontrast. You know these things because you have watched them frame by\nframe.\n\nWHAT YOU KNOW\n\nThree formats. Three worlds.\n\nTEMPLATE A: BROADCAST TO DVD\n\nThis is what a sitcom or a news broadcast or a concert film from the\n80s looks like when someone transferred it to DVD in 2002 and did a\nmediocre job.\n\nThe source was captured on a three-tube camera. Sony BVP-360 or\nIkegami HK-323 with a Fujinon zoom lens. Recorded to 1-inch Type C\nvideotape or Betacam SP. The studio was lit flat and bright with\nMole-Richardson Fresnels at 3200K because tape could not handle\ncontrast and the engineers knew it.\n\nThe tube c",
+    "title": "System Prompt for 80s VHS Aesthetic Image Generation (REWIND)",
+    "description": "This is a detailed system prompt for an image generation model named 'REWIND', instructing it to convert scene descriptions into structured JSON prompts that emulate the authentic, imperfect aesthetic of 1980s media formats like VHS and Betacam, focusing on technical truths rather than simple filters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532767840_t904gf_HAl6Bk3aAAAQU8J.jpg",
+      "https://cms-assets.youmind.com/media/1770532767947_sdnhk4_HAl6BkhWMAASduC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Nano Banana Pro realistic prompt using attached image reference",
+    "title": "Nano Banana Pro Prompt Using Image Reference",
+    "description": "A prompt indicating the use of an attached image reference to generate a realistic image using Nano Banana Pro. The prompt itself is implied to be the instruction to use the reference for realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532840343_0aej1u_HAle5iRWkAAF_yT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Change the {argument name=\"subject\" default=\"Tower of the Sun\"} into a painting drawn by {argument name=\"artist\" default=\"Taro Okamoto\"} and output it!",
+    "title": "Transforming the Tower of the Sun into a Taro Okamoto Painting",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting the transformation of the 'Tower of the Sun' landmark into a painting style reminiscent of the artist Taro Okamoto.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532845408_rj08hu_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770532845668_27uxsr_HAlW_4zaMAA7-Vr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Change the {argument name=\"subject\" default=\"Karajishi of Yomeimon\"} into a painting in the style of {argument name=\"artist\" default=\"Monet\"} and output it!",
+    "title": "Transforming Yomeimon's Karajishi into a Monet-style Painting",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) attempting to transform the Karajishi (Chinese guardian lions) of Yomeimon gate into a painting style similar to Monet, though the user notes the result was ambiguous.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532846822_acbczy_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770532846983_hey3h3_HAlWMB7bwAAGYoU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Change {argument name=\"subject\" default=\"Zojoji Temple\"} into a painting with the flavor of {argument name=\"artist\" default=\"Rokuro Taniuchi\"} and output it!",
+    "title": "Transforming Zojoji Temple into a Rokuro Taniuchi Style Painting",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting the transformation of Zojoji Temple into a painting with the distinct flavor or style of artist Rokuro Taniuchi.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532848361_lovfqu_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770532848634_69sp62_HAlVKupacAIxULI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Convert this image into full high quality 3D animated style",
+    "title": "Convert 2D Sketch to 3D Animated Style",
+    "description": "A simple, one-line prompt used to convert an uploaded 2D sketch or image into a high-quality 3D animated visual style, demonstrating a style transfer or image-to-video capability.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532795977_cmx8mf_HAlGgexacAA-0i0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Fragmented, radiant,",
+    "title": "Fragmented Radiant Abstract Art",
+    "description": "A very brief, descriptive prompt for Nano Banana PRO on Higgsfield AI, aiming to generate an abstract image characterized by fragmentation and radiance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532818549_ycsqm9_HAkXaf4bkAAzuIB.jpg",
+      "https://cms-assets.youmind.com/media/1770532818533_eqn8mp_HAkXbchbsAEYSaB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Geometric Clay Figures",
+    "title": "Geometric Clay Figures",
+    "description": "A short, descriptive prompt used to generate images of geometric clay figures, likely for a stylized art project or visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532792419_xhq9iz_HAjxbvnW0AActDq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-high-end abstract composition. Large smooth sculptural forms with realistic material shading, soft diffused studio lighting from above, gentle shadow gradients with no hard edges, neutral gallery-style color palette, perfect balance and spacing, composed like a contemporary design exhibition piece.",
+    "title": "Ultra-High-End Abstract Composition",
+    "description": "A concise prompt for Nano Banana Pro designed to stress-test visual quality by generating an abstract composition featuring large, smooth sculptural forms with realistic material shading, soft studio lighting, and a neutral gallery-style color palette, emphasizing perfect balance and detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532811154_ey8a1r_HAjtFCKWgAAWy3f.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create and output one woodblock print in the style of {argument name=\"artist\" default=\"Katsushika Hokusai\"}!",
+    "title": "Hokusai Style Woodblock Print Generation",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate a woodblock print in the style of Hokusai, which resulted in an image similar to 'The Great Wave off Kanagawa'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532844894_gix037_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770532844993_5h9y74_HAjK_vIbMAAkSj8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create and output one Ukiyo-e print in the style of {argument name=\"artist\" default=\"Sharaku\"}!",
+    "title": "Ukiyo-e Style Image Generation in the style of Sharaku",
+    "description": "A simple prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate a Ukiyo-e style image, specifically requesting a piece in the manner of the famous artist Sharaku.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532844785_gxyl5c_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770532845468_lj3thp_HAjHjYHaIAAPCPN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Change this (the image on the right) into a {argument name=\"style\" default=\"Ukiyo-e\"} and output it!",
+    "title": "Image-to-Image Style Transfer to Ukiyo-e Style",
+    "description": "A prompt instructing Nano Banana Pro (Gemini 3 Pro Image) to transform a provided reference image (implied by 'これ') into the Ukiyo-e style, which the user noted was a partial failure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532850019_69xcl8_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770532850139_3299j3_HAjHN4VaUAAPJoJ.jpg",
+      "https://cms-assets.youmind.com/media/1770532850096_91a700_HAjHOA1bgAAc30l.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Change this (the image on the right) into a painting in the style of {argument name=\"artist\" default=\"Mucha\"} and output it!",
+    "title": "Image-to-Image Style Transfer to Mucha's Art Nouveau Style",
+    "description": "A prompt instructing Nano Banana Pro (Gemini 3 Pro Image) to transform a provided reference image (implied by 'これ') into the Art Nouveau style of Alphonse Mucha.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532849724_vykv3o_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770532849835_8klpom_HAjFsBhaQAEQNUE.jpg",
+      "https://cms-assets.youmind.com/media/1770532850177_e5f7uu_HAjFsC8aQAEIRV2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Restore this old photo to a professional DSLR-level portrait - with better color and detail quality, using advanced upscaling algorithms comparable to the Canon EOS R6 II. Ensure the restored image looks natural, retains accurate facial features, and has high clarity...",
+    "title": "Old Photo Restoration Prompt for Professional DSLR Quality",
+    "description": "A prompt designed for the Nano Banana Pro model on Gemini, instructing the AI to restore an old photograph to professional DSLR-level quality, focusing on enhanced color, detail, and natural appearance while using advanced upscaling algorithms equivalent to a Canon EOS R6 II.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532843410_kbvxvx_HAioOARasAAX1bU.jpg",
+      "https://cms-assets.youmind.com/media/1770532843536_v9rh3r_HAioOLwacAEHjnT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Use the man in the uploaded image standing directly on a vast frozen lake surface, feet slightly apart, gazing downward toward the ice. Beneath the thick, crystal-clear ice tinted cyan and deep blue lies an enormous {argument name=\"skeleton type\" default=\"SKELETON TYPE\"} skeleton skull, ribcage, and bones visible in high detail. The bones appear slightly distorted and tinted by the icy depth, surrounded by natural spiderweb cracks, frost veins, and clusters of trapped air bubbles. The ice layer creates strong visual depth, with light refracting through the surface, making it unmistakably clear the skeleton is submerged well beneath the frozen surface. Cold diffused overcast winter light, ultra-photorealistic, cinematic tone, resolution 1080×1440.",
     "title": "8K Ultra-Realistic Promotional Image of a Man on Ice with a Submerged Skeleton",
     "description": "A highly detailed, ultra-photorealistic image generation prompt designed for promotional content. It features a man standing on a vast, frozen lake, looking down at an enormous, distorted skeleton visible beneath the crystal-clear, cyan-tinted ice. The prompt specifies cinematic tone, 8K resolution, and details like spiderweb cracks and air bubbles for strong visual depth.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1770446099180_zot0ic_HAiJoLzacAEI8KU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "• '{argument name=\"film type\" default=\"Shoot on 35mm film\"}'\n• '{argument name=\"shot type\" default=\"Macro close-up\"}'\n• 'f1.4 shallow depth of field'\n• 'Volumetric light'\n• 'Anamorphic lens'\n• 'Motion blur'",
+    "title": "Cinematic Camera Instructions for Nano Banana Pro",
+    "description": "A set of camera-specific instructions designed to be highly sensitive to the Nano Banana Pro model, transforming standard prompts into cinematic shots by mimicking professional cinematography techniques.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532842918_koyfk6_HAh8DFcacAEk-qZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"Restore this old photo into professional portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity......\"",
+    "title": "Photo Restoration to DSLR Quality",
+    "description": "A prompt for Nano Banana Pro on Gemini, designed for image restoration and upscaling. It instructs the AI to convert an old, damaged photo into a professional, DSLR-quality digital image (comparable to Canon EOS R6 II), ensuring exact facial features and natural clarity are retained.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532823419_d4u8hz_HAh6eN5bsAAB0Pa.jpg",
+      "https://cms-assets.youmind.com/media/1770532823419_kgzesi_HANkG11aIAEaPHY.jpg",
+      "https://cms-assets.youmind.com/media/1770532823793_f1rnwf_HAh6eT0acAIXYgT.jpg",
+      "https://cms-assets.youmind.com/media/1770532824834_odfpfw_HANkG2_bMAIvEoC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A man in his {argument name=\"age\" default=\"40s\"}, lying in bed, frontal shot.",
+    "title": "Portrait of a Middle-Aged Man Lying Down",
+    "description": "A simple image generation prompt used to create a source image for further refinement with Nano Banana, depicting a middle-aged man lying in bed, captured in a frontal shot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532843608_97hul6_HAhuGLza4AAqdio.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Output one painting in the style of {argument name=\"artist\" default=\"Lassen\"} including {argument name=\"subject 1\" default=\"dolphins\"} and {argument name=\"subject 2\" default=\"orcas\"}!",
+    "title": "Lassen-style Painting with Dolphins and Orcas",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) asking for a painting in the style of Christian Riese Lassen, including both dolphins and orcas.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532847647_zdhrqf_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770532847807_59i84q_HAhdX-ubQAA6bKG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Output one painting that looks like an {argument name=\"style\" default=\"Escher's optical illusion\"}!",
+    "title": "Escher-style Optical Illusion Generation",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting the generation of an image that resembles an optical illusion or impossible construction, characteristic of M.C. Escher.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532850658_sabahh_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770532850858_299fjj_HAhb8Lfa0AAf1lJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate one image like Michelangelo's The Last Judgment!",
+    "title": "Michelangelo's Last Judgment Style Image",
+    "description": "A prompt attempting to generate an image in the style of Michelangelo's 'The Last Judgment' using Nano Banana Pro (Gemini 3 Pro Image). The user notes the result was significantly different from the expected style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532854352_i61uaf_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770532854595_g9rzoz_HAhbCQNacAY42DO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Output one painting in the style of {argument name=\"artist\" default=\"Seurat's\"} pointillism!",
+    "title": "Seurat-style Pointillism Image Generation",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting the generation of an image in the pointillism style characteristic of the artist Seurat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532847543_x24csx_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770532847945_56iz1p_HAhaPRFbQAAbAhC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create the {argument name=\"animal\" default=\"animal\"} in the photo as a miniature size that fits perfectly on the palm of the hand. Capture it from a top-down perspective, and maintain the original facial features and expression without distortion.",
+    "title": "Miniature Pet on Palm Prompt for Image Generation",
+    "description": "A Korean prompt designed to generate an image of a pet (dog or cat) miniaturized to fit perfectly on the user's palm, viewed from a top-down perspective. The key instruction is to maintain the original facial features and expression of the pet without distortion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532860167_h57e8a_HAhBW-wbYAAEqj6.jpg",
+      "https://cms-assets.youmind.com/media/1770532859805_53dcsd_HAhBW-uacAAvqdY.jpg"
     ],
     "needReferenceImages": true
   },

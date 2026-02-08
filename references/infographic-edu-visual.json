@@ -51,6 +51,78 @@
     "needReferenceImages": false
   },
   {
+    "content": "A cartographer's crisis board mapping {argument name=\"event type\" default=\"CONFLICT\"} — {argument name=\"time and place\" default=\"ERA / REGION\"}. Left section: the situation before—peaceful topography, trade routes in gold, settlements marked with period-appropriate symbols, populations annotated. Center section: the transformation in progress—arrows of movement, zones of contact marked in graduated intensity, timeline running vertically with key dates as waypoints, casualty figures or population shifts visualized as proportional flows. Right section: the aftermath terrain—changed borders, abandoned routes, new settlements, memorial markers, the landscape bearing scars of what passed through it. Visual style transitions from pastoral survey calm through urgent wartime graphics to melancholic documentary. Hand-lettered annotations throughout. Title block reading \"{argument name=\"event name\" default=\"EVENT NAME\"} — [START DATE] TO [END DATE], [GEOGRAPHIC SCOPE]\".",
+    "title": "Cartographer's Crisis Board Visualization",
+    "description": "A complex, multi-section text prompt for generating a detailed, documentary-style visualization of a historical or fictional event (conflict, expedition, or migration) using a cartographer's crisis board aesthetic. It requires a visual transition from calm topography to urgent wartime graphics and melancholic aftermath, suitable for use with Nano Banana Pro and Adobe Firefly.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532807662_ag9f84_HAk6JhQW0AAsd0C.jpg",
+      "https://cms-assets.youmind.com/media/1770532807631_7zrr5a_HAk563nWgAAZr71.jpg",
+      "https://cms-assets.youmind.com/media/1770532807814_nwbnm8_HAk6vknXoAASuu6.jpg",
+      "https://cms-assets.youmind.com/media/1770532809306_n0vn8f_HAk7s2mX0AA5WbI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Gather the team members again. Activate the nanobanana pro slide generator skill for the Bakumatsu Agent Team. Then, proceed with the following steps: 1. Create reference images (a) Collect images of the three people: {argument name=\"person 1\" default=\"Sakamoto Ryoma\"}, {argument name=\"person 2\" default=\"Hijikata Toshizo\"}, and {argument name=\"person 3\" default=\"Kondo Isami\"} from Wikipedia or similar sources. (b) Use these as reference and base images to create character sheets with nanobanana pro. (c) Create character illustrations based on the consistent reference images. 2. Visualize the document (a) Create insertion illustrations for each chapter of the finalized report using nanobanana pro. (b) Insert the created images into the preview within the MD (Markdown) file. (c) Arrange the insertion illustrations for each H1, H2, and H3 section and for Tips to structure the document clearly. Divide this work among the three people to proceed most effectively.",
+    "title": "Character Sheet and Illustration Generation for Bakumatsu Agents",
+    "description": "A complex, multi-step prompt designed to use Nano Banana Pro's slide generator skill to create consistent character sheets and illustrations for a team of Bakumatsu agents (Sakamoto Ryoma, Hijikata Toshizo, Kondo Isami), based on reference images from Wikipedia.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532856467_be0ym0_HAkHfXga4AAADlj.jpg",
+      "https://cms-assets.youmind.com/media/1770532856573_v87jry_HAkHjpzbYAAHkAb.jpg",
+      "https://cms-assets.youmind.com/media/1770532856663_mibl9k_HAkHiW8aQAAEdsT.jpg",
+      "https://cms-assets.youmind.com/media/1770532857532_tiixnv_HAkHlegacAQMNLD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create a hyper-realistic studio photograph of a freshly brewed tea in a transparent glass cup.\nThe cup is filled with rich amber-colored tea, with loose tea leaves clearly visible settled at the bottom.\n\nSoft aromatic steam gently rising from the surface, realistic and natural.\n\nTiny bubbles suspended inside the tea, subtle reflections on the glass, and accurate glass thickness.\n\nClean pure white background with soft studio lighting and a gentle shadow beneath the cup.\n\nUltra-detailed DSLR photography style, macro realism, sharp focus, natural color tones, realistic liquid physics, 8K resolution.\nMinimal, clean aesthetic.\n\nImage 2 - Create a hyper-realistic exploded vertical infographic of tea brewing on a pure white background.\n\nAt the very top, soft aromatic steam wisps floating naturally in the air.\n\nBelow it, a dynamic clear hot water splash frozen mid-motion with realistic liquid physics and droplets.\n\nUnder the water, fresh green tea leaves unfurling and suspended mid-brew with tiny air bubbles around them.\n\nBelow that, a smooth amber-colored brewed tea liquid layer, rich and transparent with subtle bubbles and reflections.\n\nAt the bottom, a crystal-clear transparent glass tea cup base, realistic glass thickness and soft shadow beneath.\n\nClean studio lighting, minimal aesthetic, evenly spaced floating layers, thin subtle infographic guide lines (no text labels).\n\nUltra-detailed DSLR photography style, macro realism, sharp focus, natural reflections, soft shadows, 8K resolution.",
+    "title": "Hyper-realistic Tea Photography Prompts (Still Life and Exploded View)",
+    "description": "Two separate prompts for generating hyper-realistic images of tea. The first is a studio still life of a freshly brewed cup of tea, emphasizing steam, bubbles, and glass texture. The second is an exploded vertical infographic showing the stages of tea brewing, with layers suspended in mid-air, designed for a clean, minimal aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532751763_3xqudv_HAjd1s9aIAA4kX-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"objective\": \"Create a side-by-side comparison image featuring a technical sketch and real photograph of the Great Wall of China\",\n  \"image_specifications\": {\n    \"style\": \"Mixed media (Technical drawing + Real photograph)\",\n    \"layout\": \"Horizontal split - Left side: Sketch with measurements, Right side: Real photo\",\n    \"aspect_ratio\": \"3:2\"\n  },\n  \"left_side\": {\n    \"content_type\": \"Technical sketch of the Great Wall of China\",\n    \"features\": [\n      \"Detailed architectural lines showing wall segments, watchtowers, and defensive structures\",\n      \"Numerical measurements for wall height, width, and tower spacing\",\n      \"Elevation labels for wall sections and towers\",\n      \"Side elevation and top-down layout illustrating wall curvature along terrain\"\n    ],\n    \"text_annotations\": {\n      \"units\": \"Metric (meters)\",\n      \"language\": \"English\",\n      \"font_style\": \"Blueprint or engineering-style typography\"\n    },\n    \"positioning\": \"Take up the left half of the image\"\n  },\n  \"right_side\": {\n    \"content_type\": \"High-resolution real photo of the Great Wall of China\",\n    \"features\": [\n      \"Wide panoramic view of the wall stretching across mountains\",\n      \"Natural daylight with clear or lightly clouded sky\",\n      \"Realistic colors with visible stone texture and surrounding landscape\"\n    ],\n    \"positioning\": \"Take up the right half of the image\"\n  },\n  \"visual_elements\": {\n    \"border_division\": \"Vertical line or subtle transition between left (sketch) and right (photo)\",\n    \"color_palette\": {\n      \"left\": \"Monochrome or blueprint blue for sketch\",\n      \"right\": \"Natural realistic colors\"\n    }\n  },\n  \"output_format\": {\n    \"type\": \"Image\",\n    \"use_case\": [\n      \"Educational poster\",\n      \"Architectural comparison\",\n      \"Historical visualization\",\n      \"Tourism visual aid\"\n    ],\n    \"high_resolution\": true\n  }\n}",
+    "title": "Great Wall of China Mixed Media Comparison",
+    "description": "A structured JSON prompt for Google Nano Banana Pro to create a side-by-side comparison image (3:2 aspect ratio) of the Great Wall of China, featuring a detailed technical blueprint sketch on the left and a high-resolution panoramic photograph on the right, designed for educational or architectural visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532813246_pstn3u_HAiqDdmaMAAbiGV.jpg",
+      "https://cms-assets.youmind.com/media/1770532813394_5hobm5_HAYTUhFbQAAtSm4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"project\": \"CuisineInfographic\",\n  \"metadata\": {\n    \"style\": \"Hyper-Realistic\",\n    \"theme\": \"Kashmiri Wazwan\",\n    \"resolution\": \"8K_Ultra_HD\"\n  },\n  \"scene_setup\": {\n    \"background\": \"Rustic_Dark_Wood\",\n    \"lighting\": \"Cinematic_Studio_Warm\",\n    \"camera\": {\n      \"type\": \"DSLR_Full_Frame\",\n      \"focus\": \"Sharp_Macro\",\n      \"depth_of_field\": \"Shallow_Bokeh\"\n    }\n  },\n  \"render_elements\": {\n    \"base_anchor\": {\n      \"object\": \"Traditional_Kashmiri_Copper_Bowl\",\n      \"content\": \"Steaming_Rogan_Josh\",\n      \"effects\": [\"Dramatic_Steam\", \"Volumetric_Vapor\"]\n    },\n    \"levitating_entities\": [\n      { \"item\": \"Tender_Mutton_Chunks\", \"texture\": \"Juicy_Fibrous\" },\n      { \"item\": \"Fried_Paneer_Cubes\", \"texture\": \"Golden_Crispy\" },\n      { \"item\": \"Kashmiri_Red_Chili\", \"state\": \"Whole_Dried\" },\n      { \"item\": \"Saffron_Water_Splashes\", \"viscosity\": \"Glossy_Orange\" },\n      { \"item\": \"Green_Cardamom_Pods\", \"arrangement\": \"Motion_Frozen\" },\n      { \"item\": \"Cinnamon_Bark\", \"detail\": \"Ultra_Textured\" },\n      { \"item\": \"Fresh_Mint_Leaves\", \"color\": \"Vibrant_Green\" }\n    ],\n  \"ui_overlay\": {\n    \"language\": \"{argument name=\"overlay language\" default=\"Indonesian\"}\",\n    \"elements\": {\n      \"pointer_lines\": \"Thin_Minimalist_White\",\n      \"font_style\": \"Modern_Editorial_Sans\",\n      \"labels\": {\n        \"mutton\": \"{argument name=\"mutton label\" default=\"Tender Lamb Chunks\"}\",\n        \"chili\": \"Kashmiri Red Chili\",\n        \"paneer\": \"Fried Tofu/Paneer\",\n        \"sauce\": \"Thick Red Gravy\"\n      }\n    }\n  }\n}",
+    "title": "Hyper-Realistic Kashmiri Wazwan Infographic Prompt",
+    "description": "A JSON prompt designed to generate a hyper-realistic, cinematic infographic image of Kashmiri Wazwan cuisine. It features a traditional copper bowl of Rogan Josh with dramatic steam, surrounded by levitating ingredients (mutton, paneer, spices) frozen in motion, suitable for high-end food visualization or educational content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532867477_icxnrb_HAhge4eaQAAtljM.jpg",
+      "https://cms-assets.youmind.com/media/1770532867678_wlvwx3_HAhge5kaEAAKcKL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "If I generate a character and ask Nano Banana, something like this can be done in a few seconds... Test whether a summary of the document can be created as a single 'ponchi-e' (simple diagram/illustration)",
+    "title": "Character Generation and Document Summary Visualization",
+    "description": "A user describes a test using Nano Banana to generate a character and then visualize a document summary as a single 'ponchi-e' (simple diagram/illustration). The prompt itself is implied to be a request for character generation and subsequent visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532854281_sorrzj_HAhVo5WbwAAgW-s.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A hyper-realistic {argument name=\"product name\" default=\"[INSERT PRODUCT]\"} presented in an \"exploded view\" where internal components float upward in a gravity-defying vertical stack. Graphic Elements: Fine technical lines (ink-style) connecting parts to minimalist sans-serif labels. Layout: Horizontal split — Left side: Photorealistic 3D render with soft shadows; Right side: Matching architectural line drawing (blueprint style) on textured paper. Color Palette: Monochrome technical sketch with a {argument name=\"accent color percentage\" default=\"15%\"} accent color on key functional parts. Overall Mood: Design journal aesthetic, premium, calm, and highly educational.",
+    "title": "Exploded View Product Render Prompt",
+    "description": "A detailed image generation prompt designed to create a hyper-realistic, exploded view of a product, emphasizing technical precision and a premium design journal aesthetic. It specifies layout, graphic elements (ink-style lines, minimalist labels), color palette (monochrome with a single accent color), and mood, resulting in a highly educational and sophisticated visual.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532863603_9hyvyq_HAhRh9HXIAEIS7l.jpg",
+      "https://cms-assets.youmind.com/media/1770532864182_6ufx54_HAhRh9OXgAAPK26.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Ultra-realistic cinematic food photography of a traditional Indonesian dish, presented as a floating ingredients infographic. The finished dish sits at the bottom in a ceramic bowl on a wooden surface. Above it, key ingredients float in mid-air in a clean vertical layout, each clearly separated and visually balanced. Thin minimalist pointer lines connect ingredients to elegant readable labels. Natural textures, hyper-detailed food surfaces, glossy sauces, steam rising gently, high-speed splash effects frozen in motion. Soft studio lighting mixed with natural daylight, shallow depth of field, premium editorial food poster style, commercial advertising quality, ultra-sharp focus, 8K resolution, realistic shadows, clean background.",
     "title": "Ultra-Realistic Cinematic Food Photography Infographic",
     "description": "A prompt for generating an 8K, ultra-realistic cinematic food photograph suitable for commercial advertising. It features a traditional Indonesian dish with its key ingredients floating above it in a clean, infographic-style vertical layout, connected by minimalist pointer lines. The image emphasizes hyper-detailed food surfaces, glossy sauces, and high-speed splash effects frozen in motion.",

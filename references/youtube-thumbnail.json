@@ -1,5 +1,14 @@
 [
   {
+    "content": "Kollywood cinematic film Post photo prompt Gemini Nano Banana creation.",
+    "title": "Kollywood Cinematic Film Post Photo Prompt",
+    "description": "A prompt designed to generate a photo in the style of a Kollywood cinematic film poster, created using the Gemini Nano Banana model. The actual prompt text is referenced as being in the alt text of the image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532864197_t3k16v_HAhR_WobMAA6Qvb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "json{\n \"prompt\": \"1971 Yeşilçam ultra-detailed cinema still portrait of Türkan Şoray crying dramatically, large emotional eyes with heavy blue-purple smokey eyeshadow blending to center, thick wet black kohl liner smudged from tears, voluminous 70s fön waves cascading over shoulders with perfect side part, contoured over-drawn red matte lips slightly parted in pain, golden hour tears glistening on cheekbones, subtle iris circular vignette framing emotional face, warm nostalgic Kodak film grading with crushed blacks and lifted highlights, Istanbul rainy window background blurred with rain droplets and lace curtains, Arriflex 35mm Zeiss Super Speed T1.3 shallow depth of field bokeh, visible authentic film grain texture, natural pores and imperfections, professional cinema lighting ratio 3:1 creating dramatic cheekbone shadows\",\n \"aspect_ratio\": \"2:3\",\n \"cfg_scale\": 8.5 \n} {\n\"negative_prompts\": {\n\"core\": \"modern digital, plastic skin, airbrushed, cold lighting, neon, cartoon\",\n\"makeup\": \"beauty filter, poreless skin, overdrawn lips, graphic eyeliner, K-beauty\",\n\"hair\": \"balayage, ombre, wet look, slicked back, rainbow highlights\",\n\"tech\": \"smartphone camera, ring light, iPhone, Instagram filter, TikTok effect\",\n\"lighting\": \"studio lighting, flat light, HDR, overexposed highlights\",\n\"quality\": \"blurry, lowres, watermark, text, deformed hands, extra limbs\"\n}\n}",
     "title": "JSON Prompt for 1971 Yeşilçam Cinematic Portrait of Türkan Şoray Crying",
     "description": "A structured JSON prompt for Nano Banana Pro requesting an ultra-detailed, cinematic still portrait of Turkish actress Türkan Şoray crying dramatically, styled after 1971 Yeşilçam cinema, emphasizing heavy, smudged makeup, golden hour tears, and nostalgic Kodak film grading.",

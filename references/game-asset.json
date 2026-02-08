@@ -1,5 +1,63 @@
 [
   {
+    "content": "Do this for a random character: <instruction> Split Identity Vinyl Toy Engine:\nInput A is a Character with duality.\n\nSelect 4 lesser-known characters with internal conflict.\n\nSculpt each toy split vertically or horizontally into two contrasting halves.\n\nEach half represents a different narrative state.\n\nLayout:\n\n2x2 grid, toys centered, perfectly symmetrical framing, name underneath\n\nStyle Stack:\nAnchor: [Split vinyl art toy]::3.5\nMorphology: Bulbous toy proportions, clean bisected geometry::3\nMaterial: Soft vinyl, contrasting matte colors::2.5\nRender: Product photography lighting, neutral backdrop::1\nNegative: [organic gore, realism, asymmetry]::-1",
+    "title": "Split Identity Vinyl Toy Engine",
+    "description": "A complex, structured prompt designed to generate a 2x2 grid of vinyl art toys, each representing a 'Split Identity' with duality. It specifies the artistic style (Bulbous toy proportions, clean bisected geometry), material (Soft vinyl, contrasting matte colors), and layout (symmetrical framing, product photography lighting).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532797428_92nuyc_HAjkHT9WMAEqbWZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create inflatable characters using this prompt",
+    "title": "Inflatable Character Creation Prompt",
+    "description": "A prompt share for creating inflatable characters, likely for graphic design or whimsical illustrations, using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532866657_ftct6n_HAj1ltpbwAAfQey.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "``python def disintegrate(Subject): Direction = \"{argument name=\"disintegration direction\" default=\"Left to Right\"}\" Wind_Speed = \"{argument name=\"wind speed\" default=\"100 km/h\"}\" Particle_Type = \"{argument name=\"particle type\" default=\"Black Volcanic Ash and Embers\"}\" >Execution Left_Side_of_Subject = \"Solid, Intact\" Center_of_Subject = \"Cracking, glowing cracks\" Right_Side_of_Subject = \"Fully dispersed into particle cloud\" return Render(Motion_Blur=True, Glow=True) ```  Instruction:  Preserve the exact pose of [UPLOADED_IMAGE], but apply the `disintegrate()` function described above.",
+    "title": "Disintegration Effect Function Prompt",
+    "description": "A fun, highly technical prompt designed as a Python function to apply a specific disintegration effect to an uploaded image, preserving the original pose. The function defines the direction, speed, and particle type of the disintegration, resulting in a dynamic, particle-cloud effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532757594_1q9400_HASF0h5W8AA3puk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "[THEME] = \"{argument name=\"theme\" default=\"Enter a theme here\"}\" \n\nMake a wide cinematic fantasy game environment illustration inspired by [THEME].\nUse a distant environment-focused camera with an expansive sense of scale and exploration.\nSet the scene as a vast open world shaped entirely by the logic, atmosphere and materials implied by [THEME].\nShow a monumental sky feature or celestial presence that visually defines the world and reinforces the theme.\nLet the terrain, colors, surface forms and horizon geometry emerge naturally from [THEME] without explicit constraints.\nKeep the environment uninhabited with no characters, creatures, vehicles or structures.\nUse soft, immersive lighting appropriate to the world, favoring mood and scale over realism.\nApply game-style atmospheric perspective to suggest depth, distance and exploration.\nCompose the scene to feel like a high-budget open-world game vista rather than a photograph.\nEnsure the final image feels serene, epic and discovery-driven, clearly readable as a game world shaped by [THEME].",
+    "title": "Vast Open-World Game Environment Generator",
+    "description": "A template prompt designed to generate expansive, cinematic fantasy game environment illustrations based on a single conceptual theme. It specifies a distant, environment-focused camera, monumental sky features, and constraints to ensure the scene feels like an uninhabited, high-budget open-world vista.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532757292_1c7z7f_HAixN1pXEAAkVKo.jpg",
+      "https://cms-assets.youmind.com/media/1770532757295_987v2l_HAixLdyXIAAbYEq.jpg",
+      "https://cms-assets.youmind.com/media/1770532757367_zmhpii_HAixVSSWgAEzQF3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a hyper-realistic action video using the uploaded image as the exact visual reference.\n\nSCENE SETUP:\nA Monster Energy can stands perfectly upright at the center of the frame.\nThe environment stays dark, green, and fog-filled as in the reference image.\nA large humanoid monster is visible in the background, partially obscured by green fog.\n\nCAMERA:\nCamera is completely locked.\nSame angle throughout the entire video.\nNo zoom.\nNo pan.\nNo rotation.\nNo camera shake.\n\nACTION SEQUENCE:\n➟ The video starts with stillness.\n   The can does not move.\n   The monster is visible but stationary in the background.\n\n➟ The monster suddenly charges forward at full speed toward the can.\n   Running motion is aggressive, fast, and direct.\n   No slow motion at any point.\n   No pauses.\n\n➟ The monster holds a heavy axe with both hands while running.\n   The axe is raised as it approaches the can.\n\n➟ The monster strikes the can with full force using the axe.\n   The impact is violent and instantaneous.",
+    "title": "Hyper-realistic Action Video Generation from Image Reference",
+    "description": "This complex prompt is designed for video generation using Google Veo 3.1 and Nano Banana Pro, instructing the AI to create a hyper-realistic action sequence based on an uploaded image reference. The video features a monster charging and striking a Monster Energy can with an axe, with strict constraints on camera movement and scene setup.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532748657_9616g9_HAiaWRfbEAAg6ti.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "What would it look like if I made a submarine for children out of this [cardboard box]",
+    "title": "Cardboard Submarine Design Generation",
+    "description": "A prompt used with NanoBananaPro to generate a design concept for a children's submarine made from a cardboard box, based on an input image of the box.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532852108_rjn5w6_HAhL7JcawAAAnWg.jpg",
+      "https://cms-assets.youmind.com/media/1770532852280_ujjfq7_HAhL7MNacAEA4HG.jpg",
+      "https://cms-assets.youmind.com/media/1770532852341_5uv9jr_HAhL7LdacAMja8B.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Transform the original photo into a dramatic, photorealistic, ultra-detailed set of 4 styles characters are included , each a mid close up wide-angle shot with an extreme, dynamic camera angle complex, powerful pose in a consistent, expanded version of the original environment, with cinematic lighting, high contrast, crisp textures, and precise color grading.",
     "title": "Transformative Photo Enhancement Prompt",
     "description": "A prompt instructing the AI to transform an original photo into four distinct, dramatic, photorealistic styles, each featuring a mid-close-up, wide-angle shot with extreme camera angles, complex poses, cinematic lighting, and high contrast, while maintaining the original environment.",

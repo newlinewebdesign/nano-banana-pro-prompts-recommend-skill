@@ -1,5 +1,17 @@
 [
   {
+    "content": "Gather the team members again. Activate the nanobanana pro slide generator skill for the Bakumatsu Agent Team. Then, proceed with the following steps: 1. Create reference images (a) Collect images of the three people: {argument name=\"person 1\" default=\"Sakamoto Ryoma\"}, {argument name=\"person 2\" default=\"Hijikata Toshizo\"}, and {argument name=\"person 3\" default=\"Kondo Isami\"} from Wikipedia or similar sources. (b) Use these as reference and base images to create character sheets with nanobanana pro. (c) Create character illustrations based on the consistent reference images. 2. Visualize the document (a) Create insertion illustrations for each chapter of the finalized report using nanobanana pro. (b) Insert the created images into the preview within the MD (Markdown) file. (c) Arrange the insertion illustrations for each H1, H2, and H3 section and for Tips to structure the document clearly. Divide this work among the three people to proceed most effectively.",
+    "title": "Character Sheet and Illustration Generation for Bakumatsu Agents",
+    "description": "A complex, multi-step prompt designed to use Nano Banana Pro's slide generator skill to create consistent character sheets and illustrations for a team of Bakumatsu agents (Sakamoto Ryoma, Hijikata Toshizo, Kondo Isami), based on reference images from Wikipedia.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770532856467_be0ym0_HAkHfXga4AAADlj.jpg",
+      "https://cms-assets.youmind.com/media/1770532856573_v87jry_HAkHjpzbYAAHkAb.jpg",
+      "https://cms-assets.youmind.com/media/1770532856663_mibl9k_HAkHiW8aQAAEdsT.jpg",
+      "https://cms-assets.youmind.com/media/1770532857532_tiixnv_HAkHlegacAQMNLD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Ultra-minimal layout composition.\nSingle abstract element placed with intention,\nlarge areas of negative space,\nperfect alignment and proportion,\nsoft ambient lighting,\nneutral tones only,\ndesigned to feel deliberate and confident.",
     "title": "Minimal Layout Stress Test Composition",
     "description": "A prompt designed to test the AI's ability to handle ultra-minimalist composition. It focuses on perfect alignment, large areas of negative space, and a single abstract element, using only neutral tones and soft ambient lighting to create a deliberate and confident design.",
