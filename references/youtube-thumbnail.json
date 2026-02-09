@@ -1,5 +1,17 @@
 [
   {
+    "content": "[\n  {\n    \"fileName\": \"1000586027.png\",\n    \"name\": \"{argument name=\"first celebrity\" default=\"Addison Rae\"}\",\n    \"description\": \"A woman kneeling in deep snow with a mountain and cabin background. She is wearing yellow earmuffs, a green and yellow crop top, and yellow shorts. A fox is sitting in the snow behind her.\",\n    \"location\": \"Snowy Mountains\",\n    \"outfit\": \"Winter Sportswear\",\n    \"dimensions\": \"1080x1920\"\n  },\n  {\n    \"fileName\": \"1000586028.png\",\n    \"name\": \"Celebrity\",\n    \"description\": \"A woman posing in the snow with the Matterhorn mountain in the background. She is wearing brown earmuffs, a black and white t-shirt, and black shorts with 'MATTERHORN' and a Swiss cross. A deer is resting in the background.\",\n    \"location\": \"Zermatt, Switzerland\",\n    \"outfit\": \"Themed Sportswear\",\n    \"dimensions\": \"1080x1920\"\n  },\n  {\n    \"fileName\": \"1000586030.png\",\n    \"name\": \"{argument name=\"third celebrity\" default=\"Ana de Armas\"}\",\n    \"description\": \"An edited version of the gym selfie with a heavy snowfall overlay effect. The woman is in the same pose and outfit, but the entire scene is covered in falling snow flakes.\",\n    \"location\": \"Indoor Gym (Snow Effect)\",\n    \"outfit\": \"Sportswear\",\n    \"dimensions\": \"1080x1920\"\n  },\n  {\n    \"fileName\": \"1000586025.jpg\",\n    \"name\": \"Sydney Sweeney\",\n    \"description\": \"A woman kneeling in a snowy landscape with a wooden cabin and a wolf in the background. She is wearing blue earmuffs, a green tie-dye shirt, and green shorts with 'ASPEN' printed on them.\",\n    \"location\": \"Aspen, Colorado\",\n    \"outfit\": \"Winter Sportswear\",\n    \"dimensions\": \"1080x1920\"\n  }\n]",
+    "title": "Celebrity Snowfall Sportswear Image Array Prompt",
+    "description": "A JSON array prompt designed to generate four separate images of celebrities (Addison Rae, Ana de Armas, Sydney Sweeney) in winter sportswear, but placed in snowy mountain or gym settings. Each entry specifies the celebrity, outfit, location, and key background elements (fox, deer, wolf, Matterhorn) to create themed, vertical images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770619734428_baf83h_HAoWF4tXAAAwjxL.jpg",
+      "https://cms-assets.youmind.com/media/1770619734464_rdx2qi_HAoWF_fWgAAp_LE.jpg",
+      "https://cms-assets.youmind.com/media/1770619734443_q5dwle_HAoWF4vXYAAuydW.jpg",
+      "https://cms-assets.youmind.com/media/1770619735486_0jkxxe_HAoWF5GbEAA7jRv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Kollywood cinematic film Post photo prompt Gemini Nano Banana creation.",
     "title": "Kollywood Cinematic Film Post Photo Prompt",
     "description": "A prompt designed to generate a photo in the style of a Kollywood cinematic film poster, created using the Gemini Nano Banana model. The actual prompt text is referenced as being in the alt text of the image.",

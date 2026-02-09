@@ -12,6 +12,84 @@
     "needReferenceImages": true
   },
   {
+    "content": "Transform the photo into a dramatic dynamic camera angle complex, powerful pose in a consistent, expanded version of the original environment, with cinematic lighting, high contrast, crisp textures, and precise color grading.",
+    "title": "Dramatic Photo Transformation for BLACKPINK",
+    "description": "A prompt designed for 'Nano Banana Pro' to transform an existing photo (likely of BLACKPINK) into a highly dramatic and dynamic image. It instructs the AI to use a complex camera angle, powerful poses, consistent expansion of the original environment, cinematic lighting, high contrast, crisp textures, and precise color grading.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770619741984_w5hv0l_HAqCshSaQAARxa2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{ \"meta\": { \"purpose\": \"Golden hour storybook rendering for whimsical fairy tale scenes\", \"style\": \"Soft amber glow, painterly textures, illustrative charm, 4K enchanted hybrid\" }, \"subject\": { \"character\": \"{argument name=\"character\" default=\"e.g., Gentle girl with wildflowers OR Winged fox guardian\"}\", \"action\": \"{argument name=\"action\" default=\"e.g., Dancing in meadow OR Whispering secrets\"}\", \"details\": \"[e.g., Exaggerated forms, hand-drawn intimacy]\" }, \"environment\": { \"setting\": \"{argument name=\"setting\" default=\"e.g., Ancient forest glade at sunset\"}\", \"elements\": \"Lush blooms, luminous birds, honeyed skies\" }, \"lighting\": { \"type\": \"[e.g., Golden hour diffuse with long shadows]\", \"effects\": \"Romantic nostalgia, subtle vignettes\" }, \"technical_specs\": { \"aspect_ratio\": \"[e.g., 16:9]\", \"quality\": \"Ghibli-inspired wonder, photoreal glow with illustration\", \"negative\": [\"harsh contrasts\", \"digital clean\", \"low res\", \"anime exaggerated\"] } }",
+    "title": "Golden Hour Storybook Rendering Template",
+    "description": "A reusable JSON prompt template for generating whimsical, fairy tale scenes with a soft amber glow and painterly textures. The template is designed for a 'Ghibli-inspired wonder' aesthetic, blending photoreal glow with illustration, and includes placeholders for the main character, action, and setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770619692829_0ccw7y_HAkbUFcXQAAe7E8.jpg",
+      "https://cms-assets.youmind.com/media/1770619692870_ik01jc_HAkbUFfXMAAuG_A.jpg",
+      "https://cms-assets.youmind.com/media/1770619692922_nr34jk_HAkbUFaXUAA9BuZ.jpg",
+      "https://cms-assets.youmind.com/media/1770619694211_0cupca_HAkbUFeW4AAVilh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Today's theme is {argument name=\"theme\" default=\"Paper airplane flew\"}",
+    "title": "Nano-kun's Daily Life: Paper Airplane Comic Strip Prompt",
+    "description": "A simple prompt used with Nano Banana Pro to generate a four-panel comic strip (Yonkoma Manga) centered around the theme of 'Paper airplane flying' for the character Nano-kun. This is part of a series showcasing daily life themes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770619740002_xbbx6z_G_-TxmDbEAIITym.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A painting on a light beige background depicts a winged figure in profile, blowing a horn. The figure, rendered in shades of green, brown, and copper, appears to be a cherub or angel. It is depicted in a dynamic, flying pose, with its body angled towards the right and its legs bent. The wings are spread wide, with detailed feathering. The cherub holds a long, conical horn to its lips with both hands. The horn is a greenish-bronze color, with a decorative green element resembling a leaf or flame attached near the bell. The figure's face is serene, with braided hair and a headband. The overall style suggests an antique or classical aesthetic, possibly a depiction of a weather vane or decorative element.",
+    "title": "Classical Winged Figure Blowing a Horn Painting",
+    "description": "A prompt for generating a painting with an antique or classical aesthetic, depicting a winged figure (cherub or angel) in profile blowing a conical horn. The figure is rendered in specific colors (green, brown, copper) and details the pose and decorative elements, suggesting a style similar to a weather vane.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770619684289_tfsvn8_HAofOdAXwAAa4SK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Today's theme is {argument name=\"theme\" default=\"Ice melting\"}",
+    "title": "Nano-kun's Daily Life: Melting Ice Comic Strip Prompt",
+    "description": "A simple prompt used with Nano Banana Pro to generate a four-panel comic strip (Yonkoma Manga) centered around the theme of 'Ice melting' for the character Nano-kun. This is part of a series showcasing daily life themes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770619741743_hbk25l_G_-TkPmbwAAGw6_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{ \"task\": \"image_restoration_upscale\", \"positive_prompt\":\n\"Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.\",\n\"negative_prompt\": \"Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.\", \"parameters\":\n{ \"steps\": 30, \"cfg_scale\": 6.5, \"denoising_strength\": 0.45,\n\"upscaler\": \"4x_NMKD_Siax_200k\", \"target_resolution\": \"4K\" } }",
+    "title": "Image Restoration and Upscale Prompt",
+    "description": "A structured prompt template designed for high-fidelity image restoration and upscaling tasks. It specifies preserving the original identity and composition while applying modern cinematic lighting, professional color grading, and achieving a 4K output with natural skin texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770619672490_1al1ue_HAnLS8NacAI9D6R.jpg",
+      "https://cms-assets.youmind.com/media/1770619672489_gh16b2_HAnLS79bEAAWxY_.jpg",
+      "https://cms-assets.youmind.com/media/1770619673562_x6m8v5_HANkG2_bMAIvEoC.jpg",
+      "https://cms-assets.youmind.com/media/1770619672682_5688jx_HANkG11aIAEaPHY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "I literally gave it the logo and asked for a grid of emojis",
+    "title": "Logo-Based Emoji Grid Generation",
+    "description": "This tweet describes a successful process for generating a consistent grid of emojis based on an uploaded logo, highlighting the model's ability to maintain consistency when provided with a visual reference and clear instructions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770619675212_e3fuja_HAnFrRnbMAAAOLK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Today's theme is {argument name=\"theme\" default=\"Magnets sticking together\"}",
+    "title": "Nano-kun's Daily Life: Magnet Comic Strip Prompt",
+    "description": "A simple prompt used with Nano Banana Pro to generate a four-panel comic strip (Yonkoma Manga) centered around the theme of 'Magnets sticking together' for the character Nano-kun. This is part of a series showcasing daily life themes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770619739622_rgco29_G_-TbcUbUAEhWcC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "You are REWIND.\n\nYou exist because someone looked at a paused frame of a VHS tape  the\ntracking bar rolling across the bottom, the timestamp burning orange in\nthe corner, the whole image swimming in warm noise  and thought: that's\nbeautiful. That accidental, imperfect, unreproducible beauty is what you\nchase.\n\nYou convert plain-English scene descriptions into structured JSON prompts\nfor Nano Banana Pro, Google's image generation model. Every prompt you\nwrite is calibrated to produce images that look and feel like they were\nborn in the 1980s. Not filtered. Not styled. Born there.\n\nYou know the difference between a look and a truth. A VHS filter is a\nlook. Actual magnetic tape degradation  the way oxide particles lose\ntheir grip on the signal over decades, the way chroma bleeds rightward\nbecause NTSC was a compromise between bandwidth and color  that is a\ntruth. You always reach for the truth.\n\nWHO YOU ARE\n\nYou are part archivist, part cinematographer, part obsessive collector\nof dead formats. You have opinions. You think the Ikegami HK-323 had\nthe most beautiful tube bloom of any broadcast camera ever built. You\nbelieve VHS gets a bad reputation from people who never calibrated their\ntracking properly. You know that the reason 80s footage looks warm is\nnot nostalgia  it is tungsten lighting at 3200 Kelvin hitting NTSC\ncolor space that was biased toward skin tones by design.\n\nYou talk like someone who has spent too many nights in a garage\nsurrounded by Betacam decks and CRT monitors and loved every second.\nYou are precise but never clinical. You care about this stuff the way a\nluthier cares about wood grain.\n\nYou do not use filler language. You do not say \"dive into\" or\n\"leverage\" or \"unlock\" or \"elevate\" or \"game-changer\" or \"seamlessly.\"\nYou say what you mean in plain words. Short sentences when short\nsentences are right. Longer ones when the thought needs room to breathe.\n\nWhen you reference the era, you reference it specifically. Not \"the 80s\nvibe.\" You say: the way the light looked on Late Night with David\nLetterman in 1986, shot on the NBC Studio 6A rig. Or: the particular\nshade of teal in the opening credits of Miami Vice, Season 3. Or: that\none scene in The Goonies where the Fratellis' hideout is lit entirely\nby practicals and you can see the tube camera struggling with the\ncontrast. You know these things because you have watched them frame by\nframe.\n\nWHAT YOU KNOW\n\nThree formats. Three worlds.\n\nTEMPLATE A: BROADCAST TO DVD\n\nThis is what a sitcom or a news broadcast or a concert film from the\n80s looks like when someone transferred it to DVD in 2002 and did a\nmediocre job.\n\nThe source was captured on a three-tube camera. Sony BVP-360 or\nIkegami HK-323 with a Fujinon zoom lens. Recorded to 1-inch Type C\nvideotape or Betacam SP. The studio was lit flat and bright with\nMole-Richardson Fresnels at 3200K because tape could not handle\ncontrast and the engineers knew it.\n\nThe tube c",
     "title": "System Prompt for 80s VHS Aesthetic Image Generation (REWIND)",
     "description": "This is a detailed system prompt for an image generation model named 'REWIND', instructing it to convert scene descriptions into structured JSON prompts that emulate the authentic, imperfect aesthetic of 1980s media formats like VHS and Betacam, focusing on technical truths rather than simple filters.",

@@ -1,5 +1,17 @@
 [
   {
+    "content": "① Create a \"{argument name=\"character 1\" default=\"Polar Bear\"}\" and a \"{argument name=\"character 2\" default=\"Panda\"}\" wearing ice skates, and the background location. Normal chat-based input is also OK. Whether you generate it all at once or separately, the process is the same.\n\n② Perform annotation on the image.\nThis is the most troublesome part, so I made it a tool.\nBased on the file name, I create a prompt that organizes \"which part of which image to reference.\"\n(Pose / BG / Face / Clothing, etc.)\n\n③ Add supplementary information such as composition and color scheme for the final generation.",
+    "title": "Nanobanana Prompt Engineering Workflow",
+    "description": "A user describes their workflow for creating high-quality Nanobanana prompts using a custom tool. The process involves defining the subject (e.g., polar bear and panda on skates), generating the initial image, performing detailed annotation (labeling parts like pose, background, face, clothing) based on file names, and finally adding compositional and color information for the final generation. This highlights the importance of detailed language specification for effective prompting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770619737797_xj5d3j_HAmaJHFaAAAPDFJ.jpg",
+      "https://cms-assets.youmind.com/media/1770619737787_y8efis_HAmaN7pbsAAFcmD.jpg",
+      "https://cms-assets.youmind.com/media/1770619737805_5qjy6g_HAmaMa2acAYMRUE.jpg",
+      "https://cms-assets.youmind.com/media/1770619738587_agd864_HAmaPYDakAAdbMm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Do this for a random character: <instruction> Split Identity Vinyl Toy Engine:\nInput A is a Character with duality.\n\nSelect 4 lesser-known characters with internal conflict.\n\nSculpt each toy split vertically or horizontally into two contrasting halves.\n\nEach half represents a different narrative state.\n\nLayout:\n\n2x2 grid, toys centered, perfectly symmetrical framing, name underneath\n\nStyle Stack:\nAnchor: [Split vinyl art toy]::3.5\nMorphology: Bulbous toy proportions, clean bisected geometry::3\nMaterial: Soft vinyl, contrasting matte colors::2.5\nRender: Product photography lighting, neutral backdrop::1\nNegative: [organic gore, realism, asymmetry]::-1",
     "title": "Split Identity Vinyl Toy Engine",
     "description": "A complex, structured prompt designed to generate a 2x2 grid of vinyl art toys, each representing a 'Split Identity' with duality. It specifies the artistic style (Bulbous toy proportions, clean bisected geometry), material (Soft vinyl, contrasting matte colors), and layout (symmetrical framing, product photography lighting).",
