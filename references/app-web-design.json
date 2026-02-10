@@ -1,5 +1,14 @@
 [
   {
+    "content": "A logo mark for a company named 'Lovart' with a base color gradient of vibrant {argument name=\"color 1\" default=\"emerald green\"} and vibrant {argument name=\"color 2\" default=\"blue\"}\n\nGenerate a color palette and font design guidelines from this logo mark\n\nGenerate the application UI design for this service. PC version and smartphone version\n\nDesign a website to introduce this service. PC version and smartphone version\n\nDesign image for the exhibition booth of this service\n\nMerchandise design for this service. T-shirt, hoodie, cap, notebook, sticker",
+    "title": "Multi-Step Design Generation for 'Lovart' Brand Identity",
+    "description": "A multi-step workflow prompt sequence for Nano Banana Pro, designed to create a cohesive brand identity for a company named 'Lovart'. The steps cover generating the logo, creating design guidelines (color palette, font), and then applying that identity to various assets like application UI, website design, exhibition booth, and merchandise.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706233215_4x5j1y_HAuODnmbEAAGP8U.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Gather the team members again. Activate the nanobanana pro slide generator skill for the Bakumatsu Agent Team. Then, proceed with the following steps: 1. Create reference images (a) Collect images of the three people: {argument name=\"person 1\" default=\"Sakamoto Ryoma\"}, {argument name=\"person 2\" default=\"Hijikata Toshizo\"}, and {argument name=\"person 3\" default=\"Kondo Isami\"} from Wikipedia or similar sources. (b) Use these as reference and base images to create character sheets with nanobanana pro. (c) Create character illustrations based on the consistent reference images. 2. Visualize the document (a) Create insertion illustrations for each chapter of the finalized report using nanobanana pro. (b) Insert the created images into the preview within the MD (Markdown) file. (c) Arrange the insertion illustrations for each H1, H2, and H3 section and for Tips to structure the document clearly. Divide this work among the three people to proceed most effectively.",
     "title": "Character Sheet and Illustration Generation for Bakumatsu Agents",
     "description": "A complex, multi-step prompt designed to use Nano Banana Pro's slide generator skill to create consistent character sheets and illustrations for a team of Bakumatsu agents (Sakamoto Ryoma, Hijikata Toshizo, Kondo Isami), based on reference images from Wikipedia.",

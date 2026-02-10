@@ -1,5 +1,66 @@
 [
   {
+    "content": "A hyper-realistic, 8k, high-fidelity close-up shot captured with a macro lens, showcasing a giant human hand holding a keyring against an extremely blurred background of a rugged outdoor forest range. The hand holds a rugged, olive drab paracord survival strap with a small metal dog tag reading \"{argument name=\"dog tag text\" default=\"DUET AI : One Shot\"}\". Attached is a miniature character lying in a prone firing position behind a highly detailed, tiny sniper rifle with a large scope. The character has a large head, [uploaded face as reference], and is wearing a full miniature ghillie suit (camouflage) that looks incredibly textured with tiny leaves and burlap. The miniature rifle has realistic metallic and polymer textures, bipod legs, and a tiny lens flare on the scope. Natural, dappled forest sunlight highlights the camouflage textures and the metal of the rifle.",
+    "title": "Macro Shot of Miniature Sniper Scene",
+    "description": "A prompt for generating a hyper-realistic, high-fidelity macro close-up shot featuring a giant human hand holding a keyring. Attached to the keyring is a miniature character (with a specified face reference) in a ghillie suit, lying prone behind a highly detailed sniper rifle, set against a blurred forest background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706154223_lu3bos_HAugtEDbwAABd-7.jpg",
+      "https://cms-assets.youmind.com/media/1770706155405_oh31eg_HAugtEGaIAA7IIs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Two small fluffy chicks seen from behind, standing together on a floating green lily pad, their backs fully facing the camera, maintaining their exact proportions and silhouettes.\n\nThe chicks are positioned at the very bottom foreground of the scene, while the large purple stitched monster remains dominant in the frame and subtly lowers its gaze downward.\n\nLush jungle pond environment with floating lily pads, soft mist near the water surface and warm natural daylight.\n\nCinematic, ultra-detailed, high-end 3D animated film style, soft realistic textures, no distortion, no stylization shift.",
+    "title": "3D Animated Scene of Chicks and a Monster on Lily Pads",
+    "description": "A prompt for generating a cinematic, ultra-detailed 3D animated film style image. It merges two concepts: two small fluffy chicks seen from behind on a floating lily pad, and a large purple stitched monster dominating the frame, set in a lush jungle pond environment with soft mist.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706187406_vbk20t_HAuYy9dacAEDAlc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create a hyper-realistic macro photograph depicting a sprawling miniature metropolis nestled within a vintage pocket watch for the hyper-realistic isometric 3D render of a miniature. The intricate gears and springs of the watch form the foundational architecture for the city's towering skyscrapers, [amidst glowing filament streetlights and brass walkways, with soft cinematic lighting reflecting off the polished metal surfaces.]",
+    "title": "Miniature Metropolis Inside a Vintage Pocket Watch",
+    "description": "A prompt for generating a hyper-realistic macro photograph of a sprawling miniature metropolis nestled within the intricate gears and springs of a vintage pocket watch. It specifies the architecture, lighting, and 3D render style for a detailed, fantastical scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706184592_pez4fi_HAuP80EbkAAdntA.jpg",
+      "https://cms-assets.youmind.com/media/1770706184738_egenq8_HAuP-MiboAAIJgO.jpg",
+      "https://cms-assets.youmind.com/media/1770706184643_e8dbn5_HAuP7P0awAA5QO7.jpg",
+      "https://cms-assets.youmind.com/media/1770706186421_t959wv_HAuP_6cbQAAYIBj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Do this for {argument name=\"subject\" default=\"Nikola Tesla\"}<analysis> You are the Collectible Toyline Forge Engine. An AI toy designer and packaging stylist. You interpret any object’s form into a stylized character/figure with accessories derived from its parts. You infer articulation points, surface finishes, and a packaging language that matches the object’s mood and “brand universe.” </analysis>  \n\n[DESIGNER FIGURE TYPE] inspired by [OBJECT] Materials: [Toy/packaging materials inferred from source + finish logic] Key Features: [3 to 5 bullets: silhouette gimmick, accessories, articulation, micro-details] Colorway: [Palette derived from object] Edition: [Toyline name + drop/series tag]",
+    "title": "Collectible Toyline Forge Engine System Prompt",
+    "description": "A complex system prompt designed for an AI model acting as a 'Collectible Toyline Forge Engine.' It instructs the AI to interpret an object's form into a stylized character/figure, infer articulation, materials, and packaging language, and then output the design details. The prompt is used to compare model performance, specifically requesting a design for Nikola Tesla.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706220513_ccl17r_HAth0cBXMAEaRCd.jpg",
+      "https://cms-assets.youmind.com/media/1770706220596_qz0mkl_HAtiVk4a4AAQ2IW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "I need numbers 1 to 12 for a {argument name=\"theme\" default=\"12 Zodiac Signs\"} design, but I only have assets from 0 to 10. Based on this image, please create 11 and 12.",
+    "title": "Canva Asset Creation and Style Matching Prompt",
+    "description": "A prompt used to generate missing numbered assets (11 and 12) for a Canva design, ensuring the AI matches the style, texture, and color of the existing assets (1-10) provided as a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706248514_jfrust_HAt_g9XakAA4dkw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Design a full-body humanoid mech adapted to everyday urban life. Mechanical head with a strong abstract silhouette, no human or anime facial features. Futuristic wear. Exposed mechanical limbs and joints with clean panel seams and functional details. Subtle sci-fi equipment, restrained and believable.\n\nStyle: Sci-fi illustration, clean soft linework, airy composition, flat yet nuanced color fields, vivid color palette\nCamera: full-body, eye-level, neutral minimal background.\nMood: calm, confident, near-future realism.",
+    "title": "Humanoid Mech Generator for Urban Life",
+    "description": "A prompt for generating a full-body humanoid mech adapted for everyday urban life. It specifies a mechanical head with an abstract silhouette (no human features), futuristic wear, exposed mechanical limbs, and a style of sci-fi illustration with clean linework, flat color fields, and a mood of calm, near-future realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706164073_03spmu_HAtZ2xaXEAA0wZ9.jpg",
+      "https://cms-assets.youmind.com/media/1770706164119_6y6vd6_HAtZ3fGbMAAfmg4.jpg",
+      "https://cms-assets.youmind.com/media/1770706164225_w2shr7_HAtZ4dKa0AA6C-d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "① Create a \"{argument name=\"character 1\" default=\"Polar Bear\"}\" and a \"{argument name=\"character 2\" default=\"Panda\"}\" wearing ice skates, and the background location. Normal chat-based input is also OK. Whether you generate it all at once or separately, the process is the same.\n\n② Perform annotation on the image.\nThis is the most troublesome part, so I made it a tool.\nBased on the file name, I create a prompt that organizes \"which part of which image to reference.\"\n(Pose / BG / Face / Clothing, etc.)\n\n③ Add supplementary information such as composition and color scheme for the final generation.",
     "title": "Nanobanana Prompt Engineering Workflow",
     "description": "A user describes their workflow for creating high-quality Nanobanana prompts using a custom tool. The process involves defining the subject (e.g., polar bear and panda on skates), generating the initial image, performing detailed annotation (labeling parts like pose, background, face, clothing) based on file names, and finally adding compositional and color information for the final generation. This highlights the importance of detailed language specification for effective prompting.",

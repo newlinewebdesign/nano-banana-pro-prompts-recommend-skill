@@ -12,6 +12,203 @@
     "needReferenceImages": true
   },
   {
+    "content": "Favorite character prompt + only 'drink {argument name=\"drink type\" default=\"〇〇\"}' (drinking {argument name=\"drink type\" default=\"〇〇\"})",
+    "title": "Character Prompt with Drinking Action for Anifusion/Nano Banana",
+    "description": "A simple prompt structure for the Nano Banana model, specifically for the Anifusion tool, where you combine a favorite character prompt with a specific action like 'drink {argument name=\"drink type\" default=\"〇〇\"}'. The tweet notes that for Nano Banana, this is typically done by adding the action prompt to a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706235799_sesx61_HAmfcUFbMAADNAP.png",
+      "https://cms-assets.youmind.com/media/1770706235898_5a4ts5_HAmfXm_aAAEeYf_.png",
+      "https://cms-assets.youmind.com/media/1770706235983_ieudzh_HAmfY3CawAAjDTc.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{argument name=\"quality\" default=\"Masterpiece\"}\n{argument name=\"resolution\" default=\"8k\"}\n{argument name=\"prompt\" default=\"[your prompt here]\"}",
+    "title": "High-Quality Image Generation Optimization",
+    "description": "A technique for instantly boosting image quality to 4K level in Nano Banana Pro by prefixing the prompt with specific keywords, followed by generating multiple angles and using AI for self-criticism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706249674_n415zy_HAwFvW_aAAI6es_.jpg",
+      "https://cms-assets.youmind.com/media/1770706249707_ag8w7q_HAwFvW-aAAAyaFi.jpg",
+      "https://cms-assets.youmind.com/media/1770706249785_7gtjpp_HAwFvXEaAAQzlUz.jpg",
+      "https://cms-assets.youmind.com/media/1770706251076_dtnz2p_HAwFvW9aMAAsa0A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A fantastical and vivid landscape photograph. Sunset time. The silhouette of a {argument name=\"animal\" default=\"black cat\"} walking through the grass. The silhouette is backlit by the golden light of the setting sun. In the background, a cityscape, including the {argument name=\"building\" default=\"Empire State Building\"}, stands on a lake-like water surface, and its reflection is visible in the water. The sky is a gradient of orange, purple, and blue. The light is warm, and the overall atmosphere is mysterious.",
+    "title": "Fantasy Sunset Landscape with Black Cat Silhouette and City Reflection",
+    "description": "A prompt for generating a fantastical and vivid landscape photograph at sunset. It features the silhouette of a black cat walking through the grass, backlit by the golden light of the setting sun. The background includes a lake reflecting a cityscape, including the Empire State Building, creating a mysterious atmosphere with a warm color gradient of orange, purple, and blue.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706235578_tqj840_HAvkWIlaAAEJPWP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{argument name=\"style 1\" default=\"Dark Fairy Tale\"} × {argument name=\"style 2\" default=\"Surrealism\"} × {argument name=\"style 3\" default=\"Gothic Psychedelic\"}",
+    "title": "Dark Fairy Tale, Surrealism, Gothic Psychedelic Character Generation",
+    "description": "A user applied a complex aesthetic prompt to Nano Banana Pro, using an existing character image and profile as a reference. The prompt combines 'Dark Fairy Tale,' 'Surrealism,' and 'Gothic Psychedelic' to generate a moody, stylized image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706240363_5kb6cy_HAu4djsaAAMAjxs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Use one preferred image as a reference\n\n・Consider the image as the cover of a novel and think of a title\n⬇\n・Based on the cover and title, devise a synopsis and chapters, assuming a total word count of {argument name=\"total word count\" default=\"[number of characters]\"}\n⬇\nWrite each chapter sequentially",
+    "title": "AI Workflow for Novel Writing and Cover Generation",
+    "description": "This prompt outlines a multi-step workflow for using Nano Banana (or similar AI) to write a novel, starting from generating a cover image and then using that image to guide the text generation process. It suggests using a reference image for the cover, then generating the title, synopsis, chapters, and finally drafting the content sequentially, allowing for easy retakes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706244312_2ionu8_HAuE3LzaoAAPtD3.jpg",
+      "https://cms-assets.youmind.com/media/1770706244455_o3phwv_HAuE3F4bcAAOHxs.jpg",
+      "https://cms-assets.youmind.com/media/1770706244733_rmfrp3_HAuE3IzaAAAXynF.jpg",
+      "https://cms-assets.youmind.com/media/1770706245751_24qkwa_HAuE3LvakAAIQ5L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create and output one picture in the style of {argument name=\"artist style\" default=\"Matisse's Dance\"}!",
+    "title": "Matisse's Dance Style Image Generation",
+    "description": "A user successfully generated an image using Nano Banana Pro (Gemini 3 Pro Image) by requesting a piece of art in the style of Matisse's 'The Dance'. This demonstrates the AI's ability to interpret and apply specific artistic styles based on simple, direct prompts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706238513_ikjjhy_HAuDrZWaQAAXn1L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Hey nano banana replace my android phone with iPhone 17 pro max maxx",
+    "title": "Image-to-Image Editing Example",
+    "description": "This tweet describes an image-to-image editing action rather than a generative prompt, where the user instructs the model to replace an Android phone with an iPhone 17 Pro Max in an existing image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706160445_fsm9wc_HAt40rWa0AAP_Xf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "The ship and uncharted waters  🌊🟡\nGold instead of the sea. Silence instead of the storm.",
+    "title": "Golden Ship on Uncharted Waters",
+    "description": "A short, evocative prompt for generating an image of a ship on uncharted waters, replacing the typical sea with gold and the storm with silence, created using the lmaae 4.5 and Nano Banana Pro models in Dreamina AI.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706199173_zo9vpg_HAt3Q9zW4AEWdLY.jpg",
+      "https://cms-assets.youmind.com/media/1770706200193_9aw3m1_HAt3Yk_WwAA_EZh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create and output one picture {argument name=\"style\" default=\"like Da Vinci's Last Supper\"}!",
+    "title": "Da Vinci's Last Supper Style Image Generation",
+    "description": "A user attempted to generate an image in the style of Da Vinci's 'The Last Supper' using Nano Banana Pro (Gemini 3 Pro Image). The prompt uses the phrase 'like' (みたいな) to request the style, highlighting the AI's interpretation of famous works.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706241378_wb96ap_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770706241477_98x65n_HAtwG3oacAAY2TR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create and output one picture {argument name=\"style\" default=\"like Matisse's Dance\"}!",
+    "title": "Matisse's Dance Style Image Generation (Rejected)",
+    "description": "A user attempted to generate an image in the style of Matisse's 'The Dance' using Nano Banana Pro (Gemini 3 Pro Image), but the prompt was rejected. The user speculates that this might be due to copyright restrictions or strict content filtering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706241764_et25dm_GCRihaybMAAN19f.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create and output one picture {argument name=\"style\" default=\"like Vermeer\"}!",
+    "title": "Vermeer Style Image Generation",
+    "description": "A user tested Nano Banana Pro (Gemini 3 Pro Image) with a very general prompt asking for an image in the style of Vermeer. The result shows that even vague prompts can yield results, although the user notes the ambiguity of 'like Vermeer'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706239948_c6zrg3_HAtudfWaEAA7Aq2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create and output a picture {argument name=\"style\" default=\"like Vermeer\"} using abundant Vermeer Blue ({argument name=\"color\" default=\"lapis lazuli, ultramarine\"})!",
+    "title": "Vermeer Style with Abundant Ultramarine Blue",
+    "description": "A user refined their Vermeer-style prompt for Nano Banana Pro (Gemini 3 Pro Image) by specifically requesting the use of 'Vermeer Blue' (lapis lazuli/ultramarine) abundantly. The resulting image showed a strong blue hue, leading the user to comment on the intensity of the color.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706241405_upllkk_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770706241627_qgz2hk_HAtsNIrbEAA2X8k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A vintage, sepia-toned studio portrait features two figures dressed in Victorian-era attire, each wearing an animal head. The figure on the left has the head of a {argument name=\"animal head 1\" default=\"fox\"} and is wearing a dark velvet jacket over a checkered shirt and waistcoat, with plaid trousers and a scarf. They are holding a {argument name=\"prop 1\" default=\"pipe\"} in their right hand. The figure on the right has the head of a {argument name=\"animal head 2\" default=\"rabbit\"} and is wearing a waistcoat, jacket, and trousers, with a scarf around their neck. They have their left hand on their hip and are holding a riding crop in their right hand. Both figures stand on a patterned rug against a plain, dark background.",
+    "title": "Vintage Sepia-Toned Portrait with Animal Heads",
+    "description": "A detailed image generation prompt for a vintage, sepia-toned studio portrait featuring two figures in Victorian-era attire, each wearing a different animal head (fox and rabbit), emphasizing specific clothing and props. This prompt is designed for Freepik's AI generator using the Nano Banana Pro model and a custom daguerreotype style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706199017_si4hrd_HAtijzbW4AAC9Lf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"Restore this old photo into professional portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity......\"",
+    "title": "Old Photo Restoration and Upscaling Prompt",
+    "description": "A prompt designed for image restoration and upscaling tasks, instructing the AI to convert an old photo into a professional, DSLR-quality portrait with enhanced color and detail, comparable to results from a Canon EOS R6 II, while ensuring natural facial features and clarity are retained.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706192675_yyxu8e_HAtcdEXagAAxeNS.jpg",
+      "https://cms-assets.youmind.com/media/1770706192673_2ui537_HAtcc-IacAApNq1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "The back view of a {argument name=\"animal\" default=\"black cat\"} sitting on an old wooden post, twisting its body to look back. The cat's fur is smooth, and the texture of the post is realistic. The background is lush with green trees and plants, and a distinctively shaped wooden windmill stands on a distant hill on the right. The sky is bright blue with white clouds.\nThe setting sun casts warm orange light and lens flare from the right, creating strong backlighting against a blue and orange sky",
+    "title": "Black Cat on Wooden Post Scene",
+    "description": "A detailed image generation prompt describing a black cat sitting on an old wooden post, looking back, with a specific background, lighting, and atmosphere, demonstrating Nano Banana Pro's ability to handle complex scene descriptions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706249205_umtgn3_HAtCGgfacAAyz0x.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-cinematic macro shot of a fresh {argument name=\"leaf color\" default=\"green\"} leaf suspended in a deep forest environment. A crystal-clear water droplet hangs delicately from the leaf tip, slowly forming and trembling. Soft natural light passes through the leaf veins, creating translucent {argument name=\"highlight color\" default=\"green\"} highlights. In slow motion, the droplet elongates, reflects the forest scenery, then gently falls. Subtle camera push-in, shallow depth of field, creamy green bokeh background. Hyper-realistic textures, moisture detail, calm nature mood, cinematic color grading, 4K, 24fps, filmic softness, peaceful yet dramatic atmosphere.",
+    "title": "Ultra-Cinematic Macro Shot of a Leaf and Water Droplet",
+    "description": "A highly detailed, cinematic prompt for generating an ultra-macro shot of a fresh green leaf in a forest, focusing on a trembling water droplet and soft natural lighting to create a peaceful yet dramatic atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706164832_2ii88z_HAsuRnYbYAAzIWk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A hyper-realistic surreal photograph of a modern smartphone lying flat on a wooden table, its screen acting as a portal between two worlds. From inside the phone screen, a smiling young man dressed in winter clothing—puffer jacket, knit beanie, gloves—extends his hands outward into the real world, holding a clear glass. From outside the phone, a real human hand pours a bright neon-green carbonated drink into the glass, with liquid splashes frozen mid-air as it crosses the boundary between the digital screen and reality. Snowflakes drift inside the phone screen while the real environment remains warm and minimal. Gemini Ultra-detailed textures, cinematic lighting, shallow depth of field, photorealistic surrealism, high-resolution editorial photography.",
+    "title": "Surreal Smartphone Portal with Frozen Liquid Splash",
+    "description": "A prompt for generating a hyper-realistic surreal photograph where a smartphone screen acts as a portal. A man in winter clothing extends his hand out of the screen, holding a glass, while a real hand pours neon-green liquid into it, with the splash frozen mid-air, blending digital and real worlds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706193113_5l8f4t_HAsZX84aoAAnixW.jpg",
+      "https://cms-assets.youmind.com/media/1770706193199_po4vql_HAsZXPObEAAkooM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{argument name=\"currency\" default=\"Japanese paper currency\"} is lying on the floor in the hallway",
+    "title": "Generating Realistic Japanese Currency on a Floor",
+    "description": "A simple text prompt used to test the realism and structural integrity capabilities of Nano Banana Pro, specifically by asking it to render Japanese paper currency (a complex object often distorted by other AIs) lying on a floor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706233109_3jg7yr_HAsXBxVaMAAf_km.jpg",
+      "https://cms-assets.youmind.com/media/1770706233425_q99ktn_HAsXBxcawAAASzS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"task\": \"image-to-image restoration\",\n  \"input_image\": \"output_from_prompt_1\",\n  \"reference_image\": {\n    \"type\": \"face_reference\",\n    \"description\": \"Same face as damaged photo, identity must remain unchanged\"\n  },\n  \"restoration_settings\": {\n    \"restore_face\": true,\n    \"restore_skin_texture\": true,\n    \"remove_damage\": true,\n    \"preserve_expression\": true,\n    \"preserve_pose\": true\n  },\n  \"image_settings\": {\n    \"aspect_ratio\": \"2:3 portrait\",\n    \"resolution\": \"8K ultra-HD\",\n    \"color_mode\": \"natural warm color\",\n    \"clarity\": \"high-end modern portrait\"\n  },\n  \"subject\": {\n    \"pose\": \"unchanged from damaged photo\",\n    \"expression\": \"same gentle smile\",\n    \"details\": \"natural skin texture, realistic eyes, clean hair detail\"\n  },\n  \"lighting\": {\n    \"type\": \"soft cinematic studio lighting\",\n    \"quality\": \"even, flattering, modern\"\n  },\n  \"background\": {\n    \"style\": \"clean neutral studio backdrop\",\n    \"look\": \"soft bokeh, no texture damage\"\n  },\n  \"quality_targets\": [\n    \"no scratches\",\n    \"no folds\",\n    \"no stains\",\n    \"no blur\",\n    \"no aging artifacts\"\n  ],\n  \"realism\": \"photorealistic modern portrait photography\",\n  \"negative_prompt\": [\n    \"face alteration\",\n    \"identity change\",\n    \"over-smoothing\",\n    \"plastic skin\",\n    \"artistic illustration look\"\n  ]\n}",
+    "title": "Vintage Photo Restoration Prompt",
+    "description": "A structured JSON prompt for image-to-image restoration of vintage photographs using Nano Banana Pro, focusing on preserving identity and expression while removing damage, scratches, and aging artifacts, resulting in an 8K ultra-HD modern portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706209124_wayuz2_HAsE4CdakAAJuGl.jpg",
+      "https://cms-assets.youmind.com/media/1770706209235_yx05ha_HAsE4BtbcAAaVQs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Just throw in your favorite {argument name=\"theme\" default=\"theme\"}, and the AI will perfectly handle concept generation, direction, and drawing.",
+    "title": "Autonomous AI 4-Panel Manga Generation System Prompt",
+    "description": "This is a system description for the Nano Banana Pro V1.8.91 [ZENITH UPGRADE], which allows for 'free input' to generate fully autonomous 4-panel manga. The AI handles concept generation, direction, and drawing based on the theme provided by the user, moving from autonomous generation to co-creation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706234177_n9wcm7_HArMGHhaoAAaSpX.jpg",
+      "https://cms-assets.youmind.com/media/1770706233482_lpg6o2_HArMEKdbcAARL4s.jpg",
+      "https://cms-assets.youmind.com/media/1770706234382_4n88n7_HArMHF4asAAU3D5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Transform the photo into a dramatic dynamic camera angle complex, powerful pose in a consistent, expanded version of the original environment, with cinematic lighting, high contrast, crisp textures, and precise color grading.",
     "title": "Dramatic Photo Transformation for BLACKPINK",
     "description": "A prompt designed for 'Nano Banana Pro' to transform an existing photo (likely of BLACKPINK) into a highly dramatic and dynamic image. It instructs the AI to use a complex camera angle, powerful poses, consistent expansion of the original environment, cinematic lighting, high contrast, crisp textures, and precise color grading.",

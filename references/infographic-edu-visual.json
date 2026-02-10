@@ -51,6 +51,55 @@
     "needReferenceImages": false
   },
   {
+    "content": "Generate a high quality infographic explaining beer making in a Trappist Abbey with rich illustrations.",
+    "title": "Infographic on Trappist Abbey Beer Making",
+    "description": "A prompt for generating a high-quality infographic that explains the process of beer making in a Trappist Abbey, requiring rich illustrations to accompany the text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706149209_yqfh2m_HAuo5WZWMAAUfAn.jpg",
+      "https://cms-assets.youmind.com/media/1770706149032_hwmcx2_HAuoDPoWsAE8VJQ.jpg",
+      "https://cms-assets.youmind.com/media/1770706148945_b9ds6n_HAuo3vvbUAAOHq-.jpg",
+      "https://cms-assets.youmind.com/media/1770706150838_lm3k51_HAuo6RBaoAETy-f.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "I need numbers 1 to 12 for a {argument name=\"theme\" default=\"12 Zodiac Signs\"} design, but I only have assets from 0 to 10. Based on this image, please create 11 and 12.",
+    "title": "Canva Asset Creation and Style Matching Prompt",
+    "description": "A prompt used to generate missing numbered assets (11 and 12) for a Canva design, ensuring the AI matches the style, texture, and color of the existing assets (1-10) provided as a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706248514_jfrust_HAt_g9XakAA4dkw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "\"Abstract microscopic view of living coffee crema, delicate glowing tendrils and fractal networks spreading naturally across the dark espresso base, subtle bioluminescent effects in emerald and magenta hues, organic flowing forms with intricate details, surreal biological fantasy, ultra sharp macro photography style, dramatic volumetric lighting, no horror elements, artistic and wondrous atmosphere, 8k quality\"",
+    "title": "Abstract Microscopic View of Living Coffee Crema",
+    "description": "A prompt for generating an abstract, surreal macro photograph of coffee crema, depicting it as a living substance with delicate glowing tendrils and fractal networks. It specifies bioluminescent effects in emerald and magenta hues, dramatic volumetric lighting, and an artistic, wondrous atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706184793_1u1urc_HAtQOlKasAAmb58.jpg",
+      "https://cms-assets.youmind.com/media/1770706184993_msjj2e_HAtQOnSaIAERTnn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Comparison of the front and back of a mounted specimen of a male {argument name=\"butterfly species\" default=\"Atrophaneura alcinous\"} spring form. The information in this illustration shows that the structural color on the left and the {argument name=\"color\" default=\"matte brown\"} on the right are the same butterfly. When you write 'iridescent' to the AI, everything shines. The job of the prompt is to specify 'this part shines, this part does not shine'.",
+    "title": "Generating a Butterfly Image with Selective Iridescence",
+    "description": "This prompt is designed to address a common issue in AI image generation where specifying 'iridescent' makes the entire subject glow. The goal is to generate an image of a butterfly (specifically a male *Atrophaneura alcinous* spring form) that accurately depicts selective structural color (iridescence) on the left wing and a matte brown color on the right wing, requiring precise control over light and texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706231672_wgg1zr_HAtBmhvaQAAM6TT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{argument name=\"subject\" default=\"Male Chinese Peacock Butterfly (spring form)\"} × {argument name=\"flower\" default=\"Rhododendron\"} — structural color gradient of the wings, yellow lateral stripe of the abdomen, nectar spot pattern of the petals",
+    "title": "Precise Natural History Illustration Prompt: Chinese Peacock Butterfly",
+    "description": "A highly detailed prompt aimed at generating a precise natural history illustration of a male Chinese Peacock (Karasuageha) butterfly (spring form) and a Rhododendron (Yama-tsutsuji) flower using Nano Banana. The prompt includes specific details necessary for species identification, such as the gradient of structural color on the wings, the yellow lateral stripe on the abdomen, and the nectar spot pattern on the petals, striving for scientific accuracy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706242979_n4cxzr_HArwi-kaEAA2cwv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A cartographer's crisis board mapping {argument name=\"event type\" default=\"CONFLICT\"} — {argument name=\"time and place\" default=\"ERA / REGION\"}. Left section: the situation before—peaceful topography, trade routes in gold, settlements marked with period-appropriate symbols, populations annotated. Center section: the transformation in progress—arrows of movement, zones of contact marked in graduated intensity, timeline running vertically with key dates as waypoints, casualty figures or population shifts visualized as proportional flows. Right section: the aftermath terrain—changed borders, abandoned routes, new settlements, memorial markers, the landscape bearing scars of what passed through it. Visual style transitions from pastoral survey calm through urgent wartime graphics to melancholic documentary. Hand-lettered annotations throughout. Title block reading \"{argument name=\"event name\" default=\"EVENT NAME\"} — [START DATE] TO [END DATE], [GEOGRAPHIC SCOPE]\".",
     "title": "Cartographer's Crisis Board Visualization",
     "description": "A complex, multi-section text prompt for generating a detailed, documentary-style visualization of a historical or fictional event (conflict, expedition, or migration) using a cartographer's crisis board aesthetic. It requires a visual transition from calm topography to urgent wartime graphics and melancholic aftermath, suitable for use with Nano Banana Pro and Adobe Firefly.",

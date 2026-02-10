@@ -18,6 +18,81 @@
     "needReferenceImages": false
   },
   {
+    "content": "Super dynamic Anime art of the 【{argument name=\"character name\" default=\"REFERENCED CHARACTER OR ANIME CHARACTER NAME\"}】referenced character 【〈  REMOVE SECTION FOR MORE CREATIVE RESULTS〉with his exact exact characteristics and facial expressions lineart-proportions】 in the exact same artstyle in battle with his signature energy matching the vibe of the referenced image, power and aura surrounding them, anime style, high resolution, high quality, high detail, dramatic anime background matching background of referenced image, anime key visual, write 【{argument name=\"text to write\" default=\"TEXT\"}】 on the 【{argument name=\"text position\" default=\"POSITION\"}】 in japanese at the attack in a chaotic and dramatic anime font that fits the power and energy of the attack, anime key poster.",
+    "title": "Dynamic Anime Battle Poster with Japanese Text",
+    "description": "A template prompt for generating a super dynamic anime battle poster featuring a referenced character. It specifies using the exact art style and characteristics of the reference, surrounding them with power and aura, and including dramatic Japanese text in a specific position to match the energy of the attack.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706188788_u3xzfd_HAwPm0WaAAMwSXU.jpg",
+      "https://cms-assets.youmind.com/media/1770706188710_67eo8y_HAwPi9wXkAAwh_x.jpg",
+      "https://cms-assets.youmind.com/media/1770706189344_18xf3n_HAwPY0VXEAAOMrZ.jpg",
+      "https://cms-assets.youmind.com/media/1770706190456_p3ucio_HAwPtvYa8AAkmve.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "FACIAL IDENTITY & Elon musk EXPRESSION CONTROL:\n- Masculine facial expression only: calm, confident, stoic, slightly intense\n- No smiling, no playful or cute expressions\n- Strong jaw presence and grounded masculinity\n- Editorial “bad boy” attitude, controlled and confident\n\nCreate a MEN’S Korean high-fashion hairstyle reference poster with EXACTLY 9 PANELS.\n\nPOSTER LAYOUT (STRICT):\n- EXACT 3x3 grid (9 panels only)\n- Perfect symmetry, equal panel size\n- Consistent framing and crop\n- Neutral studio background\n- Luxury men’s fashion editorial layout\n\nPOSE, BODY LANGUAGE & HAND GESTURES (VERY IMPORTANT):\n- Each panel MUST have a DIFFERENT pose\n- All poses must read MANLY and STRONG\n- Strong neck posture and jaw angles\n- Subtle head turns, chin forward or slightly down\n- Natural masculine hand poses allowed:\n  - Hand near jaw or chin\n  - Fingers touching neck or collarbone\n  - Hand brushing hair back\n  - Relaxed hand near face\n- No soft wrist bends, no feminine gestures\n- Poses should feel dynamic, confident, rebellious\n\nBAD BOY ENERGY:\n- Calm but dangerous confidence\n- Slight intensity in eyes\n- Editorial “don’t-care but powerful” presence\n- Masculine K-Pop idol bad boy aesthetic\n\nACCESSORIES (MANDATORY):\n- Diamond stud earrings in EVERY panel\n- Earrings must be small, clean, masculine, high-end\n- Some panels may include:\n  - Classic aesthetic reading glasses\n  - Stylish black sunglasses\n- Accessories must enhance masculinity, not distract\n\nMAKEUP & GROOMING (VERY IMPORTANT):\n- Sophisticated masculine elegance\n- Sharp jawline definition\n- Pristine, absolutely flawless realistic skin texture\n- High-end fashion editorial grooming\n- Matte-finish skin: zero shine, zero oil, zero sweat\n- Imperceptible pores, ultra-clean complexion\n- Very subtle, undetectable corrective grooming\n- Enhances bone structure naturally without visible makeup\n- Ultimate freshness and health despite movement\n- Neutral, hydrated matte lips\n- Neat, masculine eyebrows (not overstyled)\n\nHAIRSTYLES TO APPLY:\n\nSHORT HAIR:\n1. Buzz Cut Korean (strong frontal bad-boy pose)\n2. Short Korean Side Part (power editorial pose)\n3. Short Two Block Perm (structured, confident masculinity)\n\nMEDIUM HAIR:\n4. Comma Hair (controlled bad-boy elegance)\n5. Messy Korean Medium Perm (rugged, textured energy)\n6. Braids (bold, masculine, fashion-forward)\n\nLONG HAIR:\n7. High Bun Soft Korean Perm (warrior-like posture)\n8. Wolf Cut (rebellious, edgy male fashion)\n9. Long Wavy Choppy Hair (rockstar bad-boy masculinity)\n\nHAIR REALISM RULES:\n- Ultra-photorealistic hair texture\n- Natural masculine hair density\n- No beauty-gloss finish\n- Hair moves naturally with head and hand gestures\n- Realistic hairline adjustments only\n\nPHOTOGRAPHY & FASHION STYLE:\n- MEN’S high-fashion editorial photoshoot\n- Masculine lighting with soft contrast\n- Shadows enhance jaw, cheekbones, and neck\n- Korean luxury men’s magazine aesthetic\n- Bold, confident, fashion-forward mood\n\nTEXT & LABEL",
+    "title": "Elon Musk K-Pop Bad Boy Hairstyle Reference Poster",
+    "description": "An extremely detailed, multi-section prompt for the Gemini Nano Banana Pro model to generate a 3x3 grid poster featuring Elon Musk with various masculine K-Pop high-fashion hairstyles. The prompt enforces strict rules on facial expression (calm, stoic, no smiling), body language (manly, strong, different poses in each panel), mandatory accessories (diamond stud earrings), and specific grooming requirements (matte skin, zero shine, flawless texture). It outlines nine specific short, medium, and long hairstyles to be applied across the grid.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706216589_az6x6n_HAuM4F9agAAJ95g.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A bold, high contrast digital portrait of a young man in side profile, facing left. The style is expressive and painterly, with dynamic brush strokes and paint splashes flowing from the head and shoulders, creating a sense of motion and energy. Strong black shadows define the face, with sharp highlights for depth and drama. The background is a solid vibrant {argument name=\"background color\" default=\"yellow\"}, minimal and striking. Accents of deep blue and black paint strokes wrap around the subject, giving a modern street art and sports poster feel. Cinematic lighting, high detail, gritty texture, confident and focused expression, contemporary illustration style, ultra sharp, poster quality.",
+    "title": "Digital Painterly Portrait with Street Art Feel",
+    "description": "A prompt for generating a bold, high-contrast digital portrait of a young man in side profile, utilizing an expressive painterly style with dynamic brush strokes and paint splashes, set against a solid vibrant yellow background, aiming for a modern street art/sports poster aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706211016_lydhv4_HAuL-hPbMAAKRh7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"Ultra-realistic studio portrait photograph of Sattached celebrity as Wonder Woman in classic heroic costume, standing in a confident three-quarter pose facing camera, left arm bent holding a large round bronze shield with eagle emblem at chest level, right hand resting near hip holding coiled golden lasso, wearing metallic bronze and red-gold strapless armored corset with scale texture and crossed leather straps, dark blue leather skirt with gold-trimmed segmented panels, golden eagle-motif gauntlets, golden tiara with red star centerpiece, tall black boots with gold details, long dark wavy hair, natural heroic makeup with defined features and subtle lip color, clean neutral gray studio background, soft even key lighting with gentle rim light for depth, professional cinematic style, shot on 35mm film emulation with light grain, shallow depth of field, highly detailed armor and leather textures, realistic skin and metallic reflections, photorealistic 8K\"",
+    "title": "Ana De Armas as Wonder Woman Studio Portrait",
+    "description": "A highly detailed prompt for generating an ultra-realistic studio portrait photograph of a specified celebrity (Ana De Armas) as Wonder Woman. The prompt meticulously describes the costume, pose, accessories (shield, lasso), lighting, and technical specifications for a cinematic, photorealistic 8K result.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706151545_t28apu_HAt-lWZa8AAy_Tv.jpg",
+      "https://cms-assets.youmind.com/media/1770706151377_zi9ejf_HAt-lQJXAAADQYT.jpg",
+      "https://cms-assets.youmind.com/media/1770706152180_2ylaan_HAt-lXTbkAAPyvm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-realistic studio side-profile portrait of a modern man showcasing contemporary men’s hairstyles. Clean barbershop photography style with sharp focus on haircut details and texture. Neutral male model wearing a dark hoodie, shot in profile view. Warm {argument name=\"background color\" default=\"mustard–orange\"} seamless background, soft diffused studio lighting with gentle shadows to emphasize fade transitions and hair texture. Natural skin tones, visible hair strands, crisp edges, professional grooming aesthetic, high-resolution DSLR look, shallow depth of field, editorial haircut reference photography.\n\nHair style modifiers (swap as needed):\n\n{argument name=\"hair style 1\" default=\"high fade with textured top\"}\n\n{argument name=\"hair style 2\" default=\"short textured crop with low fade\"}\n\nmessy textured quiff with fade\n\nmodern mullet with layered texture",
+    "title": "Ultra-Realistic Studio Portrait for Men's Hairstyles",
+    "description": "A prompt for generating an ultra-realistic, side-profile studio portrait of a modern man, focusing on showcasing contemporary men's hairstyles. The style is clean barbershop photography with sharp focus on hair texture and fade transitions, set against a warm mustard-orange seamless background with soft diffused studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706225413_n3t78h_HAsESBCb0AIcrYA.jpg",
+      "https://cms-assets.youmind.com/media/1770706225428_kaojrb_HAsESA4bMAAjgvg.jpg",
+      "https://cms-assets.youmind.com/media/1770706225386_gg9wto_HAsESBBa0AAHWVq.jpg",
+      "https://cms-assets.youmind.com/media/1770706226672_p04yte_HAsESBGbQAATOhw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-realistic official editorial poster for Hari Pers Nasional 2026, dignified, human-centered, and authoritative.\n\nA close-up formal portrait of an Indonesian female journalist portrayed as a refined female cyborg, representing the balanced integration of human conscience and advanced technology in national journalism.\n\nHer expression is calm, firm, and full of empathy, reflecting integrity, responsibility, and commitment to truth.\nHer gaze is steady and composed behind elegant rose-gold tinted cat-eye sunglasses with subtle reflective lenses, conveying clarity and credibility.\nHer long silver-white hair is styled in a neat, elegant high ponytail, orderly and controlled, with minimal soft strands framing the face. No wind, no dramatic motion — formal editorial portrait.\n\nSubtle signs of professional fatigue blend with quiet dignity, symbolizing dedication and service.\n Restrained, refined cybernetic detailing on the neck and shoulders integrates seamlessly with natural human skin, conveying technological advancement with ethical restraint.\n\nShe holds a simple pen close to her chest, softly illuminated, symbolizing integrity, conscience, and responsibility of the press.\nBackground: softly blurred with shallow depth of field, featuring understated newspaper headlines, archival press imagery, and minimal digital light accents — secondary, subdued, and respectful.\n\nLighting: warm, soft, and controlled. Natural key light highlights the face with gentle contrast, formal editorial lighting suitable for official publications.\n\nTypography (mandatory, clear, and formal):\nClassic editorial serif typeface inspired by newspaper and state publications. High-contrast white or light gray text on a darker background, clean alignment, official layout.\n\nPrinted text on poster (must be clearly legible):\n\n“Selamat Hari Pers Nasional 2026”\n“Di tengah disrupsi digital, mari kita dukung pers yang sehat untuk mencerdaskan bangsa dan menjaga kedaulatan informasi.”\n\n“Pers Sehat, Ekonomi Berdaulat, Bangsa Kuat.”\n\nSmall formal editorial credit at the bottom corner (sharp and readable):\n “didesain oleh promptverse”\n\nUltra-high resolution, static and symmetrical composition, calm authority, respectful national tone.\nAppropriate for official government, institutional, and national commemorative media.\n\n🔧 Optional Negative Prompt\n\ndynamic pose, wind-blown hair, exaggerated cyberpunk style, chaotic lighting,\naggressive expression, action scene, messy composition, unreadable text,\ndistorted typography, blur, dramatic effects\n#haripersnasional #HPN2026",
+    "title": "Editorial Poster for Hari Pers Nasional 2026",
+    "description": "A highly detailed and structured prompt for generating an ultra-realistic official editorial poster for Indonesia's National Press Day, featuring a formal portrait of a female journalist as a refined cyborg, symbolizing the balance of human conscience and technology, with specific requirements for lighting, typography, and text content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706167575_otdxpr_HArvC6qaAAApcdK.jpg",
+      "https://cms-assets.youmind.com/media/1770706167532_ob89qz_HArvC67bAAAA9f-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A powerful editorial, highly detailed, photorealistic, dynamic low-angle portrait featuring a man against a vibrant, solid {argument name=\"background color\" default=\"orange-red\"} background, utilizing dramatic, high-contrast studio lighting dominated by vivid orange and deep red hues. The subject is photographed from a slightly low camera angle, creating a strong, authoritative presence and emphasizing the jawline and facial structure. His head is subtly tilted downward toward the camera while his eyes look slightly",
+    "title": "Dynamic Low-Angle Portrait with Orange-Red Background",
+    "description": "A prompt for generating a powerful, photorealistic editorial portrait of a man using dramatic, high-contrast studio lighting dominated by orange and deep red hues against a solid vibrant background, emphasizing a strong, authoritative presence.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770706206272_1ddwwq_HArYurTW4AAStfu.jpg",
+      "https://cms-assets.youmind.com/media/1770706206265_363dk1_HArYuynXMAA42wH.jpg",
+      "https://cms-assets.youmind.com/media/1770706206654_aniz5m_HArYu5hbkAAoJJ1.jpg",
+      "https://cms-assets.youmind.com/media/1770706207535_gh6c6h_HArYu6eWUAEAVf9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A vintage yellowed blueprint of a {argument name=\"subject\" default=\"Porsche 911 or Medieval Castle\"} lying on a wooden desk. The 2D ink lines are physically lifting off the paper and manifesting into a realistic, 3D chrome and carbon fiber model in the center. Pencil shavings and drafting tools lie scattered around. A mix of hand-drawn charcoal aesthetics and hyper-realistic 3D rendering. High contrast, dramatic side lighting from a desk lamp, 8K, cinematic storytelling.",
     "title": "Blueprint to 3D Chrome Manifestation Prompt",
     "description": "A creative prompt for generating an image where a vintage blueprint on a wooden desk physically manifests into a realistic, 3D chrome and carbon fiber model. The prompt specifies the aesthetic mix (hand-drawn charcoal and hyper-realistic 3D), lighting (dramatic side lighting), and technical quality (8K, cinematic storytelling).",
