@@ -1,5 +1,35 @@
 [
   {
+    "content": "Use Nano Banana Pro to generate a realistic character effect, and then use this image as a reference element for Seedance 2.0 to create a video",
+    "title": "Generate Realistic Character from Fantasy Image Reference Prompt",
+    "description": "This is a two-step process prompt. First, an initial fantasy image is generated (presumably via Midjourney), and then Nano Banana Pro is instructed to generate a realistic human character based on that fantasy image as a reference. The resulting realistic image is then used as a reference for a video generation model (Seedance 2.0).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792217949_zs9td1_HA0MoEsaAAIVs9N.jpg",
+      "https://cms-assets.youmind.com/media/1770792218224_hiasel_HA0MlWoaAAUcMhq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"subject\": {\n    \"name\": \"Jennie Kim\",\n    \"alias\": \"Jennie\",\n    \"group\": \"BLACKPINK\",\n    \"persona\": \"Elegant, fierce stage presence, signature 'human Chanel' style\",\n    \"expression\": \"Focused, slightly intense, sharp gaze off-camera\",\n    \"pose\": \"Dynamic three-quarter profile, mid-choreography, hair in motion\"\n  },\n  \"physical_features\": {\n    \"hair\": \"Long, dark, voluminous waves framing face and flowing down back\",\n    \"skin\": \"Dewy, hyper-reflective, glass-skin style, warm skin tone\",\n    \"makeup\": \"Soft smoky eyeshadow, winged eyeliner, gradient red lips\"\n  },\n  \"clothing\": {\n    \"top\": \"Textured white lace crop top\",\n    \"bottom\": \"High-waisted black pleated bottoms\",\n    \"style\": \"Monochrome, chic stage outfit\"\n  },\n  \"lighting\": {\n    \"type\": \"Stage spotlights\",\n    \"contrast\": \"High\",\n    \"effects\": \"Cool blue rim light highlighting hair and skin, cinematic haze/fog in air\"\n  },\n  \"atmosphere\": \"Concert/focused performance, cinematic and ethereal mood, balance of vulnerability and power\",\n  \"image_details\": {\n    \"width\": 504,\n    \"height\": 1002\n  }\n}",
+    "title": "K-pop Star Jennie Kim Stage Performance Portrait",
+    "description": "A structured JSON prompt for generating a high-contrast, cinematic image of K-pop star Jennie Kim (BLACKPINK) during a performance. The prompt specifies her dynamic pose, 'glass-skin' aesthetic, stage outfit (white lace crop top, black pleated bottoms), and dramatic lighting (high-contrast stage spotlights with cool blue rim light and cinematic haze).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792211932_250pxi_HAxc8kyaAAIcT94.jpg",
+      "https://cms-assets.youmind.com/media/1770792211922_w0y291_HAxc8jgaQAA-v6k.jpg",
+      "https://cms-assets.youmind.com/media/1770792211956_3a4858_HAxc8kWagAANAXb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate an illustration for a thumbnail for late-night relaxed piano practice",
+    "title": "Vlogger Thumbnail Image Generation Prompt",
+    "description": "A user generated a thumbnail illustration for a late-night piano practice session using Nano Banana Pro, demonstrating the tool's ability to create specific images for VTuber content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792218751_edhr7o_HAxL-TgbMAAvxuc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Super dynamic Anime art of the 【{argument name=\"character name\" default=\"REFERENCED CHARACTER OR ANIME CHARACTER NAME\"}】referenced character 【〈  REMOVE SECTION FOR MORE CREATIVE RESULTS〉with his exact exact characteristics and facial expressions lineart-proportions】 in the exact same artstyle in battle with his signature energy matching the vibe of the referenced image, power and aura surrounding them, anime style, high resolution, high quality, high detail, dramatic anime background matching background of referenced image, anime key visual, write 【{argument name=\"text to write\" default=\"TEXT\"}】 on the 【{argument name=\"text position\" default=\"POSITION\"}】 in japanese at the attack in a chaotic and dramatic anime font that fits the power and energy of the attack, anime key poster.",
     "title": "Dynamic Anime Battle Poster with Japanese Text",
     "description": "A template prompt for generating a super dynamic anime battle poster featuring a referenced character. It specifies using the exact art style and characteristics of the reference, surrounding them with power and aura, and including dramatic Japanese text in a specific position to match the energy of the attack.",

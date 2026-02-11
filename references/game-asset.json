@@ -1,5 +1,73 @@
 [
   {
+    "content": "[SUBJECT]\nA massive floating island captured as a photoreal, physically plausible environment, rendered with Octane-level realism. The island is a living ecological system integrated with inhabitable architecture grown from stone, crystal, and bio-organic materials. The scene feels like a real, observable place suspended in the sky, not a stylized illustration.\n\n[RENDERING STYLE]\nUltra-photoreal rendering with Octane Render characteristics: physically accurate global illumination, realistic light falloff, high dynamic range sky lighting, true-to-scale materials, micro-surface detail, subtle imperfections, and natural color response. No painterly effects, no stylization, no exaggerated fantasy lighting.\n\n[COMPOSITION]\nWide-angle aerial shot, slightly offset perspective, as if photographed from a hovering drone or aircraft. The full vertical mass of the island is visible, with architectural elements clearly readable. Horizon visible in the distance with atmospheric haze for scale. Camera height slightly below the island’s midline, emphasizing weight and realism.\n\n[UPPER ATMOSPHERIC ZONE]\nThin, stratified clouds interact with the island’s upper vegetation. Tall, vine-like atmospheric plants extend upward, realistically textured and wind-reactive. Small, semi-translucent floating organisms drift naturally, with believable motion blur and subsurface scattering. Sunlight diffuses through cloud layers, producing soft volumetric shafts.\n\n[SURFACE ECOSYSTEM]\nThe surface terrain features realistic soil, rock strata, and dense vegetation with botanical variation. Graviroot trees anchor into the terrain with visible root tension and load-bearing structure. Meadows ripple subtly in the wind. Rivers flow toward cliff edges and disperse into mist through evaporation, captured with physically accurate fluid behavior.\n\n[ARCHITECTURE – DWELLINGS & PUBLIC SPACES]\nArchitecture is seamlessly integrated into the landscape, appearing grown, carved, or accreted rather than constructed:\n- Cliffside dwellings embedded into rock faces, with arched openings, layered terraces, and organically curved facades.\n- Residential structures grown from mineralized coral-like stone, reinforced with crystal ribs.\n- Public plazas formed as open stone platforms surrounded by vegetation, root-canopies, and light-filtering crystal growths.\n- Sky-bridges and root-walkways connecting buildings, appearing load-bearing and structurally plausible.\n- Transparent or semi-translucent roofing formed from bio-crystal membranes, allowing natural light into interiors.\n\nNo sharp industrial lines; all architecture follows structural logic and biological growth patterns.\n\n[SUBSURFACE & STRUCTURAL CORE]\nThrough cracks and translucent mineral layers, a crystal–mycelium structural network is visible, acting as both load distribution and energy circulation. Subsurface glow is subtle, uneven, and realistic, suggesting biophysical p",
+    "title": "Octane-Rendered Floating Ecological Island",
+    "description": "An extremely detailed prompt for generating a massive, photorealistic floating island that functions as a living ecological system. It specifies Octane-level rendering realism, physically plausible environments, and architecture grown from organic and mineral materials, viewed from a wide-angle aerial perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792186541_wwtln3_HA0hnpMaMAAfeTe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A high-resolution commercial product photograph of an incredibly detailed {argument name=\"scale\" default=\"1/7\"} scale collectible figure. The figure features intricate clothing textures and realistic skin, standing on a pristine, transparent circular acrylic base on a modern artist's desk surface. Eye-level close-up. In the soft-focus background, a computer monitor displays the complex 3D wireframe mesh of the same figure, next to a premium matte collector's box with vibrant 2D character art. Lighting is a mix of professional soft studio light and the subtle blue glow from the monitor screen creating rim lighting. Highly detailed, photorealistic, shallow depth of field.",
+    "title": "1/7 Scale Collectible Figure Product Shot",
+    "description": "A prompt for generating a high-resolution commercial product photograph of a detailed 1/7 scale collectible figure, emphasizing realistic textures, specific base details, and a background featuring a computer monitor displaying the figure's 3D wireframe mesh and collector's box.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792205703_wdq46d_HAzqYtHbgAA_3tb.jpg",
+      "https://cms-assets.youmind.com/media/1770792205719_bvepsc_HAzqYmNa8AAZgJf.jpg",
+      "https://cms-assets.youmind.com/media/1770792205793_npqkf6_HAzqYnhaQAAms5w.jpg",
+      "https://cms-assets.youmind.com/media/1770792206378_xermqe_HAzqYxpaIAA3sBq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Proper nouns like Nuka-Launcher and Ghoul are understood.",
+    "title": "Nano Banana's Understanding of Fallout Terminology",
+    "description": "This tweet notes that Nano Banana (likely Pro) has a high understanding of specific proper nouns and terminology from the Fallout universe, such as 'Nuka-Launcher' and 'Ghoul,' suggesting these terms were used in a prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792225883_5nbovd_HAy97fLacAAbFNx.jpg",
+      "https://cms-assets.youmind.com/media/1770792225984_z4vzfr_HAy97e0boAAPRfP.jpg",
+      "https://cms-assets.youmind.com/media/1770792226270_1m08ib_HAy97fqaAAQq8ur.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"subject\": {\n    \"name\": \"Billie Eilish\",\n    \"style\": \"Fortnite stylized 3D character model\",\n    \"pose\": \"Dynamic mid-air jump, forward-leaning, action-oriented\",\n    \"features\": {\n      \"hair\": \"Two high space buns, black hair with vibrant neon green roots/highlights\",\n      \"eyes\": \"Light blue/grey, calm and focused expression\",\n      \"skin\": \"Smooth, stylized porcelain complexion\"\n    }\n  },\n  \"outfit\": {\n    \"top\": \"Oversized neon lime green short-sleeved t-shirt\",\n    \"bottom\": \"Matching neon lime green oversized shorts\",\n    \"pattern\": \"All-over black graffiti print featuring 'Billie Eilish' text and 'Blohsh' stick-figure logos\",\n    \"accessories\": [\n      \"Stacked chunky silver chrome chain necklaces\",\n      \"Silver Blohsh pendant\"\n    ]\n  },\n  \"footwear\": {\n    \"shoes\": \"Monochromatic neon green high-top sneakers (Air Jordan 1 style)\",\n    \"socks\": \"Mid-calf neon green ribbed socks\"\n  },\n  \"environment\": {\n    \"setting\": \"Futuristic concert stage / Festival mainstage\",\n    \"lighting\": \"Dramatic neon green volumetric lighting, laser beams, glowing floor panels\",\n    \"atmosphere\": \"Vibrant green haze and digital energy effects\",\n    \"background_elements\": \"Silhouetted guitarist on a raised platform in the distance\"\n  },\n  \"technical_specs\": {\n    \"art_style\": \"High-fidelity 3D render, Unreal Engine 5 aesthetic\",\n    \"color_palette\": [\"#39FF14 (Neon Green)\", \"#000000 (Black)\", \"#C0C0C0 (Silver)\"],\n    \"composition\": \"Low angle, vertical aspect ratio, dynamic motion blur\"\n  }\n}",
+    "title": "Billie Eilish Fortnite-Style 3D Character Render",
+    "description": "A structured JSON prompt for generating a high-fidelity 3D character render of Billie Eilish in a Fortnite/Unreal Engine aesthetic. The prompt specifies her iconic neon green and black outfit (oversized t-shirt and shorts with graffiti print), space buns, dynamic mid-air pose, and dramatic volumetric neon green stage lighting, aiming for a stylized, action-oriented look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792213913_kcnqbd_HAySbbJWoAEbAG7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Such a cute character was created from Google Slides shapes!!",
+    "title": "Character Generation from Google Slides Shapes",
+    "description": "This tweet expresses surprise at the high quality of a cute character generated by Nano Banana Pro using simple shapes from Google Slides as input, implying an image-to-image or style transfer process.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792227394_gdj3wu_HAx06_FaAAA3irI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "I tried generating a maze, but I see that this kind of thing isn't possible due to the mechanism...",
+    "title": "Maze Generation Failure in Nano Banana",
+    "description": "The user attempted to generate a maze using Nano Banana, concluding that the model's underlying mechanism prevents it from successfully creating functional mazes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792227688_krjplx_HAxRB2XbEAAiyCn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate a screenshot of a real NBA game where Kobe Bryant is matched up against LeBron James at the Lakers' home court. James is defending Kobe's fadeaway jumper, and Kobe is depicted as a chibi-style baby.",
+    "title": "Chibi-Style NBA Matchup",
+    "description": "A prompt for Nano Banana Pro to create a chibi-style screenshot of a fictional NBA game where a baby-style Kobe Bryant attempts a fadeaway jumper against LeBron James at the Lakers' home court.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792195744_q9s4e8_HAxCYhKaAAcjzG3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A hyper-realistic, 8k, high-fidelity close-up shot captured with a macro lens, showcasing a giant human hand holding a keyring against an extremely blurred background of a rugged outdoor forest range. The hand holds a rugged, olive drab paracord survival strap with a small metal dog tag reading \"{argument name=\"dog tag text\" default=\"DUET AI : One Shot\"}\". Attached is a miniature character lying in a prone firing position behind a highly detailed, tiny sniper rifle with a large scope. The character has a large head, [uploaded face as reference], and is wearing a full miniature ghillie suit (camouflage) that looks incredibly textured with tiny leaves and burlap. The miniature rifle has realistic metallic and polymer textures, bipod legs, and a tiny lens flare on the scope. Natural, dappled forest sunlight highlights the camouflage textures and the metal of the rifle.",
     "title": "Macro Shot of Miniature Sniper Scene",
     "description": "A prompt for generating a hyper-realistic, high-fidelity macro close-up shot featuring a giant human hand holding a keyring. Attached to the keyring is a miniature character (with a specified face reference) in a ghillie suit, lying prone behind a highly detailed sniper rifle, set against a blurred forest background.",

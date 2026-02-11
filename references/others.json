@@ -12,6 +12,139 @@
     "needReferenceImages": true
   },
   {
+    "content": "Favorite character prompt + 'eating {argument name=\"food item\" default=\"〇〇\"}' (eating 〇〇) \nWith Nano Banana, just add it to the reference image 📷",
+    "title": "Adding Food to Character Prompts",
+    "description": "A simple tip for Nano Banana Pro users: add '+ 'eating {argument name=\"food item\" default=\"〇〇\"}' to a character prompt, and the model will incorporate the food item, especially when using a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792224841_i00oom_HAmgXSObEAAzLum.png",
+      "https://cms-assets.youmind.com/media/1770792224763_wzofz0_HAmgUaPbQAA4Szo.png",
+      "https://cms-assets.youmind.com/media/1770792224854_g0t5su_HAmgVz_acAUQYk5.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "To have the picture conveyed through text beautifully modified",
+    "title": "Prompt for Refining Text-Described Images",
+    "description": "A user notes that using Gemini's Nano Banana Pro is an easy and excellent way to refine images described in text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792220317_cu5wgg_HAzHAhEbMAALpDx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Give me the right side view of this image",
+    "title": "Generate Side View from Reference Image",
+    "description": "A simple instruction prompt for Nano Banana Pro, requesting a specific view (right side view) of a character based on a provided reference image, useful for generating model sheets or turnaround views.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792207671_1gcocn_HAy36b3WcAAx1x2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Take Delacroix's Chopin and arrange it into a different picture and output it!",
+    "title": "Image Generation Prompt: Arranging Delacroix's Chopin",
+    "description": "A user tested Nano Banana Pro (Gemini 3 Pro Image) with a prompt instructing the AI to arrange Delacroix's painting of Chopin into a different image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792221697_aq295g_HAy39fUbQAA8IIm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Take this picture (Chopin) and turn it into a different picture and output it!",
+    "title": "Image Generation Prompt: Altering a Chopin Painting",
+    "description": "A user tested Nano Banana Pro (Gemini 3 Pro Image) with a prompt instructing the AI to take a picture (Chopin) and turn it into a different picture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792222929_o0ebpe_HAy272JbgAA6Hmz.jpg",
+      "https://cms-assets.youmind.com/media/1770792223065_0i2oyc_HAy27zpa0AAj51O.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create and output one painting like Rembrandt's!",
+    "title": "Image Generation Prompt: Rembrandt Style Painting",
+    "description": "A user tested Nano Banana Pro (Gemini 3 Pro Image) with a prompt instructing the AI to create a painting in the style of Rembrandt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792221731_jo2l3q_HAy2OhxaAAAqZxh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create and output one painting like Monet's Water Lilies!",
+    "title": "Image Generation Prompt: Monet's Water Lilies Style",
+    "description": "A user tested Nano Banana Pro (Gemini 3 Pro Image) with a prompt instructing the AI to create a painting in the style of Monet's Water Lilies.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792223273_xwhqwc_HAy1lYSaUAAh5Vs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Take the Chopin painted by Delacroix and turn it into a different picture!",
+    "title": "Image Generation Prompt for Chopin in Delacroix Style",
+    "description": "A prompt for the Gemini 3 Pro Image (Nano Banana Pro) model, asking it to generate a new image based on Delacroix's painting of Chopin, but resulting in a creepy, horror-like image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792223441_xpfgxe_HAy0J_1akAApYGn.jpg",
+      "https://cms-assets.youmind.com/media/1770792223663_47nohg_HAy0J8TbwAA8J0q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Arrange Delacroix's Chopin and output it as a different picture!",
+    "title": "Image Generation Prompt for Chopin in Delacroix Style (Attempt 2)",
+    "description": "A prompt for the Gemini 3 Pro Image (Nano Banana Pro) model, asking it to arrange Delacroix's Chopin painting into a different picture, which resulted in a bizarre and unsettling image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792226305_53v1cj_HAyzM9TbkAAaEw8.jpg",
+      "https://cms-assets.youmind.com/media/1770792226039_scn5a2_HAyzM_SaAAISqFK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "SFW. No nudity, no suggestive intent.",
+    "title": "Symphogear SFW Image Generation Prompt",
+    "description": "A user provides a SFW (Safe For Work) prompt for Nano Banana Pro, likely intended to generate images related to the anime Symphogear.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792221614_quuy5y_HAybDBTbsAAYHke.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Today's theme is choosing bath toys",
+    "title": "Four-Panel Manga Prompt: Choosing Bath Toys",
+    "description": "A user created a four-panel manga using Nano Banana Pro, centered around the theme of choosing bath toys.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792220299_ui44ng_HArfkF-bEAAzruZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Gave instructions for a video prompt and it drew a picture",
+    "title": "Video Prompt Instruction for Nano Banana",
+    "description": "A user provided a video prompt instruction to Nano Banana Pro, which resulted in a relatively decent image generation, despite the tool typically generating images from video prompts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792218980_gr7dlv_HAxtZxXbMAA4Iqy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{ \"task\": \"image_restoration_upscale\", \"positive_prompt\":\n\"Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.\",\n\"negative_prompt\": \"Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.\", \"parameters\":\n{ \"steps\": 30, \"cfg_scale\": 6.5, \"denoising_strength\": 0.45,\n\"upscaler\": \"4x_NMKD_Siax_200k\", \"target_resolution\": \"4K\" } }",
+    "title": "4K Image Restoration and Upscale Prompt",
+    "description": "A structured JSON prompt template for image restoration and upscaling, designed to enhance old or grainy family photos. It specifies preserving the original identity and composition while achieving ultra-realistic, 4K quality with cinematic lighting and natural skin texture, using a strong negative prompt to prevent style alteration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792190842_ttui84_HAxjNCVaAAEjy4F.jpg",
+      "https://cms-assets.youmind.com/media/1770792190839_mdgmem_HAxjM43acAABS16.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Specify: G-pen lines, colored with marker, white background. If the stand remains, specify: also erase the stand.",
+    "title": "Plamodel Photo Style Transfer Prompt",
+    "description": "A prompt used to transform a photograph of a plastic model (plamodel) into a specific artistic style, requesting G-pen line art, marker coloring, and a white background. It also includes a refinement instruction to remove the stand if it appears in the initial generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792216791_xt95fk_HAw2kqvawAA3fyH.jpg",
+      "https://cms-assets.youmind.com/media/1770792217068_h4lo0p_HAw2kqTbMAAksZL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Favorite character prompt + only 'drink {argument name=\"drink type\" default=\"〇〇\"}' (drinking {argument name=\"drink type\" default=\"〇〇\"})",
     "title": "Character Prompt with Drinking Action for Anifusion/Nano Banana",
     "description": "A simple prompt structure for the Nano Banana model, specifically for the Anifusion tool, where you combine a favorite character prompt with a specific action like 'drink {argument name=\"drink type\" default=\"〇〇\"}'. The tweet notes that for Nano Banana, this is typically done by adding the action prompt to a reference image.",

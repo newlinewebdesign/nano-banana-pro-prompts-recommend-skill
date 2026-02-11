@@ -51,6 +51,44 @@
     "needReferenceImages": false
   },
   {
+    "content": "{\n  \"prompt\": {\n    \"subject\": \"{argument name=\\\"ship name\\\" default=\\\"USS Abraham Lincoln (CVN-72)\\\"}\",\n    \"description\": \"Cinematic industrial engineering-style infographic of the USS Abraham Lincoln (CVN-72) at sea, matching the reference photo. Ultra-precise technical rendering of the aircraft carrier viewed from a dynamic angled perspective with accurate proportions, deck markings, surface textures, and structural realism identical to the reference.\",\n    \"technical_elements\": {\n      \"dimension_lines\": [\"overall length\", \"flight deck width\", \"hull depth\", \"draft\", \"island tower height\"],\n      \"cross_section\": [\"flight deck structure\", \"hangar bay\", \"aircraft elevators\", \"nuclear reactors\", \"engine rooms\", \"crew compartments\", \"radar and command center\"],\n      \"exploded_view\": [\"aircraft elevators\", \"radar arrays\", \"catapult systems\", \"arresting gear\", \"propulsion shafts\", \"internal structural framework\"],\n      \"dynamic_diagrams\": [\"aircraft launch vectors\", \"ship movement arrows\", \"hydrodynamic flow around hull\", \"heat dissipation from reactors\"],\n      \"materials\": [\"high-strength naval steel\", \"composite deck materials\", \"reinforced alloys\", \"protective coatings\"],\n      \"manufacturing_processes\": [\"modular ship assembly\", \"precision welding\", \"steel forging\", \"coating application\"],\n      \"part_numbering\": \"Industrial naval annotation style (Part N01, N02, etc)\",\n      \"tech_data_panels\": [\"displacement\", \"top speed\", \"crew capacity\", \"aircraft capacity\", \"reactor type\", \"operational range\"],\n      \"industrial_design_elements\": [\"QR-style naval data block\", \"barcode strip\", \"micro technical schematics\"]\n    },\n    \"design_style\": {\n      \"layout\": \"layered cinematic infographic with the carrier as the central hero and surrounding technical callouts\",\n      \"color_palette\": [\"naval grey\", \"deep ocean blue\", \"white\", \"signal orange accents\"],\n      \"background\": \"open ocean fading into horizon with subtle blueprint grid overlay\",\n      \"typeface\": \"sharp industrial sans-serif with naval engineering annotation style\",\n      \"lighting\": \"dramatic directional lighting with crisp highlights on the flight deck\",\n      \"shadows\": \"controlled and sharp for technical clarity\"\n    },\n    \"overall_vibe\": \"epic naval engineering poster blending cinematic realism with professional military technical documentation\",\n    \"aspect_ratio\": \"9:16\"\n  }\n}",
+    "title": "Cinematic Engineering Infographic of USS Abraham Lincoln",
+    "description": "A highly detailed, structured JSON prompt for generating a cinematic industrial engineering-style infographic of the USS Abraham Lincoln aircraft carrier. It specifies technical elements like dimension lines, cross-sections, and exploded views, blending cinematic realism with professional military technical documentation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792192416_h535l7_HAzUkSmW0AEDzVa.jpg",
+      "https://cms-assets.youmind.com/media/1770792192441_gvm90o_HAzUkUwXYAEVpyL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Ultra-realistic cinematic food photography of a traditional dish presented on a rustic wooden table. Finished dish placed in the foreground grape-leaf rolls soup with meatballs with steam rising naturally. Ingredients floating above the dish in a clean, organized layout fresh herbs, rice, minced meat, onion, spices, olive oil, potato, chickpeas, saffron each ingredient isolated and clearly visible. Subtle curved infographic lines and minimal labels pointing to each ingredient. Warm studio lighting with soft shadows, shallow depth of field, earthy color palette, premium cookbook and food-education style. Hyper-detailed textures, realistic food surfaces, editorial culinary infographic, photorealistic, ultra-detailed, 8K quality.",
+    "title": "Cinematic Food Infographic with Floating Ingredients",
+    "description": "A prompt for generating ultra-realistic cinematic food photography of a traditional dish (grape-leaf rolls soup with meatballs). It features ingredients floating above the dish in an organized layout, combined with subtle infographic lines and labels, styled for a premium cookbook or food-education aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792190873_lyxmit_HAx7ilWaAAYrKbW.jpg",
+      "https://cms-assets.youmind.com/media/1770792190870_fs93pc_HAx7ip5aAAE2MIb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "From raw object to factory-grade blueprint\nPrecision visualized with Gemini Nano Banana Pro on @lovart_ai",
+    "title": "Raw Object to Factory Blueprint Prompt",
+    "description": "A prompt designed for Gemini Nano Banana Pro to visualize precision, transforming a raw object concept into a factory-grade blueprint visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792193680_lno75s_HAxTzJ3agAAFm4H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"request_type\": \"HyperRealistic_Infographic_Generator\",\n  \"environment_config\": {\n    \"cuisine_theme\": \"{argument name=\"cuisine theme\" default=\"Arabic\"}\",\n    \"background_surface\": \"Rustic_Aged_Wood\",\n    \"lighting_model\": \"Cinematic_Studio_Warm\",\n    \"atmosphere_effects\": [\"High_Density_Steam\", \"Motion_Freeze_Action\"]\n  },\n  \"visual_composition\": {\n    \"anchor_element\": {\n      \"object\": \"Traditional_Middle_Eastern_Ceramic_Bowl\",\n      \"state\": \"Steaming_Hot_Platter\",\n      \"position\": \"Bottom_Center\"\n    },\n    \"dynamic_elements\": {\n      \"arrangement\": \"Vertical_Levitation_Gravity_Defying\",\n      \"ingredients\": [\n        \"{argument name=\"main ingredient\" default=\"Slow_Cooked_Shredded_Lamb\"}\",\n        \"Crispy_Tofu_Cubes\",\n        \"Viscous_Glossy_Tomato_Sauce_Splashes\",\n        \"Fresh_Cilantro_and_Mint_Sprigs\",\n        \"Whole_Red_and_Green_Chilies\",\n        \"Symmetrical_Lime_Slices\",\n        \"Whole_Garlic_Bulbs_and_Cloves\",\n        \"Golden_Fried_Shallots\"\n      ]\n    }\n  },\n  \"graphic_design_layer\": {\n    \"annotation_style\": \"Editorial_Magazine_Infographic\",\n    \"language\": \"Indonesian\",\n    \"typography\": {\n      \"font_weight\": \"Bold_Clean_Sans\",\n      \"connector_lines\": \"Thin_White_Minimalist\"\n    },\n    \"labels\": [\n      \"Tender Meat\",\n      \"Crispy Fried Tofu\",\n      \"Sauce Splashes\",\n      \"Fresh Herbs\",\n      \"Chili\",\n      \"Lime\",\n      \"Garlic\",\n      \"Fried Shallots\"\n    ]\n  },\n  \"technical_output_specs\": {\n    \"camera_settings\": \"Shallow_Depth_of_Field_Macro\",\n    \"texture_detail\": \"8K_Ultra_Detailed_PBR\",\n    \"rendering_engine\": \"DSLR_Look_High_Fidelity\"\n  }\n}",
+    "title": "Hyper-Realistic Arabic Infographic Generator Prompt",
+    "description": "A highly structured, detailed JSON prompt designed for the Gemini Nano Banana Pro model to generate a hyper-realistic infographic of an Arabic-themed dish. It specifies the environment, lighting, visual composition, dynamic elements like levitating ingredients, and graphic design annotations in Indonesian, aiming for a high-fidelity, cinematic macro photograph look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792215702_3p6s0k_HAxC6upaAAAAWq-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Generate a high quality infographic explaining beer making in a Trappist Abbey with rich illustrations.",
     "title": "Infographic on Trappist Abbey Beer Making",
     "description": "A prompt for generating a high-quality infographic that explains the process of beer making in a Trappist Abbey, requiring rich illustrations to accompany the text.",
