@@ -18,6 +18,26 @@
     "needReferenceImages": false
   },
   {
+    "content": "Prompt 1:\n\"Use this image in a retro-style Indian movie poster or magazine cover featuring a young woman with shoulder-length wavy black hair, wearing an emerald green silk saree with intricate gold zari motifs. She is making a playful and cheerful face and looking slightly to the side. A single white daisy is tucked behind her ear.\nBehind her, large, tall, bold vintage typography reads “ALICE.” in dark forest green. The background is a textured pale mint color, adorned with vintage botanical illustrations of pink peonies and cream roses on the bottom left and right. Small serif text at the top reads “Face of a Golden Era.”\nThe image has a nostalgic, grainy film texture with soft lighting.\"\n\nPrompt 2:\n\"A cinematic, hyper-realistic portrait of a girl (100% matched the face reference) sitting casually on large 3D golden letters spelling \"ALICE.\" He wears a dark hoodie, blue ieans, and white sneakers. Behind him, dramatic golden black, and white smoke bursts outward against a dark backdrop. Ultra-detailed 8K quality, with cinematic lighting, subtle reflections on the floor, and a bold modern, and powerful atmosphere.\"",
+    "title": "Retro and Modern Name Poster Prompts",
+    "description": "Two distinct prompts for generating personalized 'ALICE' posters: one in a retro Indian movie poster style with vintage typography, and another in a modern, hyper-realistic cinematic style with 3D golden letters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770878329834_ink5db_HA5KZyLa4AAmSjK.jpg",
+      "https://cms-assets.youmind.com/media/1770878329925_y6uwma_HA5KZyJbcAApcVh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Transform the photo into a colorful pop-art comic panel with bold outlines, halftone texture, bright contrast, speech bubble saying ‘{argument name=\"speech bubble text\" default=\"Fresh Drop!\"}’ and graphic comic effects.”",
+    "title": "Transform Photo into Pop Art Comic Panel",
+    "description": "A prompt for transforming an existing photograph into a colorful pop art comic panel, specifying stylistic elements like bold outlines, halftone texture, bright contrast, and adding a speech bubble with text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770878357571_04fnjv_HA4YmfyaMAAhXO6.jpg",
+      "https://cms-assets.youmind.com/media/1770878357468_dnm4wc_HA4Ymfza0AA7gR6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Super dynamic Anime art of the 【{argument name=\"character name\" default=\"REFERENCED CHARACTER OR ANIME CHARACTER NAME\"}】referenced character 【〈  REMOVE SECTION FOR MORE CREATIVE RESULTS〉with his exact exact characteristics and facial expressions lineart-proportions】 in the exact same artstyle in battle with his signature energy matching the vibe of the referenced image, power and aura surrounding them, anime style, high resolution, high quality, high detail, dramatic anime background matching background of referenced image, anime key visual, write 【{argument name=\"text to write\" default=\"TEXT\"}】 on the 【{argument name=\"text position\" default=\"POSITION\"}】 in japanese at the attack in a chaotic and dramatic anime font that fits the power and energy of the attack, anime key poster.",
     "title": "Dynamic Anime Battle Poster with Japanese Text",
     "description": "A template prompt for generating a super dynamic anime battle poster featuring a referenced character. It specifies using the exact art style and characteristics of the reference, surrounding them with power and aura, and including dramatic Japanese text in a specific position to match the energy of the attack.",

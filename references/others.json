@@ -12,6 +12,15 @@
     "needReferenceImages": true
   },
   {
+    "content": "Zoom in close on this characters nose.\nAnd give me photographic details.",
+    "title": "Close-up Character Nose Prompt",
+    "description": "A simple prompt for Nano Banana Pro requesting a close-up, photographic detail shot focused specifically on a character's nose.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770878368044_exa7al_HA4qa30boAAI9uM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Favorite character prompt + 'eating {argument name=\"food item\" default=\"〇〇\"}' (eating 〇〇) \nWith Nano Banana, just add it to the reference image 📷",
     "title": "Adding Food to Character Prompts",
     "description": "A simple tip for Nano Banana Pro users: add '+ 'eating {argument name=\"food item\" default=\"〇〇\"}' to a character prompt, and the model will incorporate the food item, especially when using a reference image.",

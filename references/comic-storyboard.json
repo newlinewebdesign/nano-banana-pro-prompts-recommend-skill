@@ -1,5 +1,16 @@
 [
   {
+    "content": "Use the woman in the attached image as the main character.\nThe setting is a fantastical indoor space surrounded by bananas, identical to the attached image.\nZombies attack one after another in a space lined with banana trees and giant banana objects.\nThe banana fairy girl quickly grabs bananas around her and throws them in rapid succession.\nThe only weapon is bananas.\nThe bananas fly straight while spinning at high speed, hitting the zombies' heads.\nThe moment of impact is in slow motion.\nStrong shockwave effects, light trails, dynamic motion blur.\nThe hit zombies are blown away, collapsing while shaking the surrounding banana decorations.\nThe girl jumps onto a giant banana and throws bananas accurately while spinning.\nEmphasize the impact with a low-angle hero shot.\nDynamic tracking camera following the flying bananas.\n\nCamera Direction:\n・High-speed dolly-in towards the girl\n・Intense handheld-style shake when zombies approach\n・Slow motion upon banana impact\n・Smooth tracking shot following the flying bananas\n・Tense low angle\n\nLighting:\nStrong contrast\nRim light emphasizing contours\nContrast with the fantastical gold interior light\n\nStyle:\nAnime Cinematic Action\nHigh definition\nSmooth animation\nStrong motion blur\nDynamic composition\nDepth of field\n\nAtmosphere:\nTension\nThrilling\nHeroic\n\nNo text\nNo subtitles",
+    "title": "Cinematic Action Video Prompt: Banana Fairy vs. Zombies",
+    "description": "A detailed video generation prompt for Vidu AI, creating a cinematic action scene where a banana fairy girl fights off zombies using only bananas as weapons in a fantastical indoor space filled with banana decorations. The prompt includes specific instructions for character, setting, action, camera work, lighting, and style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770878363155_j0p2xp_HAwN8BubgAAK_vy.jpg",
+      "https://cms-assets.youmind.com/media/1770878363300_ma64sk_HAwN8BxbUAASFKU.jpg",
+      "https://cms-assets.youmind.com/media/1770878363149_3ccar2_HAwN8BwbAAAka5J.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Just give instructions like turning the carousel story into a comic creative",
     "title": "B2B Meta Ad Carousel Story Creation Prompt",
     "description": "A high-level instruction for Nano Banana Pro to generate a series of images suitable for a carousel ad format, specifically requesting the creation of a story-based comic strip creative for B2B Meta advertising.",

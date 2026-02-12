@@ -9,6 +9,58 @@
     "needReferenceImages": false
   },
   {
+    "content": "{\n  \"image_generation_prompt\": {\n    \"subject_composition\": {\n      \"type\": \"Selfie portrait\",\n      \"subjects\": [\n        {\n          \"position\": \"Left\",\n          \"appearance\": {\n            \"gender\": \"Female\",\n            \"hair\": \"Long, voluminous dark brunette, middle part, soft waves\",\n            \"makeup\": \"Full glam, matte finish, heavy blush, sculpted brows, matte nude pouty lips\",\n            \"clothing\": \"{argument name=\"left clothing\" default=\"Red latex camisole\"} with spaghetti straps, high sheen material\"\n          }\n        },\n        {\n          \"position\": \"Right\",\n          \"appearance\": {\n            \"gender\": \"Female\",\n            \"hair\": \"Long dark brunette, swept back\",\n            \"makeup\": \"Full glam, dewy skin, rosy cheeks, glossy nude pouty lips\",\n            \"clothing\": \"Black strapless bustier top\",\n            \"accessories\": [\n              \"Black sunglasses resting on top of head\",\n              \"Diamond stud earring\"\n            ]\n          }\n        }\n      ],\n      \"interaction\": \"Heads leaning together, cheek-to-cheek, both making kissing/pouty faces at the camera\"\n    },\n    \"environment\": {\n      \"setting\": \"Outdoors, daytime\",\n      \"background_elements\": \"Brown metal privacy screen with geometric star-shaped cutouts, green tree foliage visible above and behind fence\"\n    },\n    \"technical_specs\": {\n      \"resolution\": \"4K Ultra HD\",\n      \"quality\": \"Photorealistic, highly detailed\",\n      \"lighting\": \"Natural bright sunlight, warm golden hour tones, hard shadows, specular highlights on skin and latex\",\n      \"camera_style\": \"Smartphone selfie angle, wide aperture, sharp focus on faces\"\n    },\n    \"style_tags\": [\n      \"Influencer style\",\n      \"Celebrity photography\",\n      \"High fashion\",\n      \"Social media aesthetic\",\n      \"Glamour shot\"\n    ]\n  }",
+    "title": "Influencer Style Selfie of Two Women Pouting",
+    "description": "A structured prompt for generating a high-glamour, influencer-style selfie of two women (one in red latex, one in a black bustier) leaning together and pouting, set outdoors against a geometric privacy screen during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770878354397_esh9jk_HA5jTlkXsAARRaQ.jpg",
+      "https://cms-assets.youmind.com/media/1770878354474_q3hhcf_HA5jTglXwAAifcP.jpg",
+      "https://cms-assets.youmind.com/media/1770878354514_03byhf_HA5jTp1WAAEt-94.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"image_generation_request\": {\n    \"meta\": {\n      \"type\": \"photograph\",\n      \"style\": \"candid, elegant, intimate\",\n      \"aspect_ratio\": \"vertical\"\n    },\n    \"subject\": {\n      \"demographics\": \"Young woman, petite build\",\n      \"face_reference_constraint\": {\n        \"instruction\": \"Strict adherence to the facial features of {argument name=\"celebrity name\" default=\"Sabrina Carpenter\"}. Heart-shaped face, blue eyes, specific facial structure.\"\n      },\n      \"appearance\": {\n        \"skin\": \"Fair complexion with a natural glow\",\n        \"hair\": \"Blonde, voluminous, and textured. Styled in a messy bun with her signature curtain bangs framing the face.\"\n      },\n      \"expression\": \"Soft, alluring, and confident. Slight smile, looking into the mirror/phone.\",\n      \"pose\": \"Mirror selfie captured from the waist up. Right hand holds the phone with a patterned case. Left hand is placed firmly on her hip in a confident stance.\",\n      \"attire\": {\n        \"garment\": \"White plush bath towel secured across the chest.\",\n        \"accessories\": \"Smartphone with a light-colored patterned case.\"\n      }\n    },\n    \"environment\": {\n      \"location\": \"Luxurious marble bathroom.\",\n      \"architectural_details\": \"Warm beige marble walls, glass shower enclosure in background, warm ambient lighting.\",\n      \"background_elements\": \"Reflections of the bathroom interior in the mirror.\"\n    },\n    \"cinematography\": {\n      \"shot_type\": \"Mirror selfie frame.\",\n      \"framing\": \"Waist-up.\",\n      \"lighting\": \"Soft, warm, flattering overhead lighting.\",\n      \"color_palette\": \"Warm neutrals, gold, white, and soft skin tones.\",\n      \"mood\": \"Playful, intimate, luxurious.\"\n    }\n  }\n}",
+    "title": "Sabrina Carpenter Mirror Selfie in a Luxurious Marble Bathroom",
+    "description": "A highly detailed, structured prompt designed to generate an ultra-realistic photograph of Sabrina Carpenter taking an intimate mirror selfie in a luxurious marble bathroom, focusing heavily on specific facial features, attire (white bath towel), and warm, flattering lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770878350153_u4082f_HA3eTddaEAAMw42.jpg",
+      "https://cms-assets.youmind.com/media/1770878350105_i52h0c_HA3eX_mb0AEEROR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "\"Restore this old photo into professional portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity......\"",
+    "title": "Old Photo Restoration to DSLR Quality",
+    "description": "A prompt designed for image restoration, instructing the AI to transform an old photo into a professional, DSLR-quality portrait with enhanced color and detail, comparable to results from a Canon EOS R6 II. It emphasizes retaining exact facial features and achieving natural clarity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770878345359_2xsndl_HA3Ymu9bUAA5AWE.jpg",
+      "https://cms-assets.youmind.com/media/1770878345345_0868oh_HA3YnCEbYAAUmEp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "high-end studio portrait using the uploaded photo as the main subject. The person stands smiling against a clean, minimal background in soft neutral tones, holding a large vertical poster in front of them. The poster features an artistic reinterpretation of the same uploaded photo — stylized as a digital illustration, sketch, or painterly artwork — clearly recognizable as the same face. Professional studio lighting with a soft key light and subtle rim light creates gentle shadows and depth. The subject’s expression is calm and confident, body posture relaxed yet strong, evoking a modern personal brand identity. Clean composition, balanced framing, premium editorial aesthetic, shallow depth of field, ultra-realistic skin texture, crisp details, contemporary creator branding vibe, cinematic realism, 1:1 aspect ratio, high resolution.”",
+    "title": "Editorial Portrait Holding Poster of Self",
+    "description": "A prompt for generating a high-end studio portrait where the subject (based on an uploaded photo) stands holding a large poster that features an artistic reinterpretation of their own face, emphasizing professional lighting, clean composition, and a contemporary personal brand identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770878358866_mld9f8_HA2p-iKaAAEPUW3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Ultra-realistic passport-size photo of me (exact face likeness, 100% match, no facial changes).\"..\"style\": \"Professional studio portrait suitable for official ID or passport use.\", \"outfit\": \" {argument name=\"attire\" default=\"white coller shirt and matching tie\"} with branded modern\", \"expression\": \"Neutral closed-lip smile, straight look, both ears visible, shoulders included",
+    "title": "Convert Photo to Professional Passport Size Image",
+    "description": "A prompt designed to convert an uploaded personal photo into an ultra-realistic, professional passport-size photo suitable for official ID use, ensuring exact facial likeness and specifying formal attire and neutral expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770878359397_14g393_HA2or22agAAUu-g.jpg",
+      "https://cms-assets.youmind.com/media/1770878359353_h1l14u_HA2or7HbYAEdJbC.jpg",
+      "https://cms-assets.youmind.com/media/1770878360288_tv95uw_HA2osU9aEAAHrfA.jpg",
+      "https://cms-assets.youmind.com/media/1770878360966_8v90iw_HA2or3OaAAIc_-8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "{\n  \"image_generation_prompt\": {\n    \"subject_details\": {\n      \"identity\": \"Luna: A young woman with long, wet, VIBRANT SOLID RED hair and luminous fair porcelain skin.\",\n      \"face\": \"Close-up selfie perspective; natural face with a slight pout and piercing green eyes. Forehead and upper lip are covered in realistic, fine sweat droplets from the intense heat.\",\n      \"skin_texture\": \"Hyper-realistic skin detail with visible pores, micro-textures, and a glistening sun-kissed sheen. ABSOLUTELY NO TATTOOS (asla dövme yok).\",\n      \"body_specs\": \"165cm height, 55kg weight; slender and fit hourglass frame. Visible collarbones with sweat glistening in the sunlight.\"\n    },\n    \"outfit_and_styling\": {\n      \"clothing\": \"Vibrant bold red triangle bikini top; simple and minimalist design.\",\n      \"accessories\": \"A thin gold chain necklace resting on her chest; small gold hoop earrings.\",\n      \"hair_style\": \"Wet-look red hair, messy and textured as if just coming out of the ocean, individual strands clinging to her damp skin.\"\n    },\n    \"environment_context\": {\n      \"setting\": \"Bright tropical beach in the middle of a hot summer day.\",\n      \"background\": \"White sandy beach and turquoise ocean water under a clear blue sky. Softly blurred tropical palm trees in the far distance.\",\n      \"lighting\": \"Harsh, direct midday sun creating high-contrast highlights on her face and wet hair. Sharp, natural shadows.\"\n    },\n    \"technical_specifications\": {\n      \"camera\": \"Direct front-facing smartphone selfie (not a mirror selfie); 24mm wide-angle lens aesthetic.\",\n      \"composition\": \"Close-up portrait framing, arm extended for a natural handheld selfie look. Depth of field isolates Luna from the beach background.\",\n      \"visual_style\": \"Ultra-photorealistic, 8k resolution, RAW photo quality. Natural skin flushing (redness) from the heat.\",\n      \"negative_prompt\": \"mirror, reflection, holding phone, tattoos, ink, body art, blonde hair, brown hair, black hair, thick legs, muscular build, heavy build, airbrushed, plastic skin, 3d render, cartoon.\"\n    }\n  }\n}",
     "title": "Hyper-realistic Beach Selfie Portrait",
     "description": "A detailed JSON prompt for Gemini Nano Banana Pro, generating an ultra-photorealistic, close-up beach selfie portrait of a woman named Luna. It specifies vibrant red wet hair, porcelain skin with visible sweat droplets, a red bikini, harsh midday sun lighting, and strict negative prompts against tattoos or artificial looks.",
