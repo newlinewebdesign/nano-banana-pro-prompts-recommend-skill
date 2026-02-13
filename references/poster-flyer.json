@@ -18,6 +18,33 @@
     "needReferenceImages": false
   },
   {
+    "content": "poster of {argument name=\"personality\" default=\"PERSONALITY\"}| standing on hill |centered| key visual| intricate| highly detailed| breathtaking| precise lineart| vibrant| panoramic| cinematic| Carne Griffiths| Conrad Roset",
+    "title": "Idol Poster/Banner Generation Template",
+    "description": "A short, structured prompt template for generating a highly detailed, cinematic poster or banner of a personality standing on a hill, utilizing artistic styles like Carne Griffiths and Conrad Roset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770964564307_4ocmf0_HA-FabobsAUAFra.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"objective\": \"Create a side-by-side visual comparison ofHagia Sophia, featuring a technical architectural sketch and a real-life photograph\",\n  \"image_specifications\": {\n    \"style\": \"Mixed media (Architectural drawing + Real photography)\",\n    \"layout\": \"2-part horizontal split\",\n    \"aspect_ratio\": \"3:2\"\n  },\n  \"left_side\": {\n    \"content_type\": \"Technical sketch or blueprint of the selected World Wonder\",\n    \"features\": [\n      \"Accurate structural proportions\",\n      \"Labeled dimensions depth\",\n      \"Architectural elevation views or cutaways\",\n      \"Text annotations in native or English language\"\n    ],\n    \"text_annotations\": {\n      \"units\": \"Metric or imperial, based on region\",\n      \"details\": [\n        \"Construction phases\",\n        \"Material notes\",\n        \"Architectural labels\"\n      ],\n      \"font_style\": \"Engineering or blueprint-styled text\"\n    },\n    \"visual_style\": \"Monochrome, line art, or sepia blueprint\",\n    \"positioning\": \"Left half of the image\"\n  },\n  \"right_side\": {\n    \"content_type\": \"High-resolution real-world image of the selected World Wonder\",\n    \"features\": [\n      \"Wide-angle view or frontal perspective\",\n      \"Natural or ambient lighting\",\n      \"Color photo with environment context surroundings\"\n    ],\n    \"positioning\": \"Right half of the image\"\n  },\n  \"visual_elements\": {\n    \"border_division\": \"Clean vertical split or blended transition\",\n    \"comparison_focus\": \"Contrast between design concept and real-world result\"\n  },\n  \"output_format\": {\n    \"type\": \"Image\",\n    \"high_resolution\": true,\n    \"use_case\": [\n      \"Educational poster\",\n      \"Architectural showcase\",\n      \"Tourist guide\",\n      \"Infographic series\"\n    ]\n  },\n  ]",
+    "title": "Side-by-Side Architectural Comparison of Hagia Sophia",
+    "description": "A JSON prompt designed to generate a side-by-side image comparing the Hagia Sophia, featuring a technical architectural sketch on the left and a high-resolution, real-world photograph on the right, suitable for educational or architectural showcase use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770964557847_jd2hsg_HA-Ca1MXoAA7ztD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Professional studio product poster of a futuristic branded drone copter, centered hero composition. The drone is the dominant subject, highly detailed industrial design, aerodynamic arms, premium materials, subtle surface texture, realistic reflections.\n\nPlace the title \"{argument name=\"bold word\" default=\"BOLD WORD\"} RegularWord\" in a modern sans-serif font at the top center, perfectly balanced. The first word bold, second word regular weight. The title must be smaller in scale than the drone.\n\nApply the {argument name=\"brand name\" default=\"BRAND NAME\"} logo clearly visible and integrated on the drone body, proportionally scaled and legible.\n\nAdd a smaller monochrome version of the {argument name=\"brand name 2\" default=\"BRAND NAME\"} logo in the bottom left corner.\n\nBackground: off-white studio backdrop with subtle halftone texture at very low opacity, minimal and clean.\n\nLighting: soft studio lighting, diffused shadows, premium product photography look, sharp focus, high resolution, minimal color palette, professional commercial poster layout.\n\nAspect ratio [X:X], ultra-detailed, 4k, clean graphic balance.",
+    "title": "Futuristic Branded Drone Product Poster",
+    "description": "A reusable prompt template for generating a professional studio product poster of a futuristic branded drone. It allows customization of the brand name and a bold word in the title. The prompt specifies a centered hero composition, highly detailed industrial design, clean off-white studio background, and soft studio lighting for a premium commercial look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770964567711_s2znh2_HA9HcpUbYAAzi--.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Prompt 1:\n\"Use this image in a retro-style Indian movie poster or magazine cover featuring a young woman with shoulder-length wavy black hair, wearing an emerald green silk saree with intricate gold zari motifs. She is making a playful and cheerful face and looking slightly to the side. A single white daisy is tucked behind her ear.\nBehind her, large, tall, bold vintage typography reads “ALICE.” in dark forest green. The background is a textured pale mint color, adorned with vintage botanical illustrations of pink peonies and cream roses on the bottom left and right. Small serif text at the top reads “Face of a Golden Era.”\nThe image has a nostalgic, grainy film texture with soft lighting.\"\n\nPrompt 2:\n\"A cinematic, hyper-realistic portrait of a girl (100% matched the face reference) sitting casually on large 3D golden letters spelling \"ALICE.\" He wears a dark hoodie, blue ieans, and white sneakers. Behind him, dramatic golden black, and white smoke bursts outward against a dark backdrop. Ultra-detailed 8K quality, with cinematic lighting, subtle reflections on the floor, and a bold modern, and powerful atmosphere.\"",
     "title": "Retro and Modern Name Poster Prompts",
     "description": "Two distinct prompts for generating personalized 'ALICE' posters: one in a retro Indian movie poster style with vintage typography, and another in a modern, hyper-realistic cinematic style with 3D golden letters.",

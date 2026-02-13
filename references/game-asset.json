@@ -1,5 +1,24 @@
 [
   {
+    "content": "\"{argument name=\"subject\" default=\"SUBJECT\"}, ultra realistic 3D render, smooth inflated glossy plastic material, soft pillowy balloon like contours, subtle stitched panel seams and paneling, high specular highlights, clean reflections, soft contact shadows, designer collectible toy aesthetic, cute proportions, premium polished finish, floating centered, plain light gray studio background, soft diffused studio lighting, sharp focus, high resolution, 8k, 1:1, no text, no logo, no watermark.”",
+    "title": "Ultra-Realistic 3D Inflatable Object Render",
+    "description": "A prompt designed to generate ultra-realistic 3D renders of an object (Valentine themed in this case) with a glossy, inflated plastic material, focusing on smooth contours, high specular highlights, and a designer collectible toy aesthetic against a plain studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770964562164_scltfz_HA9eg56XMAAl22f.jpg",
+      "https://cms-assets.youmind.com/media/1770964562173_si47ao_HA9eg66aIAAsjuU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A high impact fisheye product photo of the character, shown full-body in warped forced perspective. The head is immense in the foreground, limbs taper into blur, cartoonish yet grounded in realistic detail. Pose: The character leans slightly forward, stepping into the viewer’s space. The oversized head pushes closest to the lens, eyes sharp and engaging, while the arms hang loosely at its sides. Shoes recede into deep blur, vanishing into the background. Camera: Fisheye macro, 15–20mm lens, tilted slightly upward to exaggerate the forward lean. Lighting: Strong frontal light reveals fine surface textures, with soft fill shadow along the torso and a faint rim halo separating the figure from the backdrop. Eyes: Eyes are emphasized with dimensional lighting subtle gradients across the surface, crisp specular highlights, and surrounding contrast shadows to add depth and expression without altering their shape. Background: Neutral infinite fade in soft grey/white, with no visible floor or horizon. Material Focus: Extreme emphasis on surface qualities textures, finishes, and subtle reflections are captured with high fidelity, whether matte, soft, or powdery. Gloves appear simple and soft, shoes trail into blur with faint sheen. Emotion: Direct and intimate the figure feels like it’s leaning out of the photo toward you, demanding presence. Negative prompt: No props, no clutter, no flat neutral standing pose",
+    "title": "Fisheye Product Photo with Forced Perspective",
+    "description": "A prompt designed to create a high-impact, cartoonish yet realistic product photo using a fisheye lens effect, emphasizing warped forced perspective where the character's head is immense in the foreground and limbs taper into blur.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770964551753_kfnoyd_HA79LnFbsAEnZIn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Use the woman in the attached image as the main character.\nThe setting is a fantastical indoor space surrounded by bananas, identical to the attached image.\nZombies attack one after another in a space lined with banana trees and giant banana objects.\nThe banana fairy girl quickly grabs bananas around her and throws them in rapid succession.\nThe only weapon is bananas.\nThe bananas fly straight while spinning at high speed, hitting the zombies' heads.\nThe moment of impact is in slow motion.\nStrong shockwave effects, light trails, dynamic motion blur.\nThe hit zombies are blown away, collapsing while shaking the surrounding banana decorations.\nThe girl jumps onto a giant banana and throws bananas accurately while spinning.\nEmphasize the impact with a low-angle hero shot.\nDynamic tracking camera following the flying bananas.\n\nCamera Direction:\n・High-speed dolly-in towards the girl\n・Intense handheld-style shake when zombies approach\n・Slow motion upon banana impact\n・Smooth tracking shot following the flying bananas\n・Tense low angle\n\nLighting:\nStrong contrast\nRim light emphasizing contours\nContrast with the fantastical gold interior light\n\nStyle:\nAnime Cinematic Action\nHigh definition\nSmooth animation\nStrong motion blur\nDynamic composition\nDepth of field\n\nAtmosphere:\nTension\nThrilling\nHeroic\n\nNo text\nNo subtitles",
     "title": "Cinematic Action Video Prompt: Banana Fairy vs. Zombies",
     "description": "A detailed video generation prompt for Vidu AI, creating a cinematic action scene where a banana fairy girl fights off zombies using only bananas as weapons in a fantastical indoor space filled with banana decorations. The prompt includes specific instructions for character, setting, action, camera work, lighting, and style.",

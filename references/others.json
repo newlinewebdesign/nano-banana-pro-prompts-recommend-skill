@@ -12,6 +12,66 @@
     "needReferenceImages": true
   },
   {
+    "content": "enhance and colorize the first image I uploaded, using the colors of the second image as a reference",
+    "title": "Image Enhancement and Colorization Prompt",
+    "description": "A prompt in Spanish instructing the AI to enhance and colorize the first uploaded image, using the colors from the second uploaded image as a reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770964581069_z6hykh_HA_JVfOXgAEEdNR.jpg",
+      "https://cms-assets.youmind.com/media/1770964581173_hylidt_HA_JU5CbIAAAwqh.png",
+      "https://cms-assets.youmind.com/media/1770964581370_go8sov_HA_JWFtWwAADq4F.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Generate the Queen of the Night from Mozart's opera 'The Magic Flute'!\n\nNext,\n\nMake it look like she is singing the aria 'Der Hölle Rache kocht in meinem Herzen' (The Vengeance of Hell Boils in My Heart)...",
+    "title": "The Magic Flute - Queen of the Night Prompt",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting an image of the Queen of the Night from Mozart's opera 'The Magic Flute', specifically depicting her singing the aria 'Der Hölle Rache kocht in meinem Herzen' (The Vengeance of Hell Boils in My Heart).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770964578048_zy2sp6_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770964578116_wckgtw_HA921nYbIAAAkyE.jpg",
+      "https://cms-assets.youmind.com/media/1770964578106_6o8v3j_HA921l1boAAI1Ji.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Deep gradient background with subtle atmospheric fade.\nForeground soft blur,\nmidground clarity,\nbackground fade into light,\nmuted tonal transitions,\ncinematic depth feel.",
+    "title": "Premium Depth Gradient for Atmospheric Realism",
+    "description": "A short, effective prompt focusing on achieving cinematic atmospheric perspective and depth in an image by controlling the blur and fade across the foreground, midground, and background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770964554537_oeghvi_HA9jGr0W4AA4eu6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate a Chagall-style painting depicting the battle between Izanagi and Izanami from Megami Tensei, and Lucifer, with Krishna, Ganesha, and Cú Chulainn added!",
+    "title": "Megami Tensei Pantheon Battle Prompt",
+    "description": "A complex prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting a Chagall-style painting depicting a battle between Japanese deities Izanagi and Izanami, and Lucifer, with the addition of Hindu and Celtic figures Krishna, Ganesha, and Cú Chulainn, resulting in a 'token explosion'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770964578310_xb9l6y_GCRihaybMAAN19f.jpg",
+      "https://cms-assets.youmind.com/media/1770964578460_ukbeyx_HA8xRJvb0AAevVY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Cinematic portrait restoration. Strictly preserve original pose, expression, and composition. Add warm golden-hour side lighting casting a defined, dramatic shadow on the wall behind. Upscale to Ultra-HD: sharpen details, enhance realistic skin texture, and reduce noise. Mood: Mysterious, high-contrast, warm highlights, deep shadows, photorealistic.",
+    "title": "Cinematic Portrait Restoration with Golden-Hour Lighting",
+    "description": "A prompt for image restoration tasks, instructing the model to strictly preserve the original pose and composition while adding dramatic golden-hour side lighting and upscaling the image to Ultra-HD with enhanced skin texture and reduced noise.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770964559574_6kzdro_HA7_BDIbsAQVjZx.jpg",
+      "https://cms-assets.youmind.com/media/1770964559577_zh4dsh_HA7_BWbbsAYWtpX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"prompt_type\": \"ultra_realistic_cinematic_full_body_disintegration\",\n  \"base_style\": \"ultra-realistic, cinematic, photo-real digital painting, hyper-detailed, dramatic high-contrast lighting\",\n  \"quality_tags\": [\n    \"8K resolution\",\n    \"masterpiece\",\n    \"best quality\",\n    \"ultra high detail\",\n    \"photorealistic textures\",\n    \"cinematic color grading\",\n    \"sharp focus\",\n    \"volumetric lighting\",\n    \"HDR\",\n    \"realistic skin texture\",\n    \"subtle film grain\"\n  ],\n  \"subject\": {\n    \"gender\": \"female\",\n    \"view\": \"full-body side profile facing right\",\n    \"face_reference\": \"use provided face reference exactly with zero alterations\",\n    \"facial_accuracy\": \"exact facial structure, skin tone, eye shape, nose, lips, bone structure, hairstyle replicated perfectly\",\n    \"expression\": \"deep introspection and sorrow, subtle tension in eyebrows, slightly parted lips, soft emotional heaviness\",\n    \"eyes\": \"looking downward with emotional depth\",\n    \"hairstyle\": \"copied exactly from reference image, no changes in length, texture, or styling\"\n  },\n  \"pose\": {\n    \"description\": \"elegant sorrowful stance\",\n    \"posture\": \"slightly forward-leaning posture, shoulders gently lowered\",\n    \"hands\": \"hands positioned naturally according to pose, relaxed yet emotionally expressive\",\n    \"body_language\": \"introspective, vulnerable, emotionally weighted\"\n  },\n  \"outfit\": {\n    \"description\": \"flowing, textured fabric outfit that reacts naturally to wind and light\",\n    \"material_detail\": \"fine fabric fibers, realistic folds, subtle fabric translucency\",\n    \"color\": \"muted neutral tones to complement monochrome environment\"\n  },\n  \"disintegration_effect\": {\n    \"coverage\": \"nearly half of the body dissolving\",\n    \"affected_areas\": [\n      \"left arm\",\n      \"left shoulder\",\n      \"left torso\",\n      \"left leg\",\n      \"portion of hair\"\n    ],\n    \"effect_type\": \"thick cloud-like grey smoke\",\n    \"particle_detail\": \"glowing yellow dust particles embedded within smoke\",\n    \"transparency\": \"gradual transparency transitioning into luminous particle dispersion\",\n    \"motion\": \"active disintegration mid-process, particles drifting outward dynamically\",\n    \"lighting_interaction\": \"particles catching rim light and glowing intensely\"\n  },\n  \"background\": {\n    \"environment\": \"minimal desolate concrete or paved surface\",\n    \"sky\": \"heavily overcast dramatic sky\",\n    \"atmosphere\": \"moody, cinematic, emotionally heavy\"\n  },\n  \"backlight_object\": {\n    \"type\": \"massive glowing circular energy sphere\",\n    \"light_color\": \"fiery golden-white plasma\",\n    \"function\": \"powerful rim and backlight\",\n    \"effect\": \"strong silhouette separation, dramatic edge lighting on smoke and particles\",\n    \"plasma_detail\": \"radiating energy waves, subtle solar flare effects, bloom and glow\"\n  },\n  \"lighting\": {\n    \"style\": \"extreme high-contrast cinematic lighting\",\n    \"rim_light\": \"intense golden-whi\"\n  }\n}",
+    "title": "Cinematic Disintegration Effect Portrait",
+    "description": "An extremely detailed, structured prompt for generating an ultra-realistic, cinematic digital painting of a female subject (Sydney Sweeney reference) undergoing a dramatic disintegration effect (turning into grey smoke and glowing yellow particles), set against a desolate, high-contrast environment with a massive golden-white energy sphere providing intense backlighting. This prompt requires a specific face reference for accuracy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770964574939_d1vbfd_HA7sqvIb0AAO2lO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Zoom in close on this characters nose.\nAnd give me photographic details.",
     "title": "Close-up Character Nose Prompt",
     "description": "A simple prompt for Nano Banana Pro requesting a close-up, photographic detail shot focused specifically on a character's nose.",
